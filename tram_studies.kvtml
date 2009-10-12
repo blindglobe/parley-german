@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0" >
+  <information>
+    <generator>Parley 0.9.2-svn</generator>
+    <title>German Studies Tram I</title>
+    <author>AJ Rossini</author>
+    <contact>blindglobe@gmail.com</contact>
+    <license>Public Domain</license>
+    <comment>Tram words</comment>
+    <date>2009-10-08</date>
+    <category>Languages</category>
+  </information>
+  <identifiers>
+    <identifier id="0" >
+      <name>German</name>
+      <locale>German</locale>
+      <article>
+        <singular>
+          <definite>
+            <male>der</male>
+            <female>die</female>
+            <neutral>das</neutral>
+          </definite>
+        </singular>
+        <plural>
+          <definite>
+            <male>die</male>
+            <female>die</female>
+            <neutral>die</neutral>
+          </definite>
+        </plural>
+      </article>
+      <personalpronouns>
+        <malefemaledifferent/>
+        <neutralexists/>
+        <singular>
+          <firstperson>ich</firstperson>
+          <secondperson>du, Sie</secondperson>
+          <thirdpersonmale>er</thirdpersonmale>
+          <thirdpersonfemale>sie</thirdpersonfemale>
+          <thirdpersonneutralcommon>es</thirdpersonneutralcommon>
+        </singular>
+        <plural>
+          <firstperson>wir</firstperson>
+          <secondperson>ihr, Ihr</secondperson>
+          <thirdpersonneutralcommon>sie</thirdpersonneutralcommon>
+        </plural>
+      </personalpronouns>
+      <tense>past</tense>
+    </identifier>
+    <identifier id="1" >
+      <name>English</name>
+      <locale>English</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0" >
+      <translation id="0" >
+        <text>kriegen</text>
+      </translation>
+      <translation id="1" >
+        <text>to get ( as in in the neck)</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:13:44</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="1" >
+      <translation id="0" >
+        <text>befürworten</text>
+      </translation>
+      <translation id="1" >
+        <text>to advocate, to recommend (to occur?)</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:13:28</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="2" >
+      <translation id="0" >
+        <text>der Hinweis</text>
+      </translation>
+      <translation id="1" >
+        <text>clue, hint, notice</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:11:02</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="3" >
+      <translation id="0" >
+        <text>abschneiden</text>
+      </translation>
+      <translation id="1" >
+        <text>to snip, to cut (hair).</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:13:04</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="4" >
+      <translation id="0" >
+        <text>bedeutend</text>
+      </translation>
+      <translation id="1" >
+        <text>major (adj)</text>
+        <grade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2009-10-08T06:16:59</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="5" >
+      <translation id="0" >
+        <text>vorlaut</text>
+      </translation>
+      <translation id="1" >
+        <text>forward (adj)</text>
+        <grade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2009-10-08T06:13:39</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="6" >
+      <translation id="0" >
+        <text>erhalten</text>
+      </translation>
+      <translation id="1" >
+        <text>to receive</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:10:02</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <translation id="0" >
+        <text>passen</text>
+      </translation>
+      <translation id="1" >
+        <text>to suit</text>
+        <grade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2009-10-08T06:13:33</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <translation id="0" >
+        <text>nennen</text>
+      </translation>
+      <translation id="1" >
+        <text>to call, to name, to term</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:15:05</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <translation id="0" >
+        <text>Sorge</text>
+      </translation>
+      <translation id="1" >
+        <text>worry</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:10:41</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <translation id="0" >
+        <text>sorgen</text>
+      </translation>
+      <translation id="1" >
+        <text>to worry</text>
+        <grade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2009-10-08T06:14:31</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <translation id="0" >
+        <text>gehören</text>
+      </translation>
+      <translation id="1" >
+        <text>to hear, past tense</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:11:44</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <translation id="0" >
+        <text>der Knopf</text>
+      </translation>
+      <translation id="1" >
+        <text>button, knob</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:08:48</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <translation id="0" >
+        <text>fühlen</text>
+      </translation>
+      <translation id="1" >
+        <text>to sense, feel?</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:15:23</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <translation id="0" >
+        <text>fordern</text>
+      </translation>
+      <translation id="1" >
+        <text>to stipulate</text>
+        <grade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>4</errorcount>
+          <date>2009-10-08T06:15:16</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <translation id="0" >
+        <text>anfahren</text>
+      </translation>
+      <translation id="1" >
+        <text>to hit, to run into</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:13:18</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <translation id="0" >
+        <text>aufwendig</text>
+      </translation>
+      <translation id="1" >
+        <text>expensive (adj)</text>
+        <grade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2009-10-08T06:14:28</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <translation id="0" >
+        <text>verlassen</text>
+      </translation>
+      <translation id="1" >
+        <text>to quit</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:10:10</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <translation id="0" >
+        <text>der Vorschlag</text>
+      </translation>
+      <translation id="1" >
+        <text>proposal, proposition</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:12:41</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <translation id="0" >
+        <text>der Zweck</text>
+      </translation>
+      <translation id="1" >
+        <text>purpose, aims</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:09:07</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <translation id="0" >
+        <text>Gesamt...</text>
+      </translation>
+      <translation id="1" >
+        <text>overall... , cumulative...</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:14:46</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <translation id="0" >
+        <text>würden</text>
+      </translation>
+      <translation id="1" >
+        <text>¨would ... ?¨</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:16:55</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <translation id="0" >
+        <text>bestehen auf</text>
+      </translation>
+      <translation id="1" >
+        <text>to stand upon (principles)</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:15:59</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="23" >
+      <translation id="0" >
+        <text>bestehen aus</text>
+      </translation>
+      <translation id="1" >
+        <text>to be composed of</text>
+        <grade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2009-10-08T06:16:05</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <translation id="0" >
+        <text>bestehen</text>
+      </translation>
+      <translation id="1" >
+        <text>to obtain</text>
+        <grade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2009-10-08T06:12:23</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <translation id="0" >
+        <text>herrschen</text>
+      </translation>
+      <translation id="1" >
+        <text>to obtain</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:10:35</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <translation id="0" >
+        <text>flüchten</text>
+      </translation>
+      <translation id="1" >
+        <text>to resort, to skedaddle, to flee</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:08:59</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <translation id="0" >
+        <text>die Behörde</text>
+      </translation>
+      <translation id="1" >
+        <text>the authority</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:09:47</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <translation id="0" >
+        <text>unterschieden</text>
+      </translation>
+      <translation id="1" >
+        <text>to difference</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:16:47</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="29" >
+      <translation id="0" >
+        <text>immer wieder</text>
+      </translation>
+      <translation id="1" >
+        <text>continually</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:14:36</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="30" >
+      <translation id="0" >
+        <text>der Vorsprung</text>
+      </translation>
+      <translation id="1" >
+        <text>protusion, lead, "head start"</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:10:18</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="31" >
+      <translation id="0" >
+        <text>der Ergebnis (se)</text>
+      </translation>
+      <translation id="1" >
+        <text>result (s)</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:08:38</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="32" >
+      <translation id="0" >
+        <text>bewahren</text>
+      </translation>
+      <translation id="1" >
+        <text>to preserve, to perpetuate</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:09:24</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="33" >
+      <translation id="0" >
+        <text>bereit</text>
+      </translation>
+      <translation id="1" >
+        <text>ready, poised (adj) readily, promptly (adv)</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:15:45</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="34" >
+      <translation id="0" >
+        <text>wahren</text>
+      </translation>
+      <translation id="1" >
+        <text>to keep, to preserve, to protect</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-10-08T06:12:53</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="35" >
+      <translation id="0" >
+        <text>verantwortlich</text>
+      </translation>
+      <translation id="1" >
+        <text>reponsible (adj)</text>
+        <grade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2009-10-08T06:14:50</date>
+        </grade>
+      </translation>
+    </entry>
+  </entries>
+  <lessons>
+    <container>
+      <name>Lesson 1</name>
+      <inpractice>true</inpractice>
+      <entry id="0" />
+      <entry id="1" />
+      <entry id="2" />
+      <entry id="3" />
+      <entry id="4" />
+      <entry id="5" />
+      <entry id="6" />
+      <entry id="7" />
+      <entry id="8" />
+      <entry id="9" />
+      <entry id="10" />
+      <entry id="11" />
+      <entry id="12" />
+      <entry id="13" />
+      <entry id="14" />
+      <entry id="15" />
+      <entry id="16" />
+      <entry id="17" />
+      <entry id="18" />
+      <entry id="19" />
+      <entry id="20" />
+      <entry id="21" />
+      <entry id="22" />
+      <entry id="23" />
+      <entry id="24" />
+      <entry id="25" />
+      <entry id="26" />
+      <entry id="27" />
+      <entry id="28" />
+      <entry id="29" />
+      <entry id="30" />
+      <entry id="31" />
+      <entry id="32" />
+      <entry id="33" />
+      <entry id="34" />
+      <entry id="35" />
+    </container>
+  </lessons>
+  <wordtypes>
+    <container>
+      <name>Noun</name>
+      <specialwordtype>noun</specialwordtype>
+      <container>
+        <name>Masculine</name>
+        <specialwordtype>noun/male</specialwordtype>
+      </container>
+      <container>
+        <name>Feminine</name>
+        <specialwordtype>noun/female</specialwordtype>
+      </container>
+      <container>
+        <name>Neuter</name>
+        <specialwordtype>noun/neutral</specialwordtype>
+      </container>
+    </container>
+    <container>
+      <name>Verb</name>
+      <specialwordtype>verb</specialwordtype>
+    </container>
+    <container>
+      <name>Adjective</name>
+      <specialwordtype>adjective</specialwordtype>
+    </container>
+    <container>
+      <name>Adverb</name>
+      <specialwordtype>adverb</specialwordtype>
+    </container>
+  </wordtypes>
+  <leitnerboxes>
+    <container>
+      <name>Box 7 (best)</name>
+    </container>
+    <container>
+      <name>Box 6</name>
+    </container>
+    <container>
+      <name>Box 5</name>
+    </container>
+    <container>
+      <name>Box 4</name>
+    </container>
+    <container>
+      <name>Box 3</name>
+    </container>
+    <container>
+      <name>Box 2</name>
+    </container>
+    <container>
+      <name>Box 1 (lowest)</name>
+    </container>
+  </leitnerboxes>
+</kvtml>

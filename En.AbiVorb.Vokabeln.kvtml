@@ -1,0 +1,1541 @@
+<?xml version="1.0"?>
+<!DOCTYPE kvtml SYSTEM "kvoctrain.dtd">
+<!--
+This is a machine generated file.
+Be careful when editing here.
+
+Short definition:
+
+lesson       lesson group
+ desc        name
+   %no       its index
+   %query    is in query selection
+   %current  is current lesson
+type         type group
+ desc        name
+   %no       its index
+e            entry of dictionary
+  %s         is selected
+  %m         lesson member
+  %t         common expression type
+ o           original
+   %q        in query ("o" is given, "t" is wanted)
+   %l        language code
+   %r        remark
+   %p        pronunciation
+   %width    column width
+   %t        expression type (see QueryManager.h)
+   %tf       false friend from
+   %ff       false friend to
+   %a        antonym
+   %y        synonym
+   %x        example
+   %u        usage label
+   %h        paraphrase
+ t           translation ..
+   %q        in query ("t" is given, "o" is wanted)
+   %l        language code
+   %r        remark
+   %p        pronunciation
+   %width    column width
+   %t        expression type
+   %tf       false friend from
+   %ff       false friend to
+   %a        antonym
+   %y        synonym
+   %x        example
+   %u        usage label
+   %h        paraphrase
+
+   %d        last query date (from;to)
+   %w        dito, compressed and deprecated
+   %g        grade (from;to)
+   %c        count (from;to)
+   %b        bad count (from;to)
+
+
+Valid xml means:
+ - Close all tags
+ - Keep proper hierarchy
+ - All attributes are quoted
+-->
+
+ <kvtml
+  encoding="UTF-8"
+  generator="kvoctrain v0.8.1"
+  cols="2"
+  lines="1406"
+  title="Englisch Abitur-Vorbereitung --- copy freely, it is Public Domain."
+  author="Matthias Ansorg &lt;aNsis@gmx.de>">
+
+ <lesson width="175">
+  <desc no="1">Religion (12.1)</desc>
+  <desc no="2">Forrest Gump (12.1)</desc>
+  <desc no="3">Northern Ireland (12.2)</desc>
+  <desc no="4">Antony and Cleopatra (12.2)</desc>
+  <desc no="5">Language (13.1)</desc>
+  <desc no="6">Dracula (13.1)</desc>
+  <desc no="7">Science &amp; Technology (13.1)</desc>
+  <desc no="8">British Drama 20thCent (13.2)</desc>
+  <desc no="9">Idioms Textarbeit</desc>
+  <desc no="10">Fachbegriffe Textarbeit</desc>
+  <desc no="11">Wichtige allg. Vokabeln</desc>
+  <desc no="12">False Friends</desc>
+ </lesson>
+
+ <article>
+  <e l="de">
+   <fd>die</fd>
+   <fi>eine</fi>
+   <md>der</md>
+   <mi>einer</mi>
+   <nd>das</nd>
+   <ni>ein</ni>
+  </e>
+  <e l="en">
+   <fd>the</fd>
+   <fi>a</fi>
+   <md>the</md>
+   <mi>a</mi>
+   <nd>the</nd>
+   <ni>a</ni>
+  </e>
+ </article>
+
+ <conjugation>
+  <e l="de">
+   <s1>ich</s1>
+   <s2>du</s2>
+   <s3f>sie</s3f>
+   <s3m>er</s3m>
+   <s3n>es</s3n>
+   <p1>ihr</p1>
+   <p3f common="1">sie</p3f>
+  </e>
+  <e l="en">
+   <s1>I</s1>
+   <s2>you</s2>
+   <s3f>he</s3f>
+   <s3m>she</s3m>
+   <s3n>it</s3n>
+   <p1>you</p1>
+   <p3f common="1">they</p3f>
+  </e>
+ </conjugation>
+
+ <options>
+  <sort on="1"/>
+ </options>
+
+ <type>
+  <desc no="1">Abkürzung</desc>
+  <desc no="2">Redensart</desc>
+ </type>
+
+ <e m="4"><o width="350" l="de"></o><t width="350" l="en">sincere</t></e>
+ <e m="4"><o></o><t>teasing</t></e>
+ <e m="2"><o></o><t r="Pluralwort">mathematicsim</t></e>
+ <e m="5"><o></o><t>teethridge</t></e>
+ <e m="11" t="av"><o>(ab)getrennt, gesondert, für sich</o><t>separately</t></e>
+ <e m="11"><o>(auf)knacken, platzen</o><t>crack</t></e>
+ <e m="11"><o>(aus)filtern</o><t>filter down</t></e>
+ <e m="3"><o>(freiwillige) Verpflichtung, Engagement</o><t>commitment</t></e>
+ <e m="11"><o>(geheim) gewählt</o><t>balloted</t></e>
+ <e m="3"><o>(Gesetzes-) Übertretung, Verletzung</o><t>violation</t></e>
+ <e m="5"><o>(gramm.) Konstruktion, Bau</o><t>construction</t></e>
+ <e m="1"><o>(immer übertragen oder räumlich gemeint)</o><t>from</t></e>
+ <e m="3"><o>(Legende, Behauptung) aufrechterhalten, feststellen</o><t>maintain</t></e>
+ <e m="2"><o>(pos.) fürchten, dass etwas nicht passiert; darauf aus sein; sehr hoffen</o><t>anxious</t></e>
+ <e m="11"><o>(Schnitt)Muster, Modell, Schablone, Form</o><t>pattern</t></e>
+ <e m="4"><o>(später:) Aufführung, Vorführung</o><t>pageant</t></e>
+ <e m="3"><o>(un)parteiisch</o><t>(im)partial</t></e>
+ <e m="3"><o>(Wahl-)Stimme, Abstimmung</o><t>vote</t></e>
+ <e m="9"><o>(während) wir zugeben, dass ...</o><t>(while) admitting that ...</t></e>
+ <e m="5"><o>a language that is the result of a merge of two other ones</o><t>mixed language</t></e>
+ <e m="6"><o>a small coach (Kutsche)</o><t>caléche</t></e>
+ <e m="2"><o r="Abenteuer &lt; aventúre (frz.) &lt; adventure (en.) &lt; ad-venire (lat.)">Abenteuer</o><t>adventure</t></e>
+ <e m="11"><o>Abenteuer, Unternehmung</o><t>escapade</t></e>
+ <e m="1"><o>Aberglaube</o><t>superstition</t></e>
+ <e m="7"><o>Abfall (Überbegriff)</o><t>waste</t></e>
+ <e m="10"><o>abgedroschen</o><t>trite</t></e>
+ <e m="10"><o>abgedroschen; alltäglich</o><t>commonplace</t></e>
+ <e m="10"><o>Abhandlung</o><t>treatise</t></e>
+ <e m="2"><o>Abk.en mit 2 Punkten</o><t>e.g.; i.e.</t></e>
+ <e m="1"><o>ablehnen</o><t>reject</t></e>
+ <e m="1"><o>ablehnen</o><t>turn down</t></e>
+ <e m="3"><o>Abrüstung</o><t>disarmament</t></e>
+ <e m="3"><o>abschaffen, aufheben</o><t>abolish</t></e>
+ <e m="1"><o>Abscheu, Greuel</o><t>abomination</t></e>
+ <e m="1"><o>abscheulich</o><t>hideous</t></e>
+ <e m="6"><o>abschrecken</o><t>deter</t></e>
+ <e m="6"><o>abschreckend</o><t>deterring</t></e>
+ <e m="7"><o>abschüssig</o><t>steep</t></e>
+ <e m="9"><o>Absicht, Intention</o><t>theme</t></e>
+ <e m="3"><o>Absicht, Zweck</o><t>intention</t></e>
+ <e m="11"><o>absichtlich, bedacht, vorsichtig</o><t>deliberately (adv.)</t></e>
+ <e m="3"><o>abspritzen</o><t>hose</t></e>
+ <e m="3"><o>abstammen</o><t>descend</t></e>
+ <e m="3"><o>Abstimmung; Umfrage; Stimmenzahl; Wählerliste</o><t>poll</t></e>
+ <e m="1"><o>abweichen von</o><t>depart from</t></e>
+ <e m="3"><o r="i.S.v. Truppen abziehen">abziehen</o><t>withdraw</t></e>
+ <e m="4"><o>Achteldruckblatt, vgl. "Oktavhaft"</o><t>octavio (8°)</t></e>
+ <e m="3"><o>Achtung, Hinsicht</o><t>respect</t></e>
+ <e m="6"><o>Adelige; der Titel kann auf den ältesten Sohn vererbt werden</o><t>peers</t></e>
+ <e m="2"><o>Adressat</o><t>adressee</t></e>
+ <e m="1"><o>Affe</o><t>monkey</t></e>
+ <e m="5"><o>Akzent</o><t>stress</t></e>
+ <e m="4"><o>alles, was zur Bühne gehört: Requisiten, ...</o><t>stage properties</t></e>
+ <e m="3"><o>allgemeine Wahl</o><t r="oft im Plural">general election</t></e>
+ <e m="2"><o>allwissend</o><t>omniscient</t></e>
+ <e m="2"><o>Allwissenheit</o><t>omniscience</t></e>
+ <e m="9"><o>als Anfang</o><t>first of all; a word on this / that; for a start</t></e>
+ <e m="11"><o>als ob (?)</o><t>as though</t></e>
+ <e m="11"><o>als wenn es okay wäre</o><t>as if it was okay</t></e>
+ <e m="11"><o>also</o><t>so</t></e>
+ <e m="11"><o>am Ende (wörtl.) von ...</o><t>at the end of ...</t></e>
+ <e m="3"><o>amtlich</o><t>official</t></e>
+ <e m="3"><o>an der Spitze der Regierung stehen</o><t>head the government</t></e>
+ <e m="3"><o>an der Spitze stehen</o><t>head</t></e>
+ <e m="3"><o>an die Macht kommen</o><t>come into power</t></e>
+ <e m="3"><o>an einer Versammlung, Tagung teilnehmen</o><t>attend a meeting</t></e>
+ <e m="3"><o>an etwas sterben</o><t>die of sth.</t></e>
+ <e m="9"><o>an Zahl übertreffen</o><t>outnumber</t></e>
+ <e m="1"><o>Analyse</o><t>analytic text / analysis</t></e>
+ <e m="7"><o>Anbaufläche {f}, Fläche {f}</o><t>acreage</t></e>
+ <e m="7"><o>anbaufähig, kulturfähig</o><t>arable</t></e>
+ <e m="1"><o>anbeten</o><t>adore</t></e>
+ <e m="3"><o>anerkennen</o><t>acknowledge</t></e>
+ <e m="7"><o>anfechten, bestreiten</o><t>contest</t></e>
+ <e m="11"><o>anflehen</o><t>implore</t></e>
+ <e m="10"><o>anführen; zitieren</o><t>quote</t></e>
+ <e m="7"><o>angeboren</o><t>innate</t></e>
+ <e m="11"><o>angekündigt, angesagt sein</o><t>be announced</t></e>
+ <e m="3"><o>angreifen</o><t>attack</t></e>
+ <e m="3"><o>Angreifer</o><t>aggressor, assailant</t></e>
+ <e m="7"><o>Anhang</o><t>appendix</t></e>
+ <e m="10"><o>Anhang eines Buches</o><t r="Plural: appendices">appendix</t></e>
+ <e m="3"><o>Anhänger</o><t>supporter</t></e>
+ <e m="4"><o>Anker</o><t>anchor</t></e>
+ <e m="3"><o>Anklage, Beschuldigung</o><t>accusation</t></e>
+ <e m="11"><o>annehmen</o><t>adopt</t></e>
+ <e m="11"><o>Annehmlichkeit</o><t>amenity</t></e>
+ <e m="3"><o>Anordnung, Vorschrift, Regelung</o><t>regulation</t></e>
+ <e m="3"><o>Anordnungen treffen</o><t>give instructions</t></e>
+ <e m="2"><o>ansehen als, halten für</o><t>consider</t></e>
+ <e m="1"><o>ansehen als, halten für</o><t>consider</t></e>
+ <e m="10"><o>anspielen auf</o><t>allude (to); hint (at)</t></e>
+ <e m="2"><o>anspielen auf</o><t>allude to</t></e>
+ <e m="10"><o>Anspielung</o><t>allusion</t></e>
+ <e m="10"><o>Anspielung</o><t>allusion</t></e>
+ <e m="3"><o>Ansprache, Anrede</o><t>address</t></e>
+ <e m="3"><o>Anspruch erheben auf</o><t>lay claim to</t></e>
+ <e m="11"><o>Anspruch, Anrecht, Forderung</o><t>claim</t></e>
+ <e m="2"><o>anstarren</o><t>glare</t></e>
+ <e m="2"><o>anstellen, anheuern</o><t>hire</t></e>
+ <e m="3"><o>anstreben</o><t>aspire</t></e>
+ <e m="2"><o>anständig</o><t>decent</t></e>
+ <e m="5"><o>Antwort, Beantwortung</o><t>reply</t></e>
+ <e m="1"><o>antworten</o><t>respond</t></e>
+ <e m="3"><o>Anweisung, Anordnung, Unterricht</o><t>instruction</t></e>
+ <e m="10"><o>anzeigen; hindeuten auf</o><t>indicate</t></e>
+ <e m="3"><o>appear, auftreten</o><t>occur</t></e>
+ <e m="10"><o>arbeiten, machen</o><t>wright, wrought, wrought</t></e>
+ <e m="1"><o>argumentativer Text</o><t>argumentative text</t></e>
+ <e m="10"><o>Aristoteles</o><t>Aristotle</t></e>
+ <e m="11"><o>Armenhaus</o><t>workhouse</t></e>
+ <e m="10"><o r="löst Fälle von zu Hause aus, ohne am Tatort zu sein">Armstuhl-Detektiv</o><t>armchair detective</t></e>
+ <e m="7" t="n"><o r="(biologisch)">Art</o><t>strain, breed, race</t></e>
+ <e m="3"><o>Arzt</o><t>physician</t></e>
+ <e m="11"><o>attraktiv, anziehend, verführerisch</o><t>intriguing</t></e>
+ <e m="11"><o>auch</o><t>also</t></e>
+ <e m="9"><o>auf den ersten Blick</o><t>at first sight ... (sight &lt; see)</t></e>
+ <e m="2"><o>auf der Kippe stehen</o><t>be at stake</t></e>
+ <e m="9"><o>auf keinen Fall</o><t>in no case / by no means</t></e>
+ <e m="6"><o>auf Rechtsprechung bezogen</o><t>juridical / legal / lawyers'</t></e>
+ <e m="3"><o>auf Widerstand stoßen</o><t>meet with resistance</t></e>
+ <e m="3"><o>Auf-/Einteilung</o><t>partition</t></e>
+ <e m="10"><o r="v.a. in alten Kurzgeschichten">Aufbau von Echtheit in Literatur</o><t>verisimilitude</t></e>
+ <e m="11"><o>aufbrechen, aufplatzen lassen</o><t>split</t></e>
+ <e m="6"><o>aufdringlich, zudringlich</o><t>intrusive</t></e>
+ <e m="4"><o>Auferstehung</o><t>resurrection</t></e>
+ <e m="4"><o>aufgeklärt</o><t>enlightened</t></e>
+ <e m="9"><o>aufgrund der Ursache beurteilen</o><t>judge by</t></e>
+ <e m="1"><o>Aufhebung</o><t>revocation</t></e>
+ <e m="1"><o>aufhören</o><t>let up</t></e>
+ <e m="4"><o>Aufklärung</o><t>enlightenment</t></e>
+ <e m="7"><o>auflösen</o><t>dissolve</t></e>
+ <e m="11" t="v"><o>auflösen</o><t r="vgl. das Nomen »dissolution«">dissolve</t></e>
+ <e m="10"><o>Auflösung einer Kriminalgeschichte</o><t>denonement</t></e>
+ <e m="10" t="aj"><o>aufregend</o><t>thrilling</t></e>
+ <e m="4"><o>aufrichtig, ernsthaft</o><t>sincere</t></e>
+ <e m="3"><o>Aufruhr</o><t>turmoil</t></e>
+ <e m="3"><o>Aufruhr erregen</o><t>riot</t></e>
+ <e m="2"><o>Aufruhr, Chaos</o><t>commotion</t></e>
+ <e m="3"><o>aufrührerisch, lärmend</o><t>riotous</t></e>
+ <e m="3"><o>Aufrüstung</o><t>armament</t></e>
+ <e m="10"><o>aufrüttelnd</o><t>stirring</t></e>
+ <e m="3"><o>Aufstand</o><t>rising</t></e>
+ <e m="11"><o>Aufwallung</o><t>upsurge</t></e>
+ <e m="3"><o>aufzeichnen, protokolieren</o><t>record</t></e>
+ <e m="11"><o>aufzeigen, hinweisen auf</o><t>point out</t></e>
+ <e m="1"><o>aus der Wiege heben; hervorbringen</o><t>cradle</t></e>
+ <e m="9"><o>Aus diesen Gründen ...</o><t>For these reasons ...</t></e>
+ <e m="9"><o>aus irgendeinem Grund</o><t>for some reason or (an)other</t></e>
+ <e m="9"><o>aus meiner Sicht</o><t>in my view</t></e>
+ <e m="3"><o>aus politischen Gründen</o><t>for political reasons</t></e>
+ <e m="11"><o>Ausbeute, Profit</o><t>picking</t></e>
+ <e m="3"><o>Ausbruch von Feindseligkeiten</o><t>outbreak of hostilities</t></e>
+ <e m="5"><o>Ausdruck</o><t>expression</t></e>
+ <e m="10"><o>Ausdruck; Redensart</o><t>phrase</t></e>
+ <e m="10" t="aj"><o>ausdrucksvoll</o><t>expressive</t></e>
+ <e m="1"><o>Ausflucht</o><t>subterfuge</t></e>
+ <e m="11"><o>ausgemergelt</o><t>emaciated</t></e>
+ <e m="4"><o>Ausgrabungen</o><t>excavation</t></e>
+ <e m="5"><o>auslassen, übergehen</o><t>omit</t></e>
+ <e m="5"><o>Auslassung</o><t>omission</t></e>
+ <e m="9"><o>Ausmaß</o><t>degree</t></e>
+ <e m="3"><o>Ausschuss</o><t>commitee</t></e>
+ <e m="3"><o>Auszeichnung</o><t>decoration</t></e>
+ <e m="10"><o>Auszug</o><t>extract</t></e>
+ <e m="3"><o>authentisch, wahr, real, ehrlich</o><t>genuine</t></e>
+ <e m="6"><o>Authentizität</o><t>authenticity</t></e>
+ <e m="11"><o>Autorität, Gewalt, Vollmacht</o><t>authority</t></e>
+ <e m="9"><o>Autoritäten</o><t r="kann sich auf Institutionen, Personen, Bücher und andere Dinge beziehen.">authorities</t></e>
+ <e m="3"><o>Außenminister</o><t>Foreign Secretary</t></e>
+ <e m="3"><o>Außenministerium</o><t>Foreign Office</t></e>
+ <e m="1"><o>außer</o><t>despite of...</t></e>
+ <e m="2"><o>außer</o><t>despite of...</t></e>
+ <e m="11"><o>außergewöhnlich</o><t>extraordinarily</t></e>
+ <e m="11"><o>außergewöhnlich</o><t>extraordinary</t></e>
+ <e m="11"><o>Balgerei; raufen</o><t>scuffle</t></e>
+ <e m="11"><o>Bank</o><t>bench</t></e>
+ <e m="2"><o>Bauer (Schach)</o><t>pawn (Schach)</t></e>
+ <e m="7"><o>Bauholz</o><t>timber</t></e>
+ <e m="7"><o>Bauholz</o><t>lumber</t></e>
+ <e m="3"><o>beabsichtigen</o><t>intend</t></e>
+ <e m="3"><o>Beamter</o><t>civil servant</t></e>
+ <e m="7"><o>bebaute</o><t>tilled</t></e>
+ <e m="3"><o>bedeutend (mehr als "signifikant")</o><t>significant</t></e>
+ <e m="3"><o>Bedingung</o><t>condition</t></e>
+ <e m="11"><o>bedrohen, drohen</o><t>threaten</t></e>
+ <e m="4"><o r="bei Shakespeare">bedürfen, nicht haben</o><t>want</t></e>
+ <e m="7"><o>befruchten</o><t>fertilize</t></e>
+ <e m="7"><o>Befruchtung im Reagenzglas</o><t>in vitro fertilization (IVF); test-tube fertilization</t></e>
+ <e m="9"><o>beginnen</o><t>start with / begin with</t></e>
+ <e m="9"><o>begründen</o><t>giving reasons</t></e>
+ <e m="1"><o>begründet</o><t>well-founded</t></e>
+ <e m="1"><o>begünstigen</o><t>favour</t></e>
+ <e m="1" t="v"><o>begünstigen</o><t>favour</t></e>
+ <e m="5"><o>behaupten; aufrechterhalten; ernähren</o><t>maintain</t></e>
+ <e m="3"><o>Behörde</o><t>authorities (Pl.)</t></e>
+ <e m="6"><o>bei Anbruch der Nacht</o><t>at nightfall</t></e>
+ <e m="11"><o>bei Getränken: pur, ohne Wasser</o><t>neat</t></e>
+ <e m="9"><o>bei näherer Betrachtung</o><t>looking closer</t></e>
+ <e m="2"><o>beiläufig</o><t>casually</t></e>
+ <e m="9"><o>Beispiele geben</o><t>giving examples</t></e>
+ <e m="3"><o>beitragen, beisteuern, mitwirken</o><t>contribute</t></e>
+ <e m="5"><o>bejahend, positiv</o><t>affirmative</t></e>
+ <e m="1"><o>bekehren</o><t>convert</t></e>
+ <e m="1"><o>Bekenntnis; Beichte</o><t>confession</t></e>
+ <e m="3"><o>Beklagte(r)</o><t>defendant</t></e>
+ <e m="3"><o>Belagerung</o><t>siege</t></e>
+ <e m="4" t="v"><o>beleidigen</o><t>insult</t></e>
+ <e m="4" t="v"><o>beleidigt sein</o><t>feel insulted</t></e>
+ <e m="3"><o>Beleidigung, Vergehen</o><t>offence</t></e>
+ <e m="3"><o>benachrichtigen, unterrichten</o><t>inform</t></e>
+ <e m="4" t="v"><o>bereuen</o><t>regret</t></e>
+ <e m="1"><o>bereuen</o><t>repent</t></e>
+ <e m="2"><o>Bericht</o><t>report</t></e>
+ <e m="3"><o>Bericht, Konto, Rechnung, Ursache</o><t>account</t></e>
+ <e m="3"><o x="Valium">Beruhigungsmittel; Schmerzmittel</o><t>sedative</t></e>
+ <e m="1"><o>bescheiden</o><t>humble</t></e>
+ <e m="3"><o>Beschluss</o><t>resolution</t></e>
+ <e m="1"><o>beschreibender Text</o><t>descriptive text</t></e>
+ <e m="2"><o>beschuldigen</o><t>convict</t></e>
+ <e m="3"><o>beschuldigen, anklagen (wegen)</o><t>accuse (of)</t></e>
+ <e m="3"><o>Beschwerde, Klage, Krankheit</o><t>complaint</t></e>
+ <e m="2"><o>beschweren</o><t>complain</t></e>
+ <e m="11"><o>Besitz</o><t>property</t></e>
+ <e m="2"><o>besorgen, beschaffen</o><t>provide</t></e>
+ <e m="6"><o>bestechen</o><t>bribe</t></e>
+ <e m="3"><o>Bestechlichkeit, Bestechung, Verdorbenheit</o><t>corruption</t></e>
+ <e m="6"><o>Bestechung</o><t>bribery</t></e>
+ <e m="3"><o>bestehen (auf)</o><t>insist (on)</t></e>
+ <e m="7"><o>bestellte</o><t>tilled</t></e>
+ <e m="9"><o>bestimmt, besonders</o><t>particular, particularly, special, especially</t></e>
+ <e m="4"><o>besänftigen</o><t>soothe</t></e>
+ <e m="2"><o>betreffen; interessieren; sich Sorgen machen</o><t>concern</t></e>
+ <e m="4"><o>betrogener Ehemann</o><t>euckold / guckold</t></e>
+ <e m="1"><o>Betrug</o><t>fraud</t></e>
+ <e m="6"><o>betrügen, täuschen, auf den Arm nehmen</o><t>cheat</t></e>
+ <e m="3"><o>Bevölkerung</o><t>population</t></e>
+ <e m="11"><o>bewahren, erhalten</o><t>preserve</t></e>
+ <e m="11"><o>bewegen</o><t>stir</t></e>
+ <e m="3"><o>Beweismaterial, Zeugnis, Zeuge</o><t>evidence</t></e>
+ <e m="4" t="n"><o>Bewertung, Beurteilung</o><t>assessment</t></e>
+ <e m="7"><o>Bewässerung {f}</o><t>irrigation</t></e>
+ <e m="3"><o>bezahlt</o><t>salaried</t></e>
+ <e m="3"><o>bezeugen</o><t>witness</t></e>
+ <e m="1"><o>Bibel</o><t>Bible</t></e>
+ <e m="11"><o>Bindung</o><t p="t'eier">tier</t></e>
+ <e m="11"><o>binnen kurzem</o><t>before long</t></e>
+ <e m="7"><o>Biologe {m}</o><t>biologist</t></e>
+ <e m="7"><o>Birne</o><t p="pä:">pear</t></e>
+ <e m="11"><o>bis zu</o><t>upwards of</t></e>
+ <e m="11"><o>bleich</o><t>pale</t></e>
+ <e m="2"><o>Blick</o><t>glance</t></e>
+ <e m="3"><o>Blick, Aussicht, Auffassung</o><t>view</t></e>
+ <e m="11"><o>blitzen</o><t>be flashed on</t></e>
+ <e m="7"><o>Blumenkohl</o><t>cauliflower</t></e>
+ <e m="11"><o>blühen</o><t>flower</t></e>
+ <e m="3"><o>breitere, ausgedehntere</o><t>wider</t></e>
+ <e m="7"><o>Brennstoff</o><t>fuel</t></e>
+ <e m="7"><o>Bronze</o><t>bronze</t></e>
+ <e m="2"><o>brüllen, schreien</o><t>bellow</t></e>
+ <e m="1"><o>Bundes-</o><t>federal</t></e>
+ <e m="3"><o>Bundesstaat</o><t>federal state</t></e>
+ <e m="4"><o>Bühne</o><t>stage</t></e>
+ <e m="4"><o>Bühnenautor</o><t>playwright</t></e>
+ <e m="4"><o>Bühnendekoration</o><t>stage decorations</t></e>
+ <e m="4"><o>Bühnenkarren</o><t>pageant carts</t></e>
+ <e m="4"><o>Bündnis</o><t>alliance</t></e>
+ <e m="3"><o>Bürger</o><t>citizen</t></e>
+ <e m="3"><o>bürgerlich, zivil</o><t>civil</t></e>
+ <e m="3"><o>Bürgermeister</o><t>mayor</t></e>
+ <e m="10"><o>charakterisieren als</o><t>characterize as</t></e>
+ <e m="7"><o>chemisch</o><t>chemical [kemikä]</t></e>
+ <e m="2" t="n"><o>Choleriker</o><t>choleric</t></e>
+ <e m="1"><o>Christ</o><t>Christian</t></e>
+ <e m="1"><o>christlich</o><t>Christian</t></e>
+ <e m="1"><o>Christus</o><t>Christ</t></e>
+ <e m="1" t="nm"><o>Church of England</o><t>Anglican Church</t></e>
+ <e m="4"><o>daher - dorther</o><t>hence - thence</t></e>
+ <e m="9"><o>Daher ...</o><t>Hence ...</t></e>
+ <e m="2"><o>Dame (Schach)</o><t>queen (Schach)</t></e>
+ <e m="9"><o>daraus folgt</o><t>it results from this</t></e>
+ <e m="11"><o>dark</o><t>gloomy</t></e>
+ <e m="3"><o>darstellen, vertreten</o><t>represent</t></e>
+ <e m="1"><o>das Jüngste Gericht</o><t>the Last Judgement</t></e>
+ <e m="4"><o r="476 - 1500">das Mittelalter</o><t>the Middle Ages</t></e>
+ <e m="3"><o>das Ober-/ Unterhaus</o><t>the House of Lords / Commons</t></e>
+ <e m="3"><o>das Parlament auflösen</o><t>dissolve Parliament</t></e>
+ <e m="1" t="n"><o>das Reich-Sein</o><t r="von wealthy">wealthiness</t></e>
+ <e m="5"><o>Debatte, Wortstreit</o><t>debate</t></e>
+ <e m="2"><o>Decke</o><t>ceiling</t></e>
+ <e m="3"><o>Delegierter</o><t>delegate</t></e>
+ <e m="3"><o>Delegierung von Zentralmacht</o><t>devolution</t></e>
+ <e m="3"><o>Demonstrant</o><t>demonstrator</t></e>
+ <e m="3"><o>demonstrieren, darlegen</o><t>demonstrate</t></e>
+ <e m="2"><o>den richtigen Platz für jdn. finden</o><t>get sb. squared away</t></e>
+ <e m="10"><o>denkbar</o><t>imaginable</t></e>
+ <e m="9"><o>Denn [leitet einen Hauptsatz ein]</o><t>For ...</t></e>
+ <e m="2"><o>deny + verb</o><t>deny to</t></e>
+ <e m="3"><o>der Antrag wurde abgelehnt</o><t>the motion was defeated</t></e>
+ <e m="9"><o>der Autor ist überzeugt, dass ...</o><t>the author is convinced, that ...</t></e>
+ <e m="3"><o>der Beschluss ist noch nicht gefasst</o><t>the decision has not been reached yet</t></e>
+ <e m="1"><o>der Heilige Geist</o><t>the Holy Ghost</t></e>
+ <e m="1"><o>der Jüngste Tag</o><t>doomsday</t></e>
+ <e m="9"><o>der Kernpunkt meiner Erörterung ist ...</o><t>the gist of my argument is ...</t></e>
+ <e m="7"><o>dezimieren</o><t>deplete</t></e>
+ <e m="11"><o>dicht, fest, eng (anliegend)</o><t>tight</t></e>
+ <e m="7"><o>Dichte (eines Stoffes)</o><t>density</t></e>
+ <e m="4"><o>die Antike</o><t>ancient times</t></e>
+ <e m="4"><o>die Antike</o><t>antiquity</t></e>
+ <e m="9"><o>die Aufmerksamkeit auf etwas konzentrieren</o><t>focus the intention on</t></e>
+ <e m="9"><o>die erste Aussage machen</o><t>introducing a point</t></e>
+ <e m="3"><o>die Gesetzesvorlage wurde abgelehnt</o><t>the bill was thrown out</t></e>
+ <e m="3"><o>die Gesetzesvorlage wurde mit großer Mehrheit angenommen</o><t>the bill was passed by a large majority</t></e>
+ <e m="1"><o>die Gläubigen</o><t>the faithful</t></e>
+ <e m="1"><o>die Heilige Schrift</o><t>the holy scriptures</t></e>
+ <e m="3"><o>die meisten Stimmen haben</o><t>head the poll</t></e>
+ <e m="3"><o>die Regierung wurde gestürzt</o><t>the government was overthrown</t></e>
+ <e m="6"><o>Die Verschiedenen</o><t r="formal">The deceased</t></e>
+ <e m="1"><o>die Zehn Gebote</o><t>the ten commandments</t></e>
+ <e m="1"><o>Dienst</o><t>service</t></e>
+ <e m="9"><o>Dies wird hauptsächlich durch ... verursacht</o><t>This is largely due to ...</t></e>
+ <e m="9"><o>diese Sache hat zwei Seiten</o><t>there are two sides to ...</t></e>
+ <e m="9"><o>diese Vorstellung bedarf einer Erklärung</o><t>this notion needs clarification</t></e>
+ <e m="11"><o>difficulties</o><t>odds</t></e>
+ <e m="9"><o>Diskussionsgegenstand</o><t>subject</t></e>
+ <e m="5"><o>diskutieren</o><t>discuss</t></e>
+ <e m="10"><o>Doppeldeutigkeit</o><t p="embi'gjuiti">ambiguity</t></e>
+ <e m="11"><o>dorthin</o><t r="archaic">thither</t></e>
+ <e m="11"><o>drängen</o><t>beg / urge</t></e>
+ <e m="10"><o>dunkel</o><t>obscure</t></e>
+ <e m="7"><o>Dunst</o><t>mist</t></e>
+ <e m="11"><o>durchhalten, nicht nachgeben</o><t>stick it out</t></e>
+ <e m="11"><o>durchnässt</o><t>soddon</t></e>
+ <e m="3"><o>durchstreifen, umherstreifen</o><t>roam</t></e>
+ <e m="7"><o>Dünger; Fruchtbarmacher</o><t>fertilizer</t></e>
+ <e m="11"><o>dürfen, wagen</o><t>dare</t></e>
+ <e m="2"><o>earn ones livelyhood</o><t>make a living</t></e>
+ <e m="6"><o>Ecke zwischen dem Karpatenbogen, mit vielen deutschen Einwanderern</o><t>Siebenbürgen</t></e>
+ <e m="11"><o>eher als</o><t>rather than</t></e>
+ <e m="2"><o>ehrlich</o><t p="anest">honest</t></e>
+ <e m="7"><o>Eiche</o><t>oak</t></e>
+ <e m="1"><o>Eifer</o><t>zeal</t></e>
+ <e m="11"><o>eifersüchtig</o><t>jealous</t></e>
+ <e m="9"><o>eigene Meinung darstellen</o><t>presenting one's own opinion</t></e>
+ <e m="2"><o>Eigenschaft; gute oder schlechte Qual.</o><t>quality</t></e>
+ <e m="1"><o>eigentlich; tatsächlich; wirklich</o><t>actual</t></e>
+ <e m="6"><o>eigtl. Tagesreise</o><t>journey</t></e>
+ <e m="7"><o>ein Baby austragen</o><t>carry to term</t></e>
+ <e m="9"><o>ein Beispiel / einen Satz zitieren</o><t>quote an example / a sentence</t></e>
+ <e m="2"><o>ein bestimmtes Land</o><t>a particular country</t></e>
+ <e m="6"><o>ein Ding, das mal ganz zufällig auftaucht</o><t>haphazard</t></e>
+ <e m="4"><o>ein ganzes Druckblatt oder Buch in diesem Format</o><t>folio (1°)</t></e>
+ <e m="9"><o>ein Zitat anführen</o><t>give a quotation</t></e>
+ <e m="6"><o>Einbruch</o><t>flaw</t></e>
+ <e m="5"><o>Eindruck</o><t>impression</t></e>
+ <e m="6"><o>eine alte Längenangabe, größer als eine Meile</o><t>league</t></e>
+ <e m="9"><o>eine Meinung zu etwas haben</o><t>hold the view</t></e>
+ <e m="3"><o>eine Resolution (= einen Beschluss) verabschieden</o><t>pass a resolution</t></e>
+ <e m="9"><o>eine Sache der Begrifflichkeit</o><t>matter of terminology</t></e>
+ <e m="3"><o>eine vernichtende Niederlage</o><t>a crushing defeat</t></e>
+ <e m="2"><o>einen Blick erhaschen auf</o><t>get a glance</t></e>
+ <e m="3"><o>einen Schlag bekommen</o><t>get a blow</t></e>
+ <e m="11"><o>einen Stuhl herausbringen</o><t>produce a chair</t></e>
+ <e m="3"><o>einen Vertrag unterzeichnen / verletzen</o><t>sign / violate a treaty</t></e>
+ <e m="2"><o>einfacher Satz</o><t>simple sentences</t></e>
+ <e m="10"><o>Einfachheit; Schlichtheit</o><t>simplicity</t></e>
+ <e m="11"><o>Einfangen, Binden</o><t>entrapment</t></e>
+ <e m="3"><o>Einfluss (auf)</o><t>influence (on)</t></e>
+ <e m="3"><o>Eingeborene(r), einheimisch</o><t>native</t></e>
+ <e m="11"><o>eingeschrumpelt</o><t>shrivvelled</t></e>
+ <e m="11"><o>eingetragen</o><t>signed-up</t></e>
+ <e m="3"><o>Eingreifen, Einmischung</o><t>intervention</t></e>
+ <e m="3"><o>einkreisen, umfassen</o><t>encircle</t></e>
+ <e m="11" t="v"><o>einreichen</o><t>hand in</t></e>
+ <e m="4"><o>einreichen</o><t>hand in</t></e>
+ <e m="1"><o>einschätzen</o><t>rate</t></e>
+ <e m="3"><o>Einwohner</o><t>inhabitant</t></e>
+ <e m="7"><o>Eisen</o><t p="BE: 'aien">iron</t></e>
+ <e m="2"><o>eiserner Vorhang</o><t>iron curtain</t></e>
+ <e m="7"><o>Eiweiß</o><t>protein</t></e>
+ <e m="6"><o>ekelerregend</o><t>disgusting</t></e>
+ <e m="7"><o>elterliche Rechte</o><t>parental rights</t></e>
+ <e m="7"><o>Embryo</o><t>embryo</t></e>
+ <e m="3"><o>empfehlen</o><t>recommend</t></e>
+ <e m="3"><o>Empfehlung</o><t>recommendation</t></e>
+ <e m="7"><o>Empfängnis</o><t>conception</t></e>
+ <e m="3"><o>Empörung, Auflehnung</o><t>rebellion</t></e>
+ <e m="3"><o>endgültig</o><t>ultimate</t></e>
+ <e m="5"><o>Endung</o><t>ending</t></e>
+ <e m="3"><o>engagiert / verwickelt in etwas sein</o><t>be involved</t></e>
+ <e m="7" t="nm"><o>englischer Kanal</o><t>the English Channel</t></e>
+ <e m="11"><o>entblößen</o><t>bare</t></e>
+ <e m="1"><o>entgegengesetzt, feindlich</o><t>opposed</t></e>
+ <e m="11"><o>entlassen, aus dem Haus vertreiben</o><t>evict</t></e>
+ <e m="11"><o>entlassen, wegschicken, ablehnen</o><t>dismiss</t></e>
+ <e m="11"><o>entsagen, verzichten, verleugnen</o><t>renounce</t></e>
+ <e m="11" t="v"><o>entscheiden</o><t r="vgl. das Nomen »resolution«">resolve</t></e>
+ <e m="10" t="aj"><o>entsprechend</o><t>in compliance with</t></e>
+ <e m="3"><o>entstehen, auferstehen, come back, grow again</o><t>emerge</t></e>
+ <e m="3"><o>entwaffnen</o><t>disarm</t></e>
+ <e m="3"><o>entwaffnen</o><t>decommition</t></e>
+ <e m="3"><o>Entwaffnung</o><t>decommitioning</t></e>
+ <e m="6"><o>entweihen</o><t>desecrate</t></e>
+ <e m="2"><o>entzünden</o><t>ignite</t></e>
+ <e m="2"><o>Enzyklopädie</o><t>encyclopedia</t></e>
+ <e m="7"><o>erblich</o><t>hereditary</t></e>
+ <e m="11"><o>erblühen</o><t>blossom</t></e>
+ <e m="7"><o>Erbse</o><t>pea</t></e>
+ <e m="7"><o>Erde, Mutterboden</o><t>soil</t></e>
+ <e m="7"><o>erforschen; untersuchen</o><t>investigate</t></e>
+ <e m="11"><o>Ergebenheit, Hinabe, Hingebung</o><t>devotion</t></e>
+ <e m="1"><o>Ergebnis, Folge</o><t>outcome</t></e>
+ <e m="3"><o>erhalten</o><t>obtain</t></e>
+ <e m="11"><o>erhoben, entstanden sein</o><t>be aroused</t></e>
+ <e m="11"><o>erinnern</o><t>remind</t></e>
+ <e m="1"><o>Erklärung</o><t>explanation</t></e>
+ <e m="10"><o>Erläuterung; Anmerkung</o><t>comment</t></e>
+ <e m="1"><o>erlösen</o><t>redeem</t></e>
+ <e m="1"><o>Erlösung</o><t>redemption</t></e>
+ <e m="11"><o>ermangeln, fehlen</o><t>lack</t></e>
+ <e m="11"><o>ermutigen, unterstützen, fördern</o><t>encourage</t></e>
+ <e m="3"><o>ermächtigen, autorisieren</o><t>authorize</t></e>
+ <e m="11"><o>Erneuerung</o><t>renewal</t></e>
+ <e m="10"><o>Ernsthaftigkeit</o><t>sincerity</t></e>
+ <e m="7"><o>Ernte</o><t>harvest</t></e>
+ <e m="7"><o>Ernte {f}</o><t>harvest</t></e>
+ <e m="3"><o>Ernte, Ertrag</o><t>crop</t></e>
+ <e m="4"><o>erpicht sein auf</o><t>anxious + Inf.</t></e>
+ <e m="4"><o>Erpichtsein auf</o><t>anxiety to</t></e>
+ <e m="7"><o>Erpressung {f}</o><t>blackmail</t></e>
+ <e m="1"><o>erreichen</o><t>achieve</t></e>
+ <e m="11"><o>erscheinen</o><t>figure</t></e>
+ <e m="3"><o>erschreckende Ausmaße annehmen</o><t>assume alarming proportions</t></e>
+ <e m="5"><o>erschweren</o><t>complicate</t></e>
+ <e m="3"><o>erschöpfen</o><t>exhaust</t></e>
+ <e m="3"><o>Ersetzung</o><t>replacement</t></e>
+ <e m="1"><o>Erster Verfassungszusatz</o><t>First Amendment</t></e>
+ <e m="2"><o>erträglich</o><t>bearable</t></e>
+ <e m="3" t="v"><o>erwecken, erregen, sich erheben, entstehen, erstehen</o><t>arise</t></e>
+ <e m="3"><o>erwerben, erlangen, in den Besitz kommen</o><t>acquire</t></e>
+ <e m="2"><o>erzählen</o><t>narrate</t></e>
+ <e m="10"><o>erzählen; berichten</o><t>relate</t></e>
+ <e m="1"><o>erzählender Text</o><t>narrative text</t></e>
+ <e m="2"><o>Erzähler</o><t>narrator</t></e>
+ <e m="2"><o>Erzählperspektive</o><t>narrative point of view</t></e>
+ <e m="2" t="n"><o>Erzählung</o><t p="'narrative">narrative</t></e>
+ <e m="9"><o>es besteht wenig Zweifel, dass ...</o><t>there seems little doubt that ...</t></e>
+ <e m="9"><o>es folgt daraus ...</o><t>it follows from this ...</t></e>
+ <e m="2"><o>Es gibt in England...</o><t>In England there are</t></e>
+ <e m="9"><o>es gibt keinen Zweifel, dass ...</o><t>there is no doubt that ...</t></e>
+ <e m="9"><o>es ist allgemein akzeptiert</o><t>it's generally accepted ...</t></e>
+ <e m="9"><o>es ist Allgemeinwissen</o><t>it's common knowledge</t></e>
+ <e m="11"><o>es ist ja alles möglich</o><t>pigs have flown</t></e>
+ <e m="9"><o>es ist nicht insgesamt schlecht</o><t>it is not altogether bad</t></e>
+ <e m="11"><o>es ist nicht so</o><t>but it's ot like that</t></e>
+ <e m="9"><o>es ist offensichtlich, dass ...</o><t>it is obvious that ...</t></e>
+ <e m="9"><o>es ist wohlbekannt</o><t>it's well-known</t></e>
+ <e m="11"><o>Es muss diese ... hinter sich lassen</o><t>It is to be shot of those ...</t></e>
+ <e m="2"><o>es muss gesagt werden</o><t>it must be said</t></e>
+ <e m="9"><o>es muss nicht gesagt werden</o><t>it need not be said</t></e>
+ <e m="9"><o>es muss noch bewiesen werden</o><t>it remains to be prooved</t></e>
+ <e m="9"><o>es steht außer Frage</o><t>it is out of (the) question</t></e>
+ <e m="9"><o>es steht fest, dass ...</o><t>the fact remains that ...</t></e>
+ <e m="2"><o>eskalieren</o><t>escalate</t></e>
+ <e m="1"><o>Essay (theoretisch)</o><t>essay</t></e>
+ <e m="6"><o>ethnische Ausrottung / »ethnische Säuberung«</o><t>ethnic exradication</t></e>
+ <e m="3"><o>etw. billigen</o><t>approve of sth.</t></e>
+ <e m="9"><o>etw. feststellen</o><t>stating something as a fact</t></e>
+ <e m="9"><o>etw. kommentieren</o><t>comment on</t></e>
+ <e m="4"><o>etw. leiten, in Obhut haben</o><t>in charge of</t></e>
+ <e m="9"><o>etw. mit ... gemeinsam haben</o><t>have something in common with ...</t></e>
+ <e m="2"><o>etw. schwierig finden, nicht handhaben können</o><t>be at odds with</t></e>
+ <e m="11"><o>etw. so gut tun, wie man kann</o><t>do it as well as you can</t></e>
+ <e m="1" t="v"><o>etw. vorwärtstreiben</o><t>promote</t></e>
+ <e m="11"><o>etwas</o><t>a nip of</t></e>
+ <e m="2" t="#1"><o>European Space Agency</o><t>ESA</t></e>
+ <e m="3"><o>evangelischer Geistlicher</o><t>reverend</t></e>
+ <e m="1"><o>Evangelium</o><t r="comes from »God + spell«">gospel</t></e>
+ <e m="3"><o>Exekution, Attentat</o><t>assassination</t></e>
+ <e m="10"><o>Fachausdruck</o><t>technical term</t></e>
+ <e m="2"><o>Falle (Schach)</o><t>gambit (Schach)</t></e>
+ <e m="10"><o>falsche, den Leser irritierende LösungsHinweise</o><t r="wrong hints that are meant to irritate reader">red herrings</t></e>
+ <e m="11"><o>fast, beinahe</o><t>almost</t></e>
+ <e m="3"><o>fehlen, benötigen</o><t>lack</t></e>
+ <e m="1"><o>feierlich, ernst</o><t>solemn</t></e>
+ <e m="1"><o>feiern</o><t>celebrate</t></e>
+ <e m="11"><o>Ferkel, Schwein</o><t>pig</t></e>
+ <e m="11"><o>Ferse</o><t>heel</t></e>
+ <e m="1"><o>feststellen, behaupten</o><t>claim</t></e>
+ <e m="7"><o>Fetus</o><t>fetus</t></e>
+ <e m="7"><o>feucht (Waschküche, Stoff u.ä.)</o><t>dump</t></e>
+ <e m="7"><o>Feuchtigkeit (Luft)</o><t>humidity</t></e>
+ <e m="3"><o>feudal</o><t>feudal</t></e>
+ <e m="4"><o>feudal</o><t>feudal</t></e>
+ <e m="3"><o>Feudalismus</o><t>feudalism</t></e>
+ <e m="4"><o>Feudalsystem</o><t>feudal system</t></e>
+ <e m="10"><o>fiktionaler Text</o><t>fictional text</t></e>
+ <e m="3"><o>Finanzminister</o><t>Chancellor of the Exchequer</t></e>
+ <e m="1"><o>Fluch</o><t>curse</t></e>
+ <e m="7"><o>Flussquelle</o><t>spring</t></e>
+ <e m="11"><o>flüchtiger Blick</o><t>glimpse</t></e>
+ <e m="7"><o>flüssig</o><t>fluid</t></e>
+ <e m="7"><o>flüssig</o><t>liquid</t></e>
+ <e m="10" t="aj"><o>flüssig</o><t>fluent</t></e>
+ <e m="2"><o>Folge</o><t>result; consequence</t></e>
+ <e m="7"><o>fortpflanzungsunterstützende Technik</o><t>reproductive aid</t></e>
+ <e m="3"><o>Frage, Erkundigung</o><t>enquiry / inquiry</t></e>
+ <e m="3"><o>Fraktion</o><t r="Schreibung beachten!">faction</t></e>
+ <e m="1"><o>Freigebigkeit</o><t>munificence</t></e>
+ <e m="3"><o>Freiheit</o><t>liberty</t></e>
+ <e m="11" t="av"><o>freundschaftich, gütig</o><t>amicably</t></e>
+ <e m="1"><o>fromm</o><t>pious</t></e>
+ <e m="11"><o>Frontreihe, Menschenmauer</o><t>cordon</t></e>
+ <e m="7"><o>fruchtbar</o><t>fertile</t></e>
+ <e m="1"><o>Frömmigkeit</o><t>piety</t></e>
+ <e m="1"><o>führen; leiten</o><t>conduct</t></e>
+ <e m="3"><o>Führer, Leiter</o><t>leader</t></e>
+ <e m="11"><o>für etwas zusammengeschlagen werden</o><t>get clobbered for</t></e>
+ <e m="9"><o>für mich ist es ...</o><t>to me it is ...</t></e>
+ <e m="2"><o r="im Schach">Gambit; Einleitung</o><t>gambit</t></e>
+ <e m="11"><o>Gangsterei</o><t>gangsterism</t></e>
+ <e m="11"><o>ganz, vollständig, wesentlich</o><t>integral</t></e>
+ <e m="3"><o>gastfreundlich, einladend, freundlich</o><t>hospitable</t></e>
+ <e m="5"><o>Gaumen</o><t>palate</t></e>
+ <e m="11" t="v"><o>geben</o><t>hand</t></e>
+ <e m="4"><o>gedeihen, blühen</o><t>prosper</t></e>
+ <e m="10" t="n"><o>Gedicht</o><t>poem</t></e>
+ <e m="6"><o>gedämpft</o><t>muffold</t></e>
+ <e m="11"><o>gefragt</o><t>enquired</t></e>
+ <e m="1"><o>gegen jdn. wg. etw. prozessieren</o><t>suit sb. for sth.</t></e>
+ <e m="9"><o>gegenübergestellt sein, entgegenstehen</o><t>be opposed</t></e>
+ <e m="9"><o>gegenüberstellen</o><t>contrast sth. with sth. else</t></e>
+ <e m="3"><o>Gegner</o><t>opponent</t></e>
+ <e m="3"><o>Geheimdienst</o><t>domestic intelligence</t></e>
+ <e m="2"><o>gehobener, formaler Stil</o><t>formal style</t></e>
+ <e m="11"><o>gehockt</o><t>crouched</t></e>
+ <e m="1"><o>gehorchen</o><t>obey</t></e>
+ <e m="11"><o>geisterhaft</o><t>ghostly</t></e>
+ <e m="4"><o>Geistesgelehrter</o><t>scholar</t></e>
+ <e m="1"><o>geistlich</o><t>spiritual</t></e>
+ <e m="4"><o>Geistliche</o><t>clergy</t></e>
+ <e m="1"><o>Geistlicher</o><t>clergyman</t></e>
+ <e m="10" t="aj"><o>gekünstelt</o><t>affected</t></e>
+ <e m="11"><o>gekürzt um, außer</o><t>short of</t></e>
+ <e m="1"><o>Geld aufbringen</o><t>raise</t></e>
+ <e m="11"><o>gelähmt</o><t>paralysed</t></e>
+ <e m="11"><o>Gemahl(in)</o><t>consort</t></e>
+ <e m="1"><o>Gemeinde</o><t>congregation</t></e>
+ <e m="3"><o>Gemeinde, Gemeinschaft, Allgemeinheit</o><t>community</t></e>
+ <e m="1"><o>Gemeinde, Pfarrei</o><t>parish</t></e>
+ <e m="4"><o>gemeinsam, allgemein</o><t>common</t></e>
+ <e m="11"><o>gemeinsamer Lösungsvorschlag</o><t>consultation proposal</t></e>
+ <e m="1"><o>Gemeinschaft</o><t>communion</t></e>
+ <e m="2"><o>Gemüse</o><t>vegetable</t></e>
+ <e m="10"><o>genau; wissenschaftlich; pedantisch</o><t>precise</t></e>
+ <e m="7" t="n"><o>Genauigkeit</o><t>precision</t></e>
+ <e m="11"><o>genialer Schwärmer</o><t>ingenue</t></e>
+ <e m="11"><o>gerade soviel</o><t>so much</t></e>
+ <e m="1"><o>gerecht, genau, gerade</o><t>just</t></e>
+ <e m="1"><o>Gerechtigkeit</o><t>justice</t></e>
+ <e m="1"><o>gerichtl. Verfügung</o><t>injunction</t></e>
+ <e m="1"><o>Gerichtsprozess</o><t>suit</t></e>
+ <e m="1" t="n"><o>Gerichtsprozess</o><t>suit</t></e>
+ <e m="3"><o>Gerichtsverfahren</o><t>legal proceedings</t></e>
+ <e m="4"><o>Gerüst, Baugerüst, Balken</o><t>scaffold</t></e>
+ <e m="3"><o>geschlagen werden</o><t>get hit</t></e>
+ <e m="7"><o>Geschlecht</o><t>sex</t></e>
+ <e m="3"><o>geschnitzt, behauen</o><t>carved</t></e>
+ <e m="1"><o>Geschäft; Unternehmen</o><t>Enterprise</t></e>
+ <e m="2"><o>Geschöpf</o><t p="krietscha">creature</t></e>
+ <e m="1"><o>Gesetz</o><t>act</t></e>
+ <e m="1"><o>Gesetz für Gleichberechtigung</o><t>Equal Access Act</t></e>
+ <e m="3"><o>Gesetzesvorlage</o><t>bill</t></e>
+ <e m="3"><o>Gesetzgebung</o><t>legislation</t></e>
+ <e m="4"><o>gespielte Geschichte aus der Bibel</o><t>Mystery Play / Miracle Play</t></e>
+ <e m="5"><o>Gespräch, Dialog</o><t>dialogue</t></e>
+ <e m="11"><o>Gestalt</o><t>form</t></e>
+ <e m="7"><o>Getreidekorn</o><t>grain</t></e>
+ <e m="7"><o>Gewebe</o><t>tissue</t></e>
+ <e m="7"><o>Gewinn {m}</o><t>yield</t></e>
+ <e m="11"><o>gewinnen, erreichen, bekommen</o><t>gain</t></e>
+ <e m="1"><o>Gewissen</o><t>conscience</t></e>
+ <e m="1"><o>gewissenhaft, Gewissens-</o><t>conscientious</t></e>
+ <e m="2"><o>gewissenlos</o><t>ruthless</t></e>
+ <e m="7" t="n"><o>Gewissheit</o><t>certainty</t></e>
+ <e m="11"><o>gewähren, verleihen, übertragen</o><t>grant</t></e>
+ <e m="2"><o>gewöhnt sein, etw. zu tun</o><t>used to + gerund</t></e>
+ <e m="4"><o>Gier</o><t>covetousness</t></e>
+ <e m="7"><o>gießen; schütten</o><t p="poa">pour</t></e>
+ <e m="7"><o r="wörtlich und i.S.v. »Gipfeltreffen«">Gipfel</o><t>summit</t></e>
+ <e m="1"><o>Glaubensbekenntnis</o><t>creed</t></e>
+ <e m="1"><o>Glaubensbekenntnis, Glaube</o><t>belief</t></e>
+ <e m="10"><o>gleichen, ähneln</o><t>resemble</t></e>
+ <e m="11"><o>Gleichnis, Vergleich (nur als Stilmittel)</o><t>simile</t></e>
+ <e m="11"><o>gleichsetzen mit</o><t>compare with</t></e>
+ <e m="3"><o>Gliedmaßen</o><t>limbs</t></e>
+ <e m="1"><o>Glut, Inbrunst</o><t>fervor</t></e>
+ <e m="1"><o>glücklich</o><t>fortunate</t></e>
+ <e m="11"><o>glühende Asche</o><t>embers</t></e>
+ <e m="1"><o>Gottesdienst</o><t>divine service</t></e>
+ <e m="1"><o>Grab</o><t>grave</t></e>
+ <e m="2"><o>Grab</o><t p="tu:m">tomb</t></e>
+ <e m="11"><o>Graben</o><t>ditch</t></e>
+ <e m="7"><o y="-">Grad Celsius</o><t y="degree Celsius">degree centigrade</t></e>
+ <e m="5"><o>Grammatik</o><t>grammar</t></e>
+ <e m="2"><o>greatest / biggest difference</o><t>largest difference</t></e>
+ <e m="11"><o>grenzüberschreitend</o><t>cross-border</t></e>
+ <e m="2"><o>grotesk</o><t>grotesk</t></e>
+ <e m="10"><o>group of mental pictures, concepts, Bildsprache</o><t>imagery</t></e>
+ <e m="2"><o>großartig</o><t>terrific</t></e>
+ <e m="7"><o>großer Wald</o><t>forest</t></e>
+ <e m="1"><o>Grundlage</o><t>bedrock</t></e>
+ <e m="3"><o>Gruppe</o><t>group</t></e>
+ <e m="11"><o>gräßlich</o><t>ghastly</t></e>
+ <e m="11" t="n"><o>Gunst, Begünstigung</o><t>favour</t></e>
+ <e m="1"><o>göttlich</o><t>divine</t></e>
+ <e m="11"><o>günstig</o><t>favourable</t></e>
+ <e m="4"><o>Habsucht</o><t>avarice</t></e>
+ <e m="2"><o>Hafen, Basis der US-Army in Vietnam</o><t>Danang</t></e>
+ <e m="7"><o>Hafer (Pluralwort, in ding im Sing.)</o><t>oats</t></e>
+ <e m="4"><o>Handfläche</o><t p="p'aam">palm</t></e>
+ <e m="2"><o>Handlungsstrang</o><t></t></e>
+ <e m="4"><o>Handwerkergilden</o><t>guilds</t></e>
+ <e m="1"><o>Hauptrichtung</o><t>mainstream</t></e>
+ <e m="5"><o>Hauptsatz</o><t>principal clause</t></e>
+ <e m="3"><o>hauptsächlich</o><t>predominantly</t></e>
+ <e m="1"><o>heidnisch</o><t>pagan</t></e>
+ <e m="1"><o>heilig</o><t>holy</t></e>
+ <e m="11"><o>heimlich, verstohlen</o><t>by stealth</t></e>
+ <e m="1"><o>Herde</o><t>flock</t></e>
+ <e m="3"><o>Herkunftsland</o><t>country of origin</t></e>
+ <e m="3"><o>Herrscher</o><t>sovereign</t></e>
+ <e m="3"><o>Herrscher</o><t>ruler</t></e>
+ <e m="11"><o>herunterfließen</o><t>pour down</t></e>
+ <e m="6"><o x="vgl.: die polnischen Regierungsbezirke heußen »Voivodschaft«">Herzog</o><t r="slawisch aus: [Voi = army, battle] + [vode = (to) lead]">Voivode</t></e>
+ <e m="1"><o>Heuchelei</o><t>sham</t></e>
+ <e m="4"><o>Heuchelei</o><t>hypocrisy</t></e>
+ <e m="2"><o>heutzutage, aktuell</o><t>currently</t></e>
+ <e m="6"><o>hier - dort</o><t>here - there</t></e>
+ <e m="4"><o>hier: religiöse / moralische Fähigkeit der Selbsterkenntnis als Sünder</o><t>knowledge</t></e>
+ <e m="11" t="v"><o>hier: vorwärtskommen, um anzugreifen</o><t>charge</t></e>
+ <e m="11"><o>hier: zentraler Unruhestifter</o><t>threat</t></e>
+ <e m="6"><o>hierhin - dorthin</o><t r="archaic">hither - thither</t></e>
+ <e m="4"><o>hierhin - dorthin</o><t>hither - thither</t></e>
+ <e m="11"><o>hineinlocken</o><t>entice</t></e>
+ <e m="11"><o y="-">hinten</o><t y="back; behind">aft</t></e>
+ <e m="3"><o>hinter sich, im Schlepptau</o><t>in his wake</t></e>
+ <e m="9"><o>hinzufügen</o><t>add</t></e>
+ <e m="11"><o>hochziehen, hochschleppen</o><t>trail up</t></e>
+ <e m="1"><o>Hoffnung (auf)</o><t>hope (for)</t></e>
+ <e m="7"><o>Horizont</o><t>horizon</t></e>
+ <e m="1"><o>Humanismus</o><t>humanism</t></e>
+ <e m="3"><o>Hunger</o><t>famine</t></e>
+ <e m="11"><o>Hungerlohn</o><t>pittance</t></e>
+ <e m="3"><o>Hungers sterben</o><t>starve to death</t></e>
+ <e m="7" t="v"><o>Hungers sterben</o><t>starve to death</t></e>
+ <e m="11"><o>Hungers sterben</o><t>starve to death</t></e>
+ <e m="9"><o>ich bin (absolut) überzeugt</o><t>I am (absolutely) convinced</t></e>
+ <e m="9"><o>ich denke eher, dass ...</o><t>I rather think this is ...</t></e>
+ <e m="11"><o>Ich kann mich mit ihm nicht auf eine Stufe stellen.</o><t>I can't compare with him.</t></e>
+ <e m="9"><o>ich muss zugeben</o><t>I have to admit</t></e>
+ <e m="9"><o>Ich möchte gerne betonen / herausstellen</o><t>I would like to point out ...</t></e>
+ <e m="11"><o>Idee, Meinung</o><t>thought</t></e>
+ <e m="11"><o>Idee, Meinung, Vorstellung</o><t>notion</t></e>
+ <e m="9"><o>im Allgemeinen</o><t>generally speaking / in general</t></e>
+ <e m="9"><o>im Ganzen</o><t>on the whole</t></e>
+ <e m="9"><o>im Gegensatz zu etwas stehen</o><t>be in contrast to</t></e>
+ <e m="9"><o>im großen und ganzen</o><t>largely</t></e>
+ <e m="4"><o>im Laufe von</o><t>in the course of</t></e>
+ <e m="11"><o>im Namen / Auftrag von; um ... willen; seitens; für</o><t>on behalf of</t></e>
+ <e m="9"><o>im Vortrag: Zitat ... Zitat Ende</o><t>quote ... unquote</t></e>
+ <e m="3"><o>in Bereitschaft halten</o><t>keep in readiness</t></e>
+ <e m="4"><o>in den Mittelpunkt rücken</o><t>come into the center</t></e>
+ <e m="4"><o>in der Luft hängen, drohen (z.B. civil war)</o><t>impend</t></e>
+ <e m="9"><o>in der Regel</o><t>as a rule, ...</t></e>
+ <e m="9"><o>in diesem speziellen Fall</o><t>in this particular case</t></e>
+ <e m="9"><o>in dieser Hinsicht</o><t>in this respect</t></e>
+ <e m="9"><o>in einem mehr oder minder großen Ausmaß</o><t>to a greater or lesser degree</t></e>
+ <e m="2"><o>in etwas geraten</o><t>wind up</t></e>
+ <e m="11"><o>in jds. Rolle schlüpfen</o><t>steal sb.'s clothes</t></e>
+ <e m="2"><o>in letzter Zeit</o><t>recently; shortly</t></e>
+ <e m="5"><o>in Verbindung treten (mit); mitteilen</o><t>communicate (with)</t></e>
+ <e m="9"><o>in Wirklichkeit übertreffen die Gemeinsamkeiten die Unterschiede bei weitem</o><t>in reality, however, the similarities far outnumber the differences</t></e>
+ <e m="7"><o>Ingenieur {m}, Techniker {m}</o><t>engineer</t></e>
+ <e m="7"><o>Ingenieurarbeit; Design und Konstruktion</o><t>engineering</t></e>
+ <e m="3"><o>Innenminister</o><t>Secretary of State for Home Affairs</t></e>
+ <e m="9"><o>ins Detail gehen</o><t>go into detail</t></e>
+ <e m="3"><o>Insel(n)</o><t>isle(s), island(s)</t></e>
+ <e m="9"><o>insgesamt</o><t>altogether</t></e>
+ <e m="11"><o>institutionalisierte Verbindung</o><t>formal link</t></e>
+ <e m="11"><o>intensiv, stark, heftig</o><t>intense</t></e>
+ <e m="1"><o>Interessengruppen</o><t>advcacy groups</t></e>
+ <e m="3"><o>Internierung</o><t>internment</t></e>
+ <e m="1"><o>Interview</o><t>interview</t></e>
+ <e m="1" t="#1"><o>intrauteri devices = Verhütungsmittel im Uterus</o><t>IUD</t></e>
+ <e m="11" t="nm"><o>irische Stadt mit altem Parlamentssitz</o><t>Stormont</t></e>
+ <e m="11"><o>irischer Premierminister</o><t p="t'eeshuck">Taoiseach</t></e>
+ <e m="11"><o>irisches Parlament</o><t>Dail</t></e>
+ <e m="6"><o>irren</o><t>to err, to wander, to stray</t></e>
+ <e m="3"><o>it is the hunger</o><t r="Gälisch">Tha shein ukrosh</t></e>
+ <e m="7"><o>Jahreszeit</o><t>season</t></e>
+ <e m="6"><o>janusköpfig</o><t>ambivalent</t></e>
+ <e m="11"><o>jdm. dienen / jd. helfen</o><t>minister to sb.</t></e>
+ <e m="10" t="v"><o>jdm. etw. versichern</o><t>(to) assure so. of sth.</t></e>
+ <e m="2"><o>jdm. ist etwas peinlich</o><t>feel embarassed</t></e>
+ <e m="1" t="v"><o>jdn. diskriminieren</o><t>discriminate against</t></e>
+ <e m="11"><o>jdn. mit jdm. verheiraten</o><t>marry ... to ...</t></e>
+ <e m="2"><o>jeder geht seinen Weg</o><t>everyone goes their way</t></e>
+ <e m="9"><o>jedoch</o><t>but / however</t></e>
+ <e m="7"><o>Johannisbeeren</o><t>blackcurrent</t></e>
+ <e m="6"><o>jüngere, letztere</o><t>latter</t></e>
+ <e m="3"><o>Kabinett</o><t>cabinet</t></e>
+ <e m="1"><o>Kampf; kämpfen (um)</o><t>struggle  (for)</t></e>
+ <e m="4"><o>Karl der Große</o><t>Charlemagne [tschal'main]</t></e>
+ <e m="1"><o>Katholiken</o><t>Catholics</t></e>
+ <e m="11"><o>kaum, fast nicht</o><t>scarcely</t></e>
+ <e m="11"><o>keimen; keimen lassen</o><t>germinate</t></e>
+ <e m="9"><o>Kern, zentraler Inhaltspunkt</o><t>gist</t></e>
+ <e m="2"><o>Kernaussage</o><t>gist</t></e>
+ <e m="7"><o r="(Flora)">Kiefer</o><t>pine</t></e>
+ <e m="11" t="nm"><o>Kindermusical mit spazierenden Paaren</o><t>The Grand Old Duke of York</t></e>
+ <e m="1" t="n"><o>Kirchenlied</o><t>hymn</t></e>
+ <e m="1"><o>Kirchensitz</o><t>pew</t></e>
+ <e m="1"><o>kirchlich</o><t>clerical</t></e>
+ <e m="11"><o>Klammern</o><t>braces</t></e>
+ <e m="2"><o>Klapsmühle</o><t r="colloquial">loony bin</t></e>
+ <e m="10"><o>klar; deutlich</o><t>distinctly; plainly</t></e>
+ <e m="2"><o>Klatschblatt</o><t>popular papers</t></e>
+ <e m="4" t="v"><o>Kleider ausziehen</o><t>take out clothes</t></e>
+ <e m="7"><o>kleiner Wald, Gehölz</o><t>wood</t></e>
+ <e m="2"><o>klingeln</o><t>ring - rang - rang</t></e>
+ <e m="3"><o>Kloster</o><t>monastery</t></e>
+ <e m="11"><o>klären</o><t>clarify</t></e>
+ <e m="7"><o>Knöchel</o><t>uncle</t></e>
+ <e m="7"><o>Komfort; Bequemlichkeit</o><t>convenience</t></e>
+ <e m="5"><o>Komma</o><t>comma</t></e>
+ <e m="1"><o>Konfession</o><t>denomination</t></e>
+ <e m="10"><o>Konnotation</o><t r="associations and expeariences with a word">connotation</t></e>
+ <e m="9"><o r="beiordnende Verwendung also mit zweitem Hauptsatz">konsequenterweise; folgerichtig</o><t>consequently</t></e>
+ <e m="5"><o>Konsonant</o><t>consonant</t></e>
+ <e m="3"><o>Kopf, Chef</o><t>head</t></e>
+ <e m="7"><o>Kopfsalat</o><t>lettuce</t></e>
+ <e m="1"><o>Kost; Speise</o><t>fare</t></e>
+ <e m="1"><o>Kraft messen mit</o><t>pit against</t></e>
+ <e m="11"><o>Krawatte; Anker, Fessel, Verpflichtung</o><t>tie</t></e>
+ <e m="10"><o>Kreuzworträtsel-artige Detektivgeschichte</o><t>crossword-puzzle type detective story</t></e>
+ <e m="1"><o>Kreuzzug</o><t>crusade</t></e>
+ <e m="10"><o>Kritik</o><t>criticism</t></e>
+ <e m="11"><o>Kritik gegen etw.</o><t>criticism</t></e>
+ <e m="10"><o>kritisieren</o><t>criticize; review</t></e>
+ <e m="2"><o a="gerade">krumm</o><t a="straight">crooked</t></e>
+ <e m="11"><o>Kränkeln</o><t>sickening</t></e>
+ <e m="2"><o>Ku-Klux-Klan</o><t>Ku-Klux-Klan</t></e>
+ <e m="7"><o>Kupfer</o><t>copper</t></e>
+ <e m="6"><o>kurze Reise</o><t>trip</t></e>
+ <e m="1"><o>Kurzgeschichte</o><t>short story</t></e>
+ <e m="10"><o>Kurzgeschichte; Novelle</o><t>short story</t></e>
+ <e m="9"><o>kurzum</o><t>in short</t></e>
+ <e m="2"><o>König (Schach)</o><t>king (Schach)</t></e>
+ <e m="4"><o>König, Lord</o><t>liege</t></e>
+ <e m="3"><o>königlich</o><t>royal</t></e>
+ <e m="6"><o>Königreich, geistiges Reich</o><t>realm</t></e>
+ <e m="3"><o>Körperschaft</o><t>body</t></e>
+ <e m="7"><o>kühl, frisch</o><t>chilly</t></e>
+ <e m="7"><o>künstliche Besamung</o><t>artificial insemination</t></e>
+ <e m="7"><o>künstliche Kanäle</o><t>canal</t></e>
+ <e m="10" t="aj"><o>langweilig</o><t>tedious</t></e>
+ <e m="1"><o>lasterhaft</o><t>vicious</t></e>
+ <e m="6"><o>lat. from beyond-the-forest</o><t>Transylvania, auch Transilvania</t></e>
+ <e m="10"><o>Lautmalerei</o><t r="means: the word itself represent the sound that it describes">onomatopoeia</t></e>
+ <e m="10"><o>lautmalerisch</o><t>onomatopoeic</t></e>
+ <e m="3"><o>law that enables you to rule your own country</o><t>Home Rule bill</t></e>
+ <e m="2"><o>Lebensunterhalt</o><t>livelyhood</t></e>
+ <e m="11"><o>Lebensunterhalt, Nahrung</o><t>sustenance</t></e>
+ <e m="7"><o>Leber</o><t>liver</t></e>
+ <e m="7"><o>leeren</o><t>deplete</t></e>
+ <e m="3"><o>Leibeigenschaft</o><t>servitude</t></e>
+ <e m="1"><o>leiden (an)</o><t>suffer (from)</t></e>
+ <e m="11"><o>Leidenschaft, Zorn</o><t>passions</t></e>
+ <e m="7"><o>Leihmutter</o><t>host mother</t></e>
+ <e m="9"><o>letztendlich, schließlich</o><t>finally</t></e>
+ <e m="11"><o>Leute, die sich mit etwas beschäftigen</o><t>students</t></e>
+ <e m="2"><o>Leutnant</o><t>lieutenant</t></e>
+ <e m="4"><o>Leutnant</o><t p="BE: leff'tennend AE: lu'tenand">lieutenant</t></e>
+ <e m="11"><o>Lichtpunkt</o><t>flash-point</t></e>
+ <e m="1" t="n"><o r="Harvard">Liga der Großen Wissenden</o><t>ivy legue</t></e>
+ <e m="5"><o>Lippen</o><t>lips</t></e>
+ <e m="10"><o>literal meaning of a word, cf. dictionary</o><t>denotation</t></e>
+ <e m="11"><o>Literatur- oder Kulturkritik</o><t>critique</t></e>
+ <e m="3"><o>Lordoberrichter und Vorsitzender des Oberhauses</o><t>Lord Chancellor of England / Lord High Chancellor</t></e>
+ <e m="1"><o>Los, Anteil</o><t>lot</t></e>
+ <e m="11"><o>loswerden</o><t>get rid of</t></e>
+ <e m="5"><o>Luftröhre</o><t>wind pipe</t></e>
+ <e m="11"><o>Lumpen</o><t>rag</t></e>
+ <e m="1"><o>Luxus</o><t>luxury</t></e>
+ <e m="2"><o>Läufer (Schach)</o><t>bishop (Schach)</t></e>
+ <e m="2"><o>löschen</o><t>extinguish</t></e>
+ <e m="7"><o>Lösung (eines Stoffes, eines Rätsels)</o><t>solution</t></e>
+ <e m="3"><o>mahlen, schleifen, (mit den Zähnen:)knirschen</o><t>grind - ground - ground</t></e>
+ <e m="7"><o>Mais</o><t>corn</t></e>
+ <e m="7"><o>Malz</o><t>malt</t></e>
+ <e m="9"><o>man erwartet von ihm, dass er ... tut</o><t>he is supposed to; he is meant to</t></e>
+ <e m="9"><o>man kann sicher sagen</o><t>it's safe to say</t></e>
+ <e m="7"><o>Mangel {m}</o><t>scarcity</t></e>
+ <e m="2"><o>marxistisch</o><t>marxist</t></e>
+ <e m="2" t="#1"><o>Massachusettes</o><t>Mass.</t></e>
+ <e m="4"><o>Maultierführer</o><t>muleteer</t></e>
+ <e m="7"><o>Meeresspiegel (above / below)</o><t>sea level</t></e>
+ <e m="3"><o>Mehltau, Kartoffelfäule</o><t>blight</t></e>
+ <e m="9"><o>mehr oder weniger, so gut wie</o><t x="&quot;I'm more or less dead.&quot;">more or less</t></e>
+ <e m="3"><o>Mehrheitsprinzip</o><t>majority rule</t></e>
+ <e m="3"><o>Meilenstein</o><t>landmark</t></e>
+ <e m="3"><o>Meinung, Gutachten</o><t>opinion</t></e>
+ <e m="1"><o>Meinungsversch.</o><t>dissent</t></e>
+ <e m="3" t="#1"><o>Member of Parliament</o><t>MP</t></e>
+ <e m="3"><o>Menschenrechte</o><t>human rights</t></e>
+ <e m="10"><o>mental picture, concept</o><t>image</t></e>
+ <e m="11"><o>merkwürdig, seltsam, komisch</o><t>weird</t></e>
+ <e m="7"><o>Messing (auch für Blechblasinstrumente)</o><t>brass</t></e>
+ <e m="10"><o>Metrum</o><t>metre</t></e>
+ <e m="11"><o>milchgesichtig</o><t>whey-faced</t></e>
+ <e m="3"><o>Minister, Gesandte(r), Pfarrer</o><t>minister</t></e>
+ <e m="3"><o>Ministerpräsident, Premierminister</o><t>Prime Minister</t></e>
+ <e m="7" t="v"><o r="(z.B. eine Schwangerschaft)">misslingen, scheitern</o><t>miscarry</t></e>
+ <e m="3"><o>Missstand, Bescherde</o><t>grievance</t></e>
+ <e m="1"><o>mit Hilfe</o><t>by means</t></e>
+ <e m="11"><o>mit jdm. zusammentreffen</o><t>get through</t></e>
+ <e m="2"><o>Mitleid</o><t>compassion</t></e>
+ <e m="4"><o>Mitleid</o><t>pity</t></e>
+ <e m="3"><o>Mittel</o><t r="»means« ist gleichzeitig Singular und Plural">means</t></e>
+ <e m="4" t="nm"><o r="476 - 1500 n.Chr.">Mittelalter</o><t>Middle Ages</t></e>
+ <e m="4"><o>mittelalterlich</o><t>medieval</t></e>
+ <e m="1"><o>mitten in</o><t>amid</t></e>
+ <e m="11"><o>mittlerweile, inzwischen, unterdessen</o><t>meanwhile</t></e>
+ <e m="3"><o>Mitwirkung, Beitrag</o><t>contribution</t></e>
+ <e m="2"><o>moderne Technik</o><t>modern technology</t></e>
+ <e m="11"><o>Monster</o><t>gremlin</t></e>
+ <e m="2"><o>Moral</o><t>morals</t></e>
+ <e m="11"><o>Morast</o><t>morass</t></e>
+ <e m="7"><o>Muskel</o><t>muscle</t></e>
+ <e m="7"><o>Muster, Materialprobe</o><t>sample</t></e>
+ <e m="3"><o>mutwillig, ausgelassen, wild</o><t>wanton</t></e>
+ <e m="2"><o>Märchen</o><t>fairy tale</t></e>
+ <e m="11"><o>Möglichkeit zur Kontrolle / Einschränkung</o><t>locking device</t></e>
+ <e m="11"><o>Mönch</o><t>monk</t></e>
+ <e m="3"><o>mündlich</o><t>oral</t></e>
+ <e m="1"><o>nachdenken (über)</o><t>meditate (on)</t></e>
+ <e m="3"><o>Nachfolger, who comes after you</o><t>successor</t></e>
+ <e m="11" t="#2"><o>Nachfrage und Angebot</o><t>demand and supply</t></e>
+ <e m="6"><o>nachgeben, geben</o><t>yield</t></e>
+ <e m="6"><o>Nachname</o><t>surname</t></e>
+ <e m="6"><o>Nachteinbruch</o><t>nightfall</t></e>
+ <e m="11"><o>naiv</o><t>naive</t></e>
+ <e m="11"><o>naja, immerhin; nach allem; als Resultat;</o><t>after all</t></e>
+ <e m="2"><o>Narbe</o><t>scar</t></e>
+ <e m="1"><o>Nationalhymne</o><t>anthem</t></e>
+ <e m="6"><o>Naturwissenschaftler (z.B. kein Linguist!)</o><t>scientist</t></e>
+ <e m="7"><o>natürlicher Kanal</o><t>channel</t></e>
+ <e m="2"><o>Neugier</o><t>curiosity</t></e>
+ <e m="6"><o r="vgl. SüdDeutsch »Zeitung, Gezeiten« und NordDeutsch »Tide« (typ. ohne Aspirationslaut)">Neuigkeiten</o><t>tiding</t></e>
+ <e m="10"><o>nicht in Strophen unterteilte Gedichtform</o><t>sonnet</t></e>
+ <e m="1"><o>nicht korrekt</o><t>improper</t></e>
+ <e m="9"><o>nicht zuletzt, weil am geringsten</o><t r="least von little">last but not least</t></e>
+ <e m="4"><o>Nicht-Geistlicher</o><t>layman</t></e>
+ <e m="1"><o>nicht-taktgemäße Betonung auf 2 und 4</o><t>off-beat</t></e>
+ <e m="1"><o>nichtsdestoweniger</o><t>nonetheless</t></e>
+ <e m="1"><o>niederknien</o><t>kneel down</t></e>
+ <e m="3"><o>Niederlage</o><t>defeat</t></e>
+ <e m="9"><o>niemand wird in Frage stellen, dass ...</o><t>nobody will question that ...</t></e>
+ <e m="9"><o>niemand wird verneinen / bestreiten, dass ...</o><t>nobody will deny that ...</t></e>
+ <e m="11"><o>notleidend</o><t>destitute</t></e>
+ <e m="3"><o>Notstand</o><t>state of emergency</t></e>
+ <e m="2"><o>Notwendigkeit, Bedürfnis, Zwang</o><t>necessity</t></e>
+ <e m="11"><o>nur, rein, bloß, lediglich, allein</o><t>merely</t></e>
+ <e m="7"><o>nutzbar machen; benutzen</o><t>utilize</t></e>
+ <e m="1"><o>Nutzen</o><t>avail</t></e>
+ <e m="7"><o>Nährstoff</o><t>nutrient</t></e>
+ <e m="4"><o>nüchtern</o><t>sober</t></e>
+ <e m="11"><o>Ober(lehns)herrschaft</o><t>overlordship</t></e>
+ <e m="2"><o>oberflächlich</o><t>superficial</t></e>
+ <e m="2"><o>Oberst</o><t>colonel</t></e>
+ <e m="1"><o>Oberster Gerichtshof der USA</o><t>Supreme Court</t></e>
+ <e m="3"><o>objektiv, unparteiisch</o><t>impartial</t></e>
+ <e m="11"><o>obwohl</o><t p="(al)'though">(al)though</t></e>
+ <e m="1"><o>obwohl</o><t>though</t></e>
+ <e m="1"><o>offenbaren</o><t>reveal</t></e>
+ <e m="3"><o>offensichtlich</o><t>apparently</t></e>
+ <e m="3"><o>offensichtlich</o><t>evidently</t></e>
+ <e m="9"><o>offensichtliche Schlussfolgerung ...</o><t>obvious conclusion ...</t></e>
+ <e m="5"><o>one language community impinges on another</o><t>language contact situation</t></e>
+ <e m="3"><o>Ordnung, Befehl, Auftrag</o><t>order</t></e>
+ <e m="11"><o>Organismus</o><t>organism</t></e>
+ <e m="1"><o>orthodox</o><t>orthodox</t></e>
+ <e m="10"><o>Paarreim / Reimpaar in Gedichten</o><t>couplet</t></e>
+ <e m="11"><o>panisch machen / fühlen</o><t>panick</t></e>
+ <e m="1"><o>Papst</o><t>pope</t></e>
+ <e m="3"><o>parlamentarisch</o><t>parliamentary</t></e>
+ <e m="3"><o>Parlamentsbeschluss, Gesetz</o><t>act of Parliament</t></e>
+ <e m="3"><o>Partei ergreifen (für)</o><t>side (with)</t></e>
+ <e m="3"><o>Partei, Gesellschaft</o><t>party</t></e>
+ <e m="3"><o>Parteiprogramm; Programm</o><t>program(me) (BE), platform (AE)</t></e>
+ <e m="3"><o>periodische Kriege, fightings</o><t>warfare</t></e>
+ <e m="1"><o>Pfarrei, Pfarrhaus</o><t>parsonage</t></e>
+ <e m="2"><o>Pferd (Schach)</o><t r="the only piece which can skip the others">knight (Schach)</t></e>
+ <e m="7"><o>Pfirsich</o><t>peach</t></e>
+ <e m="7"><o>Pflug</o><t>plough</t></e>
+ <e m="10"><o>Phantasie; Einbildungskraft</o><t>imagination</t></e>
+ <e m="3"><o>plagen, lästig sein</o><t>pester</t></e>
+ <e m="10"><o>planlos</o><t>planless</t></e>
+ <e m="3"><o>Plicht (gegen)</o><t>duty (to, towards)</t></e>
+ <e m="11"><o>Politik, Klugheit, geschicktes Verhalten</o><t>policy</t></e>
+ <e m="2"><o>politikbezogen</o><t>relatd to politics</t></e>
+ <e m="3"><o>Politiker</o><t>politician</t></e>
+ <e m="3"><o>politisch</o><t>political</t></e>
+ <e m="3"><o>politisches Gesetz</o><t>act</t></e>
+ <e m="3"><o>Polizei in Zivil</o><t>plain-clothes man</t></e>
+ <e m="3"><o>Polizeiwache</o><t>police station</t></e>
+ <e m="3"><o r="Eselsbrücke »Konstabler« = »Polizist«">Polizist</o><t>constabulary</t></e>
+ <e m="2" t="#1"><o>post scriptum</o><t>p.s.</t></e>
+ <e m="6"><o>praktischer Arzt</o><t>surgeon</t></e>
+ <e m="1"><o>predigen</o><t>preach</t></e>
+ <e m="1"><o>Predigt</o><t>sermon</t></e>
+ <e m="11"><o>Preis, Kosten, Schaden, Nachteil</o><t>cost</t></e>
+ <e m="9"><o>Pro und Contra</o><t>pros and cons</t></e>
+ <e m="1"><o>prophezeien</o><t>prophesy</t></e>
+ <e m="3"><o>Prozess</o><t>law-suit</t></e>
+ <e m="1"><o>prozessieren</o><t>suit sb. for sth.</t></e>
+ <e m="2"><o>prächtig, glänzend</o><t>gorgeous</t></e>
+ <e m="2"><o>Psychologe</o><t>psychiatrist</t></e>
+ <e m="3"><o>Publikum; öffentlich, allgemein bekannt</o><t>public</t></e>
+ <e m="5"><o>Punkt</o><t>colon</t></e>
+ <e m="3"><o>Qual, Schmerz</o><t>anguish</t></e>
+ <e m="11"><o>Queen's University, Belfast</o><t>Queen's</t></e>
+ <e m="3"><o>radikal, gründlich</o><t>radical</t></e>
+ <e m="3"><o>Rahmenabkommen</o><t>framework document</t></e>
+ <e m="7"><o>Rasenmäher</o><t>lawn mower</t></e>
+ <e m="3"><o>Rat</o><t>advice</t></e>
+ <e m="3"><o>rebellisch, widerspenstig</o><t>rebellious</t></e>
+ <e m="1"><o>rechtfertigen</o><t>justify</t></e>
+ <e m="3"><o>Rechtsprechung, Gerichtsbarkeit</o><t>jurisdiction</t></e>
+ <e m="2"><o>Reflex</o><t>reflex</t></e>
+ <e m="11"><o>refuse to accept</o><t>repudiate</t></e>
+ <e m="11"><o>Regenschirm</o><t>umbrella</t></e>
+ <e m="3"><o>regieren</o><t>govern</t></e>
+ <e m="3"><o>Regierung</o><t>government</t></e>
+ <e m="11"><o>Regierungssitz des britischen Premiers</o><t>Downing Street No. 10</t></e>
+ <e m="1"><o>Reichtum; Fülle; Wohlstand</o><t>wealth</t></e>
+ <e m="11"><o>Reihe</o><t p="tir">tier</t></e>
+ <e m="11"><o>Reim</o><t r="Schreibung beachten!">rhyme</t></e>
+ <e m="10"><o>Reimschema</o><t>rhyme scheme</t></e>
+ <e m="10"><o>Reimschema, bei dem Satzteile in der Folgezeile stehen</o><t>run-online</t></e>
+ <e m="1"><o>rein, echt</o><t>purely</t></e>
+ <e m="3"><o>Rekord, Aufzeichnung</o><t>record</t></e>
+ <e m="4"><o>Renaissance</o><t r="rebirth of art and culture of ancient times">Renaissance</t></e>
+ <e m="3"><o>Republik</o><t>republic</t></e>
+ <e m="3"><o>republikanisch</o><t>republican</t></e>
+ <e m="3"><o>Resignation, Rücktritt</o><t>resignation</t></e>
+ <e m="2"><o>retten</o><t>rescue</t></e>
+ <e m="2" t="v"><o>richtig verpacken; als Paket stapeln</o><t>square</t></e>
+ <e m="11"><o>riesig</o><t>vast</t></e>
+ <e m="6"><o>Ritter, Adliger</o><t>boyar</t></e>
+ <e m="7"><o>Roggen</o><t>rye</t></e>
+ <e m="11"><o>roh, unreif</o><t>crude</t></e>
+ <e m="10"><o>Roman</o><t>novel</t></e>
+ <e m="10"><o>Romanliteratur</o><t>fiction</t></e>
+ <e m="6"><o>Rosenkranz</o><t>rosery</t></e>
+ <e m="4"><o>ruhig</o><t>calm</t></e>
+ <e m="1"><o>Ruhm, Herrlichkeit</o><t>glory</t></e>
+ <e m="11"><o>Rückzug</o><t>retreat</t></e>
+ <e m="10"><o>rührend</o><t>touching</t></e>
+ <e m="7"><o>Saatgut, Same</o><t>seed</t></e>
+ <e m="3"><o>Sache, Problem, (Schlüssel)Frage</o><t>concern</t></e>
+ <e m="1"><o>sanft, leise,mild</o><t>gentle</t></e>
+ <e m="4"><o>sardonisch</o><t>sardonic</t></e>
+ <e m="7"><o>Satellit</o><t>satellite</t></e>
+ <e m="2"><o>Satzreihe</o><t>decompound sentences</t></e>
+ <e m="1"><o>Schaden, Unglück</o><t>harm</t></e>
+ <e m="1"><o>Schamgefühl, Schande</o><t>shame</t></e>
+ <e m="11"><o>schenken, spenden</o><t>donate</t></e>
+ <e m="11"><o>Schirmherrschaft</o><t>umbrella authority</t></e>
+ <e m="3"><o>Schlagstock; Gummiknüppel</o><t>truncheon</t></e>
+ <e m="11"><o>schlau</o><t>cunning</t></e>
+ <e m="7"><o>Schlauch; Gartenschlauch</o><t>hose</t></e>
+ <e m="3"><o>Schlepptau</o><t>wake</t></e>
+ <e m="3"><o>schließlich</o><t>eventually</t></e>
+ <e m="11"><o>schließlich</o><t>in the end</t></e>
+ <e m="11"><o>schlucken</o><t>swallow</t></e>
+ <e m="9"><o>schlussfolgern</o><t>drawing conclusions</t></e>
+ <e m="11"><o>Schläger, Gangster</o><t>hoodlum</t></e>
+ <e m="2"><o>schmeicheln</o><t>flatter</t></e>
+ <e m="1"><o>Schmerz</o><t>pain</t></e>
+ <e m="1"><o>schmerzhaft</o><t>painful</t></e>
+ <e m="1"><o>schmähen</o><t>lampoon</t></e>
+ <e m="11"><o>Schnauze</o><t>snout</t></e>
+ <e m="2"><o>Schnurrbart</o><t>mous'tache</t></e>
+ <e m="4"><o>Schreiner</o><t>carpenter</t></e>
+ <e m="10"><o>Schriftsteller</o><t>author; writer</t></e>
+ <e m="1"><o>schuldig</o><t>guilty</t></e>
+ <e m="7"><o>Schutz</o><t>shelter</t></e>
+ <e m="1"><o>schwanger werden</o><t>conceive</t></e>
+ <e m="7"><o>Schwangerschaft</o><t>pregnancy</t></e>
+ <e m="2"><o>schwanken, taumeln</o><t>stagger</t></e>
+ <e m="7"><o>schädlingsresistent</o><t>pest-resistant</t></e>
+ <e m="10"><o>Schönheit</o><t>beauty</t></e>
+ <e m="11"><o>Schützengraben</o><t>trench</t></e>
+ <e m="6"><o>Seereise</o><t>voyage</t></e>
+ <e m="5"><o>Segel</o><t r="an articulation organ">velum</t></e>
+ <e m="1"><o>segnen</o><t>bless</t></e>
+ <e m="3"><o>sehr schmutzig, very dirty</o><t>filthy</t></e>
+ <e m="1"><o>sehr unterstützen</o><t>hail</t></e>
+ <e m="7"><o>seicht</o><t>shallow</t></e>
+ <e m="3"><o>Sekten-</o><t>sectarian</t></e>
+ <e m="2"><o>Selbstwertgefühl</o><t>self-esteem</t></e>
+ <e m="11" t="av"><o>selten</o><t>rarely</t></e>
+ <e m="2"><o>seltsam</o><t>peculiar</t></e>
+ <e m="5"><o>Semikolon</o><t>semicolon</t></e>
+ <e m="2"><o>seriöses Blatt</o><t>qualitty paper</t></e>
+ <e m="2"><o>Showimage</o><t>gimmick</t></e>
+ <e m="9"><o>sich (aus)denken, vorstellen, erdenken, ersinnen</o><t>conceive</t></e>
+ <e m="9"><o>sich abheben, unterscheiden von</o><t>be in contrast with</t></e>
+ <e m="11"><o>sich befreien, entkommen</o><t>break loose</t></e>
+ <e m="1"><o>sich bekennen zu</o><t>confess to</t></e>
+ <e m="3"><o>sich einmischen</o><t>interfere</t></e>
+ <e m="4"><o>sich ergeben (immer aktiv)</o><t>surrender</t></e>
+ <e m="2"><o>sich hingeben</o><t>addict</t></e>
+ <e m="10"><o>sich kritisch äußern (über)</o><t>comment (on)</t></e>
+ <e m="11"><o>sich Lügen strafen lassen müssen</o><t>eat one's words</t></e>
+ <e m="3"><o>sich scheiden von</o><t>divorce</t></e>
+ <e m="3"><o>sich verbünden</o><t>ally</t></e>
+ <e m="3"><o>sich zurückziehen (von)</o><t>retreat (from)</t></e>
+ <e m="1"><o>siebzehn</o><t>seventeen</t></e>
+ <e m="11"><o>Signatur, Unterschrift</o><t>signature</t></e>
+ <e m="11"><o>Sims</o><t>ledge</t></e>
+ <e m="1"><o>Singen eines Spiritual</o><t r="the audience repeats the call">call and response</t></e>
+ <e m="1"><o>Sinn, Bedeutung</o><t>meaning</t></e>
+ <e m="10"><o>sinnvoll; verständlich</o><t>meaningful</t></e>
+ <e m="4"><o>Sintflut</o><t>deluge</t></e>
+ <e m="1"><o>Sittlichkeit, Moral</o><t r="Pluralwort">morals</t></e>
+ <e m="1"><o>Sittlichkeit, Sittenlehre</o><t>morality</t></e>
+ <e m="1"><o>Sitzblockade</o><t>sit-in</t></e>
+ <e m="3"><o>Sitzung</o><t>session</t></e>
+ <e m="11"><o>skeptisch</o><t>sceptical</t></e>
+ <e m="9"><o>so weit es mich betrifft</o><t>as far as I am concerned</t></e>
+ <e m="9"><o>Somit ...</o><t>Thus ...</t></e>
+ <e m="1"><o>Sonntag</o><t>Sunday</t></e>
+ <e m="7"><o>Sorgerecht; Aufsicht; Bewachung</o><t>custody</t></e>
+ <e m="10"><o>sorgfältig ausgearbeitet</o><t>elaborated</t></e>
+ <e m="11"><o>sorgfältig ausgearbeitet, kunstvoll</o><t>elaborate</t></e>
+ <e m="7"><o>sorgfältig, vollständig</o><t>thorough</t></e>
+ <e m="11"><o>Souveränität</o><t>sovereignty</t></e>
+ <e m="10"><o>spannend</o><t>fascinating</t></e>
+ <e m="7"><o>Spendersamen</o><t>donor sperm</t></e>
+ <e m="7"><o>Sperma</o><t>sperm</t></e>
+ <e m="11"><o>Spiel, Glücksspiel</o><t>gamble</t></e>
+ <e m="11"><o>Spießruten laufen</o><t>run the gauntlet</t></e>
+ <e m="5"><o>Sprachgemeinschaft</o><t>language community</t></e>
+ <e m="3"><o>Staatsangehörige(r)</o><t>national</t></e>
+ <e m="7"><o>Stachelbeere</o><t>gooseberry</t></e>
+ <e m="2"><o>Stacheldraht</o><t>barbed wire</t></e>
+ <e m="3"><o>Stadtrat</o><t>councillor</t></e>
+ <e m="3"><o>Stammes-</o><t>tribal</t></e>
+ <e m="1"><o>starr, streng, hart</o><t>rigid</t></e>
+ <e m="2"><o>startup</o><t>commence</t></e>
+ <e m="10"><o>Stenographie</o><t>shorthand</t></e>
+ <e m="1"><o>sterben</o><t>pass away</t></e>
+ <e m="11"><o>Stich(e) (Nähen)</o><t>stitch, stitches</t></e>
+ <e m="11"><o>Stiefel</o><t>boot</t></e>
+ <e m="5"><o>Stil(ebene)</o><t>style</t></e>
+ <e m="10"><o>Stil; Ausdrucksweise</o><t>style</t></e>
+ <e m="3"><o>stillschweigend</o><t>tacitly (Adv.) / tacit (Adj.)</t></e>
+ <e m="5"><o>Stimmbänder</o><t>vocal cords</t></e>
+ <e m="3"><o>Stimme</o><t>voice</t></e>
+ <e m="3"><o>stimmen für, wähen, abstimmen</o><t>vote</t></e>
+ <e m="3"><o>Stimmenmehrheit</o><t>majority of votes</t></e>
+ <e m="5"><o>stoßen auf, einwirken auf</o><t>impinge</t></e>
+ <e m="3"><o>Stoßtruppenteilnehmer</o><t>raider</t></e>
+ <e m="11"><o>Streit, Hader</o><t>strife</t></e>
+ <e m="11"><o>streng, rauh</o><t>severe</t></e>
+ <e m="11"><o>Strenge, Härte, Einfachheit, eingeschränkte Lebensweise</o><t>austerity</t></e>
+ <e m="11"><o>Stroh</o><t>straw</t></e>
+ <e m="10"><o x="Strophe eines Gedichtes">Strophe</o><t>stanza</t></e>
+ <e m="4"><o>stumpf, sehr deutlich</o><t>blunt</t></e>
+ <e m="7"><o>Stück Land</o><t>plot</t></e>
+ <e m="2"><o>suchen, begehren</o><t>seek</t></e>
+ <e m="1"><o>suchen, begehren</o><t>seek</t></e>
+ <e m="11"><o>Sumpf</o><t>bog</t></e>
+ <e m="1"><o>Sympathie, Mitleid</o><t>sympathy</t></e>
+ <e m="3"><o>System, Methode</o><t>system</t></e>
+ <e m="1"><o>säkular; weltlich</o><t>secular</t></e>
+ <e m="7"><o>Säugling, Kleinkind, Baby</o><t>baby</t></e>
+ <e m="1"><o>Sünder</o><t>sinner</t></e>
+ <e m="1" t="v"><o>sündigen</o><t>sin</t></e>
+ <e m="4"><o>Tadeln, Vorwürfe machen</o><t>reproach</t></e>
+ <e m="1" t="v"><o>taufen</o><t>baptize</t></e>
+ <e m="1"><o>taufen</o><t>christen</t></e>
+ <e m="2"><o>Teilsatz</o><t>clause</t></e>
+ <e m="11"><o>terrible</o><t>woad</t></e>
+ <e m="6"><o r="wörtlich: Menschenmörder">Teufel</o><t r="aus slawonisch: po = (to) complete + kolotit' = (to) beat to  death">pokol</t></e>
+ <e m="11"><o>the middle ages</o><t>the Dark Ages</t></e>
+ <e m="4"><o>Tierkreis</o><t>zodiac</t></e>
+ <e m="3"><o>to have no own political power</o><t>integral part of a country</t></e>
+ <e m="11"><o>Torf</o><t>turf</t></e>
+ <e m="3"><o>Touch einer negativen Qualität, Makel, Schmutz</o><t>taint</t></e>
+ <e m="7"><o>Trauben</o><t>grapes</t></e>
+ <e m="11"><o>traurig</o><t>piteously</t></e>
+ <e m="11"><o>tribe</o><t>clan</t></e>
+ <e m="7"><o>Trockenzeit, Dürreperiode</o><t>drought</t></e>
+ <e m="11"><o>Trog</o><t>trough</t></e>
+ <e m="2"><o>Trottel, Depp</o><t r="colloquial">compulsory goon</t></e>
+ <e m="2"><o>trottelig</o><t>clumsy</t></e>
+ <e m="6"><o>Trotzdem (am Satzanfang statt though)</o><t>even so</t></e>
+ <e m="1"><o>Träne</o><t>tear</t></e>
+ <e m="1"><o>Tugend</o><t>virtue</t></e>
+ <e m="2"><o>Turm (Schach)</o><t>rook; castle (Schach)</t></e>
+ <e m="4"><o>täuschen, betrügen</o><t>deceive</t></e>
+ <e m="9"><o>um die Wahrheit zu sagen</o><t>tell the truth</t></e>
+ <e m="9"><o>um es ganz einfach zu machen</o><t>put it at its simplest</t></e>
+ <e m="9"><o>um es sehr kurz auszudrücken</o><t>cut a long story short; put the whole matter in a nutshell [Nussschale]</t></e>
+ <e m="2"><o>umarmen</o><t r="informal">hug</t></e>
+ <e m="2"><o>umarmen</o><t r="formal">embrase</t></e>
+ <e m="5"><o>umgangssprachlich, familiär</o><t>colloquial</t></e>
+ <e m="1"><o>umstürzen</o><t>overturn</t></e>
+ <e m="3"><o>unabhängig (von)</o><t>independent</t></e>
+ <e m="3"><o>Unabhängigkeit</o><t>independence</t></e>
+ <e m="2"><o>unangebracht</o><t>inappropriate</t></e>
+ <e m="11"><o>unbedeutend</o><t>petty</t></e>
+ <e m="1"><o>unbegründet</o><t>unfounded</t></e>
+ <e m="2"><o>und siehe da</o><t>lo and behole</t></e>
+ <e m="2"><o>und wenn sie nicht gestorben sind, dann leben sie noch heute</o><t>live happily ever after</t></e>
+ <e m="2"><o a="eben, gerade">uneben, ungerade</o><t a="even" p="'even">odd</t></e>
+ <e m="1"><o>uneinig</o><t>dissident</t></e>
+ <e m="11"><o>unendlich</o><t>interminable</t></e>
+ <e m="11"><o>unermüdlich</o><t>tireless</t></e>
+ <e m="11"><o>unerwartetes Ereignis, Notfall</o><t>emergency</t></e>
+ <e m="11"><o>unfreundlich</o><t>ugly</t></e>
+ <e m="7"><o>unfruchtbar</o><t>infertile; sterile</t></e>
+ <e m="7"><o>unheilvoll</o><t>ominous</t></e>
+ <e m="11"><o>Unrecht, Schaden, Beleidigung</o><t>injury</t></e>
+ <e m="3"><o>Unruhen niederschlagen</o><t>suppress / crush / put down riots</t></e>
+ <e m="1"><o>unser Heiland</o><t>our Saviour</t></e>
+ <e m="9"><o>unter der Bedingung, dass ...</o><t>on condition that ...</t></e>
+ <e m="1"><o>unter der Regierung von</o><t>under the reign of</t></e>
+ <e m="11"><o>Unterbringung, Wohnungswesen</o><t>housing</t></e>
+ <e m="11"><o>unterbrochen</o><t>intermittent</t></e>
+ <e m="3"><o>Unterdrückung, Not</o><t>oppression</t></e>
+ <e m="9"><o>unterscheiden zwischen</o><t>distinguish between</t></e>
+ <e m="3"><o>unterstützen</o><t>support</t></e>
+ <e m="3"><o>unvermeidlich</o><t>inevitable</t></e>
+ <e m="4"><o>unwiderstehlich</o><t>irresistible</t></e>
+ <e m="11"><o>unüberbrückbar</o><t>unbridgeable</t></e>
+ <e m="7"><o>Uran</o><t>uranium</t></e>
+ <e m="11"><o>Ursache, Prozess, Entwicklung</o><t>cause</t></e>
+ <e m="3"><o>Ursprung</o><t>origin</t></e>
+ <e m="5"><o>Variationen einer Sprache</o><t>varieties of language</t></e>
+ <e m="2"><o>variiert, verändert zusammengesetzt</o><t>varied</t></e>
+ <e m="4"><o>Vassall</o><t>vassal</t></e>
+ <e m="1"><o>verabscheuen</o><t>abhor</t></e>
+ <e m="1"><o>verabscheuen</o><t>dezest</t></e>
+ <e m="11"><o>veranlassen, herbeiführen</o><t>induce</t></e>
+ <e m="3"><o>verantwortlich (für)</o><t>responsible (for)</t></e>
+ <e m="1"><o>verantwortlich ggü.</o><t>accountable to</t></e>
+ <e m="2" t="n"><o>Verantwortung</o><t>charge</t></e>
+ <e m="3"><o>Verantwortung</o><t>reponsibility</t></e>
+ <e m="1"><o>verbessern</o><t>improve</t></e>
+ <e m="3"><o>Verbesserung, Reform</o><t>reform</t></e>
+ <e m="6"><o>verbeugen / Verbeugung; Bogen</o><t p="(verbeugen:) bau; (Bogen:) bou;">bow</t></e>
+ <e m="3"><o>Verbrecher, verbrecherisch</o><t>criminal</t></e>
+ <e m="11"><o>verdienen, sich verdient machen (of: um)</o><t>deserve</t></e>
+ <e m="11"><o>verdrossen sein, schmollen</o><t>sulk</t></e>
+ <e m="1"><o>Verfassungs-</o><t>constitutional</t></e>
+ <e m="3"><o>verfassungsgemäß, offiziell zugelassen</o><t>constitutional</t></e>
+ <e m="3"><o>Verfassungsrat</o><t>Constitutional Convention</t></e>
+ <e m="1"><o>Verfassungszusatz</o><t>Amendment</t></e>
+ <e m="1"><o>verfluchen</o><t>curse</t></e>
+ <e m="2"><o>Verfolgungswahn</o><t>persecution mania</t></e>
+ <e m="1"><o>Verfügung, Erlass</o><t>ruling</t></e>
+ <e m="3"><o>Verfügung, Verordnung</o><t>decree</t></e>
+ <e m="11"><o>Verführung</o><t>seduction</t></e>
+ <e m="11"><o>Vergnügen, Freude</o><t>delight</t></e>
+ <e m="1"><o>Verhaltensprinzip</o><t>ethos</t></e>
+ <e m="3"><o>verhandeln</o><t>negotiate</t></e>
+ <e m="3"><o>Verhandlung; Unterhandlung; Bewältigung</o><t>negotiation</t></e>
+ <e m="3"><o>Verhandlungen aufnehmen / abbrechen / wiederaufnehmen</o><t>enter into / break off / resmume negotiations</t></e>
+ <e m="3"><o>verhungern</o><t>starve</t></e>
+ <e m="4"><o>Verkündigung, Ankündigung</o><t>announcement</t></e>
+ <e m="1"><o>Verlangen, Forderung</o><t>demand</t></e>
+ <e m="10"><o>verletzlich</o><t>vulnerable</t></e>
+ <e m="1"><o>Verlust</o><t>loss</t></e>
+ <e m="11"><o>vermindern, verringern, verkleinern</o><t>lessen</t></e>
+ <e m="4"><o>vernarren</o><t>besot</t></e>
+ <e m="5"><o>verneinend, negativ</o><t>negative</t></e>
+ <e m="2"><o>verpflichtend</o><t>obligatory</t></e>
+ <e m="11"><o>verpfänden</o><t>pledge</t></e>
+ <e m="11"><o>Verprügelung</o><t>thrashing</t></e>
+ <e m="3"><o>Verrat</o><t>treason</t></e>
+ <e m="3"><o>verräterisch</o><t>treacherous</t></e>
+ <e m="1"><o>Versammlung</o><t>convention</t></e>
+ <e m="3"><o>Versammlung</o><t>assembly</t></e>
+ <e m="5"><o>Verschiebung</o><t>shift</t></e>
+ <e m="7"><o>verschiedenartige</o><t>miscellaneous</t></e>
+ <e m="7"><o>Verschiedenartigkeit</o><t>miscellany</t></e>
+ <e m="11"><o>verschlimmern, verschärfen, erbittern</o><t>exacerbate</t></e>
+ <e m="3"><o>Verschwörung</o><t>conspiracy</t></e>
+ <e m="3"><o>verschütten, pour out / away by accident</o><t>spill</t></e>
+ <e m="10"><o>versichern; behaupten; bestätigen</o><t>affirm</t></e>
+ <e m="3"><o>verstaatlichen</o><t>nationalize</t></e>
+ <e m="1"><o>Verstand, Geist</o><t>mind</t></e>
+ <e m="10"><o>Verstand; Witz</o><t>wit; wits</t></e>
+ <e m="11"><o>Versuch</o><t>try</t></e>
+ <e m="2"><o y="-">Versuch mit Anstrengung; Bemühung</o><t y="attempt">effort</t></e>
+ <e m="3"><o>versöhnen</o><t>reconcile</t></e>
+ <e m="3"><o>Versöhnung</o><t>reconciliation</t></e>
+ <e m="3"><o>Verteidigung</o><t>defence</t></e>
+ <e m="11" t="v"><o>verteilen</o><t>hand out</t></e>
+ <e m="4"><o>verteilen</o><t>hand out</t></e>
+ <e m="3"><o>Vertrag</o><t>treaty</t></e>
+ <e m="1"><o>Vertrauen</o><t>confidence</t></e>
+ <e m="2"><o>vertrauen</o><t>trust</t></e>
+ <e m="1"><o>Vertrauen, Glaube, Treue</o><t>faith</t></e>
+ <e m="1"><o>Vertreter von etw.</o><t>-arian</t></e>
+ <e m="3"><o>Vertreter, Abgeordete(r)</o><t>representative</t></e>
+ <e m="11"><o>verurteilt werden</o><t>be sentenced</t></e>
+ <e m="3"><o>Verwaltung</o><t>administration</t></e>
+ <e m="2"><o>Verwaltungsdirektor, Sekretär</o><t>clerk</t></e>
+ <e m="3"><o>verweisen</o><t>orphan</t></e>
+ <e m="1"><o>verwässern</o><t>dilute</t></e>
+ <e m="11"><o>verwüsten, verheeren</o><t>ravage</t></e>
+ <e m="2"><o>Verzeichnis, Tabelle, Fahrplan</o><t>schedule</t></e>
+ <e m="1"><o>verzeihen</o><t>pardon</t></e>
+ <e m="1"><o>verzeihen</o><t>condone</t></e>
+ <e m="1"><o>verzeihen, vergeben</o><t>forgive</t></e>
+ <e m="1"><o>Verzeihung, Begnadigung</o><t>pardon</t></e>
+ <e m="11"><o>Verzweiflung</o><t>despair</t></e>
+ <e m="6"><o>Veränderung {f}, Abweichung {f}</o><t>variance</t></e>
+ <e m="11"><o>veräußern, entfremden</o><t>alienate</t></e>
+ <e m="11"><o>Veräußeung, Entfremdung</o><t>alienation</t></e>
+ <e m="11"><o>Veto, Einspruch</o><t>veto</t></e>
+ <e m="4"><o>Vierteldruckblatt</o><t>quarto (4°)</t></e>
+ <e m="5"><o>Vokal</o><t>vowel</t></e>
+ <e m="3"><o>Volk, Leute</o><t>people</t></e>
+ <e m="3"><o>Volk, Nation</o><t>nation</t></e>
+ <e m="3"><o>Volksentscheid</o><t>referendum</t></e>
+ <e m="10"><o>volkstümlich</o><t>popular</t></e>
+ <e m="2"><o>vollständiger Satz</o><t>sentence</t></e>
+ <e m="10"><o>vom Sinn doppeldeutig</o><t p="em'biguus">ambiguous</t></e>
+ <e m="6"><o>von einer Rede gefesselt</o><t>spellbound</t></e>
+ <e m="9"><o>von einer Richtung her beurteilen</o><t>judge from</t></e>
+ <e m="6"><o>von hier - von dort</o><t>hence - thence</t></e>
+ <e m="9"><o>vor allem</o><t>above all</t></e>
+ <e m="3"><o>vorausgehen</o><t>precede</t></e>
+ <e m="1"><o>vorausgesetzt, dass</o><t>provided</t></e>
+ <e m="10"><o>Vorbild</o><t>paragon</t></e>
+ <e m="1"><o>vorbildlich; Ideal</o><t>ideal</t></e>
+ <e m="3"><o>vorgesehen für</o><t>scheduled for</t></e>
+ <e m="3"><o>Vorgänger</o><t>predecessor</t></e>
+ <e m="6"><o>Vorlesung</o><t>lecture</t></e>
+ <e m="11"><o>Vorrat</o><t>supply</t></e>
+ <e m="3"><o>Vorschlag, Antrag</o><t>proposal</t></e>
+ <e m="3"><o>vorschlagen (zu)</o><t>propose (for)</t></e>
+ <e m="1"><o>Vorsehung</o><t>Providence</t></e>
+ <e m="2"><o>Vorsitzender</o><t>chairman</t></e>
+ <e m="1"><o>Vorurteil</o><t>bias</t></e>
+ <e m="6"><o>vorwärtsbewegen (vgl. Propeller)</o><t>propell</t></e>
+ <e m="3"><o>völlig</o><t>entirely</t></e>
+ <e m="3"><o>völlig, unumschränkt, absolut</o><t>absolute</t></e>
+ <e m="11"><o>Waffenarsenal</o><t>arsenal</t></e>
+ <e m="3"><o>Waffenstillstand</o><t>ceasefire</t></e>
+ <e m="3"><o>Waffenstillstand</o><t>truce</t></e>
+ <e m="3"><o>Wahlen durchführen</o><t>hold elections</t></e>
+ <e m="3"><o>Wahlkampagne</o><t>election campaign</t></e>
+ <e m="3"><o>Wahlrecht</o><t>right to vote</t></e>
+ <e m="2"><o>Wahn</o><t>mania</t></e>
+ <e m="2"><o>Wahnsinniger</o><t>maniac</t></e>
+ <e m="2"><o>wahrnehmen</o><t>notice</t></e>
+ <e m="11"><o>wahrnehmen</o><t>perceive</t></e>
+ <e m="11"><o>wahrnehmen, im Kopf realisieren</o><t>realize</t></e>
+ <e m="11"><o>Wahrsager</o><t>diviner</t></e>
+ <e m="11"><o>Wange</o><t>cheek</t></e>
+ <e m="9"><o>was die Klasse betrifft</o><t>as for class</t></e>
+ <e m="9"><o>Was dies betrifft ...</o><t>As for this ...</t></e>
+ <e m="9"><o>was wir entscheiden müssen</o><t>what we have to decide is</t></e>
+ <e m="7"><o>Wasserstoff</o><t p="'haidrodschen">hydrogen</t></e>
+ <e m="9"><o r="Eselsbrücke »auf Konto von«">wegen einer Sache</o><t>on account of ...</t></e>
+ <e m="9"><o>wegen [einer Sache]</o><t>because of ...</t></e>
+ <e m="9"><o>wegen, angesichts</o><t>in view of</t></e>
+ <e m="11"><o>Wehklage</o><t>wail</t></e>
+ <e m="2"><o>Wehrdienstverweigerer aus Gewissensgründen</o><t>conscientious rejector</t></e>
+ <e m="2"><o>weibisch (Charakter)</o><t>feminine</t></e>
+ <e m="2"><o>weiblich (biol.)</o><t>female</t></e>
+ <e m="6"><o>weihen, feierlich einweihen</o><t>consecrate</t></e>
+ <e m="9"><o>Weil [am Satzanfang]</o><t>As ...; Since ...</t></e>
+ <e m="9"><o>weil [bei Nebensätzen, die nicht am Satzanfang stehen]</o><t>because ...</t></e>
+ <e m="1"><o>Weisheit, Klugheit</o><t>wisdom</t></e>
+ <e m="9"><o r="beiordnende Verwendung, also mit zweitem Hauptsatz">weiter</o><t>further</t></e>
+ <e m="7"><o>Weizen</o><t>wheat</t></e>
+ <e m="11"><o>Welle</o><t>surge</t></e>
+ <e m="9"><o>wenig muss gesagt werden</o><t>little need be said</t></e>
+ <e m="2"><o>wenig,-er, am -sten</o><t>little - less - least</t></e>
+ <e m="11"><o>wenn es so ginge, wie man es gerne hätte</o><t>have one's way</t></e>
+ <e m="11"><o>werfen</o><t>throw</t></e>
+ <e m="1"><o>Wesen, Hauptsache, Inhalt, Kern</o><t>substance</t></e>
+ <e m="7"><o>Wettkampf {m}, Kampf {m}</o><t>contest</t></e>
+ <e m="11"><o>white countries within the Commonwealth</o><t>dominion</t></e>
+ <e m="3"><o>Wichtigkeit, Bedeutung, Einfluss</o><t>importance</t></e>
+ <e m="10"><o>Widerspruch in sich selbst, wiedersprücklicher Ausdruck</o><t>oxymoron</t></e>
+ <e m="3"><o>Widerstand (gegen)</o><t>resistance</t></e>
+ <e m="3"><o>Widerstand leisten</o><t>offer / put up resistance</t></e>
+ <e m="3"><o>widmen</o><t>dedicate</t></e>
+ <e m="9"><o r="beiordnende Verwendung, also mit zweitem Hauptsatz">wie auch</o><t>likewise</t></e>
+ <e m="9"><o>wie jeder weiß ...</o><t>as everyone knows ...</t></e>
+ <e m="1"><o>wieder entzünden</o><t>rekindle</t></e>
+ <e m="11"><o>wiedererkennen (re-cognoscere), politisch anerkennen</o><t>recognize</t></e>
+ <e m="11"><o>wiedereröffnen</o><t>reopen</t></e>
+ <e m="2"><o>Wiedersehen, Wiedervereinigung</o><t>reunion</t></e>
+ <e m="4"><o>wiedersprüchlich</o><t>contradictory</t></e>
+ <e m="6"><o>Wien</o><t>Vienna</t></e>
+ <e m="11"><o>wild feiern</o><t>razzle</t></e>
+ <e m="7"><o>wild, heftig</o><t>fierce</t></e>
+ <e m="3" t="nm"><o>William von Oranien (NL)</o><t>William of Orange</t></e>
+ <e m="2"><o>Windel</o><t>diaper</t></e>
+ <e m="2"><o>winden</o><t>wind-wound -wound</t></e>
+ <e m="10"><o>Wink; Fingerzeig</o><t>hint</t></e>
+ <e m="11"><o>wissen, sich bewusst sein</o><t>be aware of</t></e>
+ <e m="11"><o>without</o><t>devoid of</t></e>
+ <e m="2"><o>wodurch ...</o><t>by what means ...</t></e>
+ <e m="2"><o>wodurch ...</o><t>by what way ...</t></e>
+ <e m="3"><o>Wohnsilo, Mietwohnung</o><t>tenement</t></e>
+ <e m="10"><o>wortreich; reichlich</o><t>copious</t></e>
+ <e m="5"><o>Wortstreit, Disput</o><t>dispute</t></e>
+ <e m="2"><o>wrestling</o><t>rassling</t></e>
+ <e m="1"><o>wählen</o><t>elect</t></e>
+ <e m="3"><o>Wähler</o><t>voter</t></e>
+ <e m="5"><o>Wörterverzeichnis, Wortschatz</o><t>vocabulary</t></e>
+ <e m="2"><o>wütend, ärgerlich</o><t>fiercely</t></e>
+ <e m="9" t="#1"><o>z.B.</o><t r="= exampli gratia">e.g.</t></e>
+ <e m="11"><o>zahlreich</o><t>numerous</t></e>
+ <e m="11"><o>zahlreich</o><t>prominently</t></e>
+ <e m="11"><o>zeitlich begrenzt</o><t>temporary</t></e>
+ <e m="3"><o>zerquetschen, zerkrümeln</o><t>crush</t></e>
+ <e m="11"><o>zerreißen</o><t>tear - taw - tawn</t></e>
+ <e m="1"><o>Ziel</o><t>objective</t></e>
+ <e m="9"><o>zitieren</o><t>quote / cite</t></e>
+ <e m="7"><o>Zitrone</o><t>lemon</t></e>
+ <e m="1"><o>ziviler Ungehorsam</o><t>civil disobedience</t></e>
+ <e m="11"><o>Zorn, Ärger, erzürnen</o><t>anger</t></e>
+ <e m="2"><o>zu jeder beliebigen Zeit</o><t>at any time</t></e>
+ <e m="2"><o>zu wenig</o><t>too little</t></e>
+ <e m="3"><o>Zuflucht</o><t>refuge</t></e>
+ <e m="1"><o>Zugang, Einfluss</o><t>access</t></e>
+ <e m="1"><o>Zugang; Einfluss</o><t>access</t></e>
+ <e m="3"><o>zugehörig</o><t>adherent</t></e>
+ <e m="2"><o>zugespitzter Pfahl</o><t>stake</t></e>
+ <e m="1"><o>zugestehen, einräumen</o><t>concede</t></e>
+ <e m="9"><o>zugunsten von</o><t>in favour of</t></e>
+ <e m="3"><o>zunehmen an, vergrößern, vermehren</o><t>increase (in)</t></e>
+ <e m="5"><o>Zunge</o><t>tongue</t></e>
+ <e m="9"><o>zunächst einmal ... und dann ... (milder Kontrast)</o><t>for one thing ... and then ...</t></e>
+ <e m="1"><o>zur Messe gehen</o><t>go to Mass</t></e>
+ <e m="3"><o>zur Verfügung stellen, ermöglichen</o><t>provide for</t></e>
+ <e m="3"><o>zur Wahl gehen</o><t>go to the polls</t></e>
+ <e m="3"><o>zurückweisen; abweisen</o><t>reject</t></e>
+ <e m="1"><o>Zurückweisung; Abweisung</o><t>rebuff</t></e>
+ <e m="11"><o>zusammendrängen</o><t>huddle</t></e>
+ <e m="9"><o>zusammenfassen</o><t>summarize; sum up</t></e>
+ <e m="9"><o>zusammenfassen</o><t>giving a summary</t></e>
+ <e m="9"><o>zusammenfassend</o><t>boiling down, ...</t></e>
+ <e m="9"><o>zusammenfassend kann man sagen</o><t>summing up, we can say</t></e>
+ <e m="9"><o>zusammenfassend, ...</o><t>summing up, ...</t></e>
+ <e m="1"><o>Zusammenfassung</o><t>summary</t></e>
+ <e m="5"><o>zusammengesetzt aus</o><t>composed / consisting of</t></e>
+ <e m="2"><o>zusammengesetzter Satz</o><t>complex sentences</t></e>
+ <e m="11"><o>Zustimmung, Einwilligung</o><t>consent</t></e>
+ <e m="7"><o>Zweig</o><t>tweak</t></e>
+ <e m="5"><o>Zähne</o><t>teeth</t></e>
+ <e m="10"><o>Zäsur</o><t>caesura</t></e>
+ <e m="4"><o>[ein Ziel, einen Menschen] verfolgen</o><t>pursue</t></e>
+ <e m="4"><o>[etw. Negatives] überwinden</o><t>overcome</t></e>
+ <e m="9"><o>[etwas vorschlagen]</o><t>it might perhaps be of advantage to ...</t></e>
+ <e m="9"><o>[geschickter Einbau, durch Kommata getrennt]</o><t>this, however, is a serious problem / there are, however, a numer of cases, which show</t></e>
+ <e m="6"><o r="nicht gleich deutsch »Angst«">ängstliches / beklemmendes Gefühl</o><t>anxiety</t></e>
+ <e m="1"><o>äußern</o><t>utter</t></e>
+ <e m="3"><o>äußern</o><t>voice</t></e>
+ <e m="11"><o>Äußerung</o><t>utterance</t></e>
+ <e m="11"><o>über ... hinaus</o><t>beyond</t></e>
+ <e m="10"><o>Überblick</o><t>survey</t></e>
+ <e m="3"><o>Übereinkunft</o><t>agreement</t></e>
+ <e m="11"><o>Übereinstimmung, Einklang, Vergleich</o><t>accord</t></e>
+ <e m="3"><o>Überfall</o><t>ambush</t></e>
+ <e m="3"><o>Überfall, Streifzug</o><t>raid</t></e>
+ <e m="3"><o>Überfallkommando</o><t>flying squad</t></e>
+ <e m="4"><o>überführt werden</o><t>be convicted</t></e>
+ <e m="11"><o>Übergabe, sich ergeben</o><t>surrender</t></e>
+ <e m="4"><o>übergeben</o><t>hand over</t></e>
+ <e m="11" t="v"><o>übergeben</o><t>hand over</t></e>
+ <e m="11"><o>übergeben</o><t>commit</t></e>
+ <e m="11"><o>übergehen auf; verteilen</o><t>devolve upon</t></e>
+ <e m="11"><o>Überrest</o><t>remnant</t></e>
+ <e m="1"><o>Überschreiten</o><t>overstep</t></e>
+ <e m="5"><o>überspringen</o><t>skip</t></e>
+ <e m="11"><o>übertreffen, sich auszeichnen</o><t p="ik'sel">excel</t></e>
+ <e m="11"><o>übertreiben</o><t>exaggerate</t></e>
+ <e m="11"><o>übertrieben</o><t>exaggerated</t></e>
+ <e m="3"><o>überwältigend</o><t>overwhelming</t></e>
+ <e m="7"><o x="erzeugu">Überzeugung</o><t>conviction</t></e>
+ <e m="11"><o>Überzeugung</o><t>persuasion</t></e>
+ <e m="9"><o r="beiordnende Verwendung, also mit zweitem Hauptsatz">übrigens</o><t>besides</t></e>
+</kvtml>

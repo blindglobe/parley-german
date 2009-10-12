@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<!DOCTYPE kvtml SYSTEM "kvoctrain.dtd">
+<!--
+This is a machine generated file.
+Be careful when editing here.
+
+Short definition:
+
+lesson       lesson group
+ desc        name
+   %no       its index
+   %query    is in query selection
+   %current  is current lesson
+type         type group
+ desc        name
+   %no       its index
+e            entry of dictionary
+  %s         is selected
+  %m         lesson member
+  %t         common expression type
+ o           original
+   %q        in query ("o" is given, "t" is wanted)
+   %l        language code
+   %r        remark
+   %p        pronunciation
+   %width    column width
+   %t        expression type (see QueryManager.h)
+   %tf       false friend from
+   %ff       false friend to
+   %a        antonym
+   %y        synonym
+   %x        example
+   %u        usage label
+   %h        paraphrase
+ t           translation ..
+   %q        in query ("t" is given, "o" is wanted)
+   %l        language code
+   %r        remark
+   %p        pronunciation
+   %width    column width
+   %t        expression type
+   %tf       false friend from
+   %ff       false friend to
+   %a        antonym
+   %y        synonym
+   %x        example
+   %u        usage label
+   %h        paraphrase
+
+   %d        last query date (from;to)
+   %w        dito, compressed and deprecated
+   %g        grade (from;to)
+   %c        count (from;to)
+   %b        bad count (from;to)
+
+
+Valid xml means:
+ - Close all tags
+ - Keep proper hierarchy
+ - All attributes are quoted
+-->
+
+ <kvtml
+  encoding="UTF-8"
+  generator="kvoctrain v0.8.3"
+  cols="2"
+  lines="4">
+
+ <lesson width="105">
+  <desc no="1">verbs</desc>
+  <desc no="2">counting</desc>
+ </lesson>
+
+ <article>
+  <e l="de">
+  </e>
+  <e l="en">
+  </e>
+ </article>
+
+ <conjugation>
+  <e l="de">
+   <s1>gehe</s1>
+   <s2>gehst</s2>
+   <s3f common="1">geht</s3f>
+   <p1>gehen</p1>
+   <p2>geht</p2>
+   <p3f common="1">gehen</p3f>
+  </e>
+  <e l="en">
+   <s1>go</s1>
+   <s2>go</s2>
+   <s3f common="1">goes</s3f>
+   <p1>go</p1>
+   <p2>go</p2>
+   <p3f common="1">go</p3f>
+  </e>
+ </conjugation>
+
+ <options>
+  <sort on="1"/>
+ </options>
+
+ <e m="1"><o width="210" l="de">gehen</o><t width="211" l="en">to go</t></e>
+ <e><o>Farben</o><t>colors</t></e>
+ <e><o>kongresszentrum</o><t></t></e>
+ <e><o>senden</o><t></t></e>
+</kvtml>
