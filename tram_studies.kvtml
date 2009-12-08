@@ -8,7 +8,7 @@
     <contact>blindglobe@gmail.com</contact>
     <license>GPLv2+ (GNU General Public License version 2 or later)</license>
     <comment>Tram words</comment>
-    <date>2009-12-03</date>
+    <date>2009-12-08</date>
     <category>Languages</category>
   </information>
   <identifiers>
@@ -114,10 +114,10 @@
       <translation id="1" >
         <text>to stand upon (principles)</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-12-02T17:34:56</date>
+          <date>2009-12-08T07:00:30</date>
         </grade>
       </translation>
     </entry>
@@ -170,7 +170,7 @@
         <text>verantwortlich</text>
       </translation>
       <translation id="1" >
-        <text>reponsible (adj)</text>
+        <text>responsible (adj)</text>
         <grade>
           <currentgrade>1</currentgrade>
           <count>4</count>
@@ -311,15 +311,15 @@
     </entry>
     <entry id="22" >
       <translation id="0" >
-        <text>Sorge</text>
+        <text>die Sorge</text>
       </translation>
       <translation id="1" >
         <text>worry</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2009-10-08T06:10:41</date>
+          <date>2009-12-08T07:01:02</date>
         </grade>
       </translation>
     </entry>
@@ -358,10 +358,10 @@
       <translation id="1" >
         <text>continually</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-12-02T17:33:22</date>
+          <date>2009-12-08T06:59:39</date>
         </grade>
       </translation>
     </entry>
@@ -579,6 +579,12 @@
       </translation>
       <translation id="1" >
         <text>result</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-12-08T07:00:01</date>
+        </grade>
       </translation>
     </entry>
     <entry id="49" >
@@ -670,10 +676,10 @@
       <translation id="1" >
         <text>to adapt ones self.</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2009-12-02T17:33:08</date>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2009-12-08T06:59:55</date>
         </grade>
       </translation>
     </entry>
@@ -741,6 +747,12 @@
       </translation>
       <translation id="1" >
         <text>expendible, dispensible</text>
+        <grade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>2</errorcount>
+          <date>2009-12-08T07:00:57</date>
+        </grade>
       </translation>
     </entry>
     <entry id="64" >
@@ -858,10 +870,10 @@
       <translation id="1" >
         <text>enduring</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2009-12-02T17:32:29</date>
+          <date>2009-12-08T07:00:44</date>
         </grade>
       </translation>
     </entry>
@@ -959,6 +971,12 @@
       </translation>
       <translation id="1" >
         <text>mindful, subtle; mindfully, observingly, attentively</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-12-08T07:00:16</date>
+        </grade>
       </translation>
     </entry>
     <entry id="86" >
@@ -1090,10 +1108,10 @@
       <translation id="1" >
         <text>to preserve, to perpetuate</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2009-10-08T06:09:24</date>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>2</errorcount>
+          <date>2009-12-08T07:00:36</date>
         </grade>
       </translation>
     </entry>
@@ -1196,10 +1214,10 @@
       <translation id="1" >
         <text>to hit, to run into</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2009-10-08T06:13:18</date>
+          <date>2009-12-08T07:00:06</date>
         </grade>
       </translation>
     </entry>
@@ -1266,10 +1284,10 @@
       <translation id="1" >
         <text>to call, to name, to term</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
-          <errorcount>0</errorcount>
-          <date>2009-12-02T17:31:16</date>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>2</errorcount>
+          <date>2009-12-08T07:00:34</date>
         </grade>
       </translation>
     </entry>
@@ -1476,10 +1494,10 @@
       <translation id="1" >
         <text>consciousless</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2009-12-02T17:31:12</date>
+          <date>2009-12-08T06:59:46</date>
         </grade>
       </translation>
     </entry>
@@ -1489,6 +1507,12 @@
       </translation>
       <translation id="1" >
         <text>sense, conscious, aware</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-12-08T07:00:22</date>
+        </grade>
       </translation>
     </entry>
     <entry id="129" >
@@ -1564,6 +1588,62 @@
       </translation>
     </entry>
     <entry id="138" >
+      <translation id="0" >
+        <text>die Dauer</text>
+      </translation>
+      <translation id="1" >
+        <text>duration, endurance</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2009-12-08T06:59:49</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="139" >
+      <translation id="0" >
+        <text>stellen, gestellt</text>
+      </translation>
+      <translation id="1" >
+        <text>to set, (having) set</text>
+      </translation>
+    </entry>
+    <entry id="140" >
+      <translation id="0" >
+        <text>vertreten</text>
+      </translation>
+      <translation id="1" >
+        <text>to represent, to act for</text>
+      </translation>
+    </entry>
+    <entry id="141" >
+      <translation id="0" >
+        <text>der Anstand</text>
+      </translation>
+      <translation id="1" >
+        <text>decorum, seemliness, policy</text>
+      </translation>
+    </entry>
+    <entry id="142" >
+      <translation id="0" >
+        <text>der Anschlag</text>
+      </translation>
+      <translation id="1" >
+        <text>attempt, attack, (?stroke? as in per min)</text>
+      </translation>
+    </entry>
+    <entry id="143" >
+      <translation id="0" >
+        <text>Anschlag</text>
+      </translation>
+      <translation id="1" />
+    </entry>
+    <entry id="144" >
+      <translation id="0" />
+      <translation id="1" />
+    </entry>
+    <entry id="145" >
       <translation id="0" />
       <translation id="1" />
     </entry>
@@ -1571,6 +1651,7 @@
   <lessons>
     <container>
       <name>Lesson 1</name>
+      <inpractice>true</inpractice>
       <entry id="0" />
       <entry id="1" />
       <entry id="2" />
@@ -1604,6 +1685,7 @@
     </container>
     <container>
       <name>Lesson 2</name>
+      <inpractice>true</inpractice>
       <entry id="30" />
       <entry id="31" />
       <entry id="32" />
@@ -1637,6 +1719,7 @@
     </container>
     <container>
       <name>Lesson 3</name>
+      <inpractice>true</inpractice>
       <entry id="60" />
       <entry id="61" />
       <entry id="62" />
@@ -1670,6 +1753,7 @@
     </container>
     <container>
       <name>Lesson 4</name>
+      <inpractice>true</inpractice>
       <entry id="90" />
       <entry id="91" />
       <entry id="92" />
@@ -1723,6 +1807,13 @@
       <entry id="136" />
       <entry id="137" />
       <entry id="138" />
+      <entry id="139" />
+      <entry id="140" />
+      <entry id="141" />
+      <entry id="142" />
+      <entry id="143" />
+      <entry id="144" />
+      <entry id="145" />
     </container>
   </lessons>
   <wordtypes>
