@@ -8,7 +8,7 @@
     <contact>blindglobe@gmail.com</contact>
     <license>GPLv2+ (GNU General Public License version 2 or later)</license>
     <comment>Tram words</comment>
-    <date>2009-12-31</date>
+    <date>2010-01-05</date>
     <category>Languages</category>
   </information>
   <identifiers>
@@ -2163,9 +2163,6 @@
       <translation id="0" >
         <text>erheilen</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
       </translation>
       <translation id="1" />
     </entry>
@@ -2408,9 +2405,7 @@
     <entry id="174" >
       <translation id="0" >
         <text>rückkehren</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to return (generally)</text>
@@ -2427,9 +2422,7 @@
     <entry id="176" >
       <translation id="0" >
         <text>ergänzen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to supplement</text>
@@ -2454,9 +2447,7 @@
     <entry id="179" >
       <translation id="0" >
         <text>angehören</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to belong to</text>
@@ -2487,6 +2478,160 @@
       </translation>
     </entry>
     <entry id="183" >
+      <translation id="0" >
+        <text>ausgedehnt (adv/adj)</text>
+      </translation>
+      <translation id="1" >
+        <text>spaciously, vast</text>
+      </translation>
+    </entry>
+    <entry id="184" >
+      <translation id="0" >
+        <text>ausdehnen</text>
+      </translation>
+      <translation id="1" >
+        <text>to splay, to distend, to extend, to protract</text>
+      </translation>
+    </entry>
+    <entry id="185" >
+      <translation id="0" >
+        <text>der Racheakt, Racheakte</text>
+      </translation>
+      <translation id="1" >
+        <text>act(s) of revenge</text>
+      </translation>
+    </entry>
+    <entry id="186" >
+      <translation id="0" >
+        <text>der Begleiter</text>
+      </translation>
+      <translation id="1" >
+        <text>companion, attendant</text>
+      </translation>
+    </entry>
+    <entry id="187" >
+      <translation id="0" >
+        <text>das Wesen</text>
+      </translation>
+      <translation id="1" >
+        <text>entity, being</text>
+      </translation>
+    </entry>
+    <entry id="188" >
+      <translation id="0" >
+        <text>die Wesenheit</text>
+      </translation>
+      <translation id="1" >
+        <text>essence</text>
+      </translation>
+    </entry>
+    <entry id="189" >
+      <translation id="0" >
+        <text>erstellen</text>
+        <conjugation>
+          <tense>past</tense>
+        </conjugation>
+      </translation>
+      <translation id="1" >
+        <text>to create</text>
+      </translation>
+    </entry>
+    <entry id="190" >
+      <translation id="0" >
+        <text>vorweisen</text>
+        <conjugation>
+          <tense>past</tense>
+        </conjugation>
+      </translation>
+      <translation id="1" >
+        <text>to show, to produce</text>
+      </translation>
+    </entry>
+    <entry id="191" >
+      <translation id="0" >
+        <text>der Betrag</text>
+      </translation>
+      <translation id="1" >
+        <text>amount, sum</text>
+      </translation>
+    </entry>
+    <entry id="192" >
+      <translation id="0" >
+        <text>lancieren</text>
+        <conjugation>
+          <tense>past</tense>
+        </conjugation>
+      </translation>
+      <translation id="1" >
+        <text>to spread, to launch</text>
+      </translation>
+    </entry>
+    <entry id="193" >
+      <translation id="0" >
+        <text>zunehmen</text>
+        <conjugation>
+          <tense>past</tense>
+        </conjugation>
+      </translation>
+      <translation id="1" >
+        <text>to increase</text>
+      </translation>
+    </entry>
+    <entry id="194" >
+      <translation id="0" >
+        <text>sesshaft</text>
+      </translation>
+      <translation id="1" >
+        <text>settled, sedentary</text>
+      </translation>
+    </entry>
+    <entry id="195" >
+      <translation id="0" >
+        <text>unmittelbar</text>
+      </translation>
+      <translation id="1" >
+        <text>immediate, immediately, actual, instant.</text>
+      </translation>
+    </entry>
+    <entry id="196" >
+      <translation id="0" >
+        <text>der Makel</text>
+      </translation>
+      <translation id="1" >
+        <text>stigma, blemish</text>
+      </translation>
+    </entry>
+    <entry id="197" >
+      <translation id="0" >
+        <text>makellos</text>
+      </translation>
+      <translation id="1" >
+        <text>unblemished, seamless, stainlessly, immaculately, immaculate</text>
+      </translation>
+    </entry>
+    <entry id="198" >
+      <translation id="0" >
+        <text>korrigieren</text>
+        <conjugation>
+          <tense>past</tense>
+        </conjugation>
+      </translation>
+      <translation id="1" >
+        <text>to correct, to amend, to adjust</text>
+      </translation>
+    </entry>
+    <entry id="199" >
+      <translation id="0" >
+        <text>zutreffen</text>
+        <conjugation>
+          <tense>past</tense>
+        </conjugation>
+      </translation>
+      <translation id="1" >
+        <text>to apply (to), to be correct/true</text>
+      </translation>
+    </entry>
+    <entry id="200" >
       <translation id="0" />
       <translation id="1" />
     </entry>
@@ -2698,8 +2843,24 @@
     </container>
     <container>
       <name>Lesson 7</name>
-      <inpractice>true</inpractice>
       <entry id="183" />
+      <entry id="184" />
+      <entry id="185" />
+      <entry id="186" />
+      <entry id="187" />
+      <entry id="188" />
+      <entry id="189" />
+      <entry id="190" />
+      <entry id="191" />
+      <entry id="192" />
+      <entry id="193" />
+      <entry id="194" />
+      <entry id="195" />
+      <entry id="196" />
+      <entry id="197" />
+      <entry id="198" />
+      <entry id="199" />
+      <entry id="200" />
     </container>
   </lessons>
   <wordtypes>
@@ -2805,6 +2966,18 @@
         <entry id="181" >
           <translation id="0" />
         </entry>
+        <entry id="185" >
+          <translation id="0" />
+        </entry>
+        <entry id="186" >
+          <translation id="0" />
+        </entry>
+        <entry id="191" >
+          <translation id="0" />
+        </entry>
+        <entry id="196" >
+          <translation id="0" />
+        </entry>
       </container>
       <container>
         <name>Feminine</name>
@@ -2881,6 +3054,9 @@
         <entry id="182" >
           <translation id="0" />
         </entry>
+        <entry id="188" >
+          <translation id="0" />
+        </entry>
       </container>
       <container>
         <name>Neuter</name>
@@ -2895,6 +3071,9 @@
           <translation id="0" />
         </entry>
         <entry id="112" >
+          <translation id="0" />
+        </entry>
+        <entry id="187" >
           <translation id="0" />
         </entry>
       </container>
@@ -3001,6 +3180,27 @@
       <entry id="174" >
         <translation id="0" />
       </entry>
+      <entry id="184" >
+        <translation id="0" />
+      </entry>
+      <entry id="189" >
+        <translation id="0" />
+      </entry>
+      <entry id="190" >
+        <translation id="0" />
+      </entry>
+      <entry id="192" >
+        <translation id="0" />
+      </entry>
+      <entry id="193" >
+        <translation id="0" />
+      </entry>
+      <entry id="198" >
+        <translation id="0" />
+      </entry>
+      <entry id="199" >
+        <translation id="0" />
+      </entry>
     </container>
     <container>
       <name>Adjective</name>
@@ -3033,6 +3233,18 @@
         <translation id="0" />
       </entry>
       <entry id="178" >
+        <translation id="0" />
+      </entry>
+      <entry id="183" >
+        <translation id="0" />
+      </entry>
+      <entry id="194" >
+        <translation id="0" />
+      </entry>
+      <entry id="195" >
+        <translation id="0" />
+      </entry>
+      <entry id="197" >
         <translation id="0" />
       </entry>
     </container>
