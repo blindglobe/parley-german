@@ -8,7 +8,7 @@
     <contact>blindglobe@gmail.com</contact>
     <license>GPLv2+ (GNU General Public License version 2 or later)</license>
     <comment>Tram words</comment>
-    <date>2010-01-05</date>
+    <date>2010-01-06</date>
     <category>Languages</category>
   </information>
   <identifiers>
@@ -2632,6 +2632,62 @@
       </translation>
     </entry>
     <entry id="200" >
+      <translation id="0" >
+        <text>erwerbslos</text>
+      </translation>
+      <translation id="1" >
+        <text>out of work, unemployed, jobless</text>
+      </translation>
+    </entry>
+    <entry id="201" >
+      <translation id="0" >
+        <text>ausfeilen</text>
+      </translation>
+      <translation id="1" >
+        <text>to elaborate</text>
+      </translation>
+    </entry>
+    <entry id="202" >
+      <translation id="0" >
+        <text>die Nachhaltigkeit</text>
+      </translation>
+      <translation id="1" >
+        <text>sustainability</text>
+      </translation>
+    </entry>
+    <entry id="203" >
+      <translation id="0" >
+        <text>entfernen</text>
+      </translation>
+      <translation id="1" >
+        <text>to remove, to dispose</text>
+      </translation>
+    </entry>
+    <entry id="204" >
+      <translation id="0" >
+        <text>wegweisend</text>
+      </translation>
+      <translation id="1" >
+        <text>pathbreaking, groundbreaking</text>
+      </translation>
+    </entry>
+    <entry id="205" >
+      <translation id="0" >
+        <text>erfassen</text>
+      </translation>
+      <translation id="1" >
+        <text>to gather, to apprehend</text>
+      </translation>
+    </entry>
+    <entry id="206" >
+      <translation id="0" >
+        <text>fassen</text>
+      </translation>
+      <translation id="1" >
+        <text>to grab, to grasp</text>
+      </translation>
+    </entry>
+    <entry id="207" >
       <translation id="0" />
       <translation id="1" />
     </entry>
@@ -2861,6 +2917,13 @@
       <entry id="198" />
       <entry id="199" />
       <entry id="200" />
+      <entry id="201" />
+      <entry id="202" />
+      <entry id="203" />
+      <entry id="204" />
+      <entry id="205" />
+      <entry id="206" />
+      <entry id="207" />
     </container>
   </lessons>
   <wordtypes>
@@ -3057,6 +3120,9 @@
         <entry id="188" >
           <translation id="0" />
         </entry>
+        <entry id="202" >
+          <translation id="0" />
+        </entry>
       </container>
       <container>
         <name>Neuter</name>
@@ -3201,6 +3267,18 @@
       <entry id="199" >
         <translation id="0" />
       </entry>
+      <entry id="201" >
+        <translation id="0" />
+      </entry>
+      <entry id="203" >
+        <translation id="0" />
+      </entry>
+      <entry id="205" >
+        <translation id="0" />
+      </entry>
+      <entry id="206" >
+        <translation id="0" />
+      </entry>
     </container>
     <container>
       <name>Adjective</name>
@@ -3235,9 +3313,7 @@
       <entry id="178" >
         <translation id="0" />
       </entry>
-      <entry id="183" >
-        <translation id="0" />
-      </entry>
+      <entry id="183" />
       <entry id="194" >
         <translation id="0" />
       </entry>
@@ -3245,6 +3321,12 @@
         <translation id="0" />
       </entry>
       <entry id="197" >
+        <translation id="0" />
+      </entry>
+      <entry id="200" >
+        <translation id="0" />
+      </entry>
+      <entry id="204" >
         <translation id="0" />
       </entry>
     </container>
