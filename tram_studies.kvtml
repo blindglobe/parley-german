@@ -201,7 +201,7 @@
         <text>verantwortlich</text>
       </translation>
       <translation id="1" >
-        <text>responsible (adj)</text>
+        <text>responsible</text>
         <grade>
           <currentgrade>5</currentgrade>
           <count>8</count>
@@ -1714,6 +1714,9 @@
     <entry id="118" >
       <translation id="0" >
         <text>aufnehmen</text>
+        <conjugation>
+          <tense>past</tense>
+        </conjugation>
       </translation>
       <translation id="1" >
         <text>to record, to affiliate, to integrate, to take in, to soak up</text>
@@ -2331,6 +2334,9 @@
       <translation id="0" >
         <text>aushauchen</text>
         <conjugation/>
+        <conjugation>
+          <tense>past</tense>
+        </conjugation>
       </translation>
       <translation id="1" >
         <text>to breathe</text>
@@ -2445,6 +2451,9 @@
     <entry id="177" >
       <translation id="0" >
         <text>auftreten</text>
+        <conjugation>
+          <tense>past</tense>
+        </conjugation>
       </translation>
       <translation id="1" >
         <text>to appear, to behave</text>
@@ -2483,6 +2492,9 @@
     <entry id="181" >
       <translation id="0" >
         <text>ausdehnen</text>
+        <conjugation>
+          <tense>past</tense>
+        </conjugation>
       </translation>
       <translation id="1" >
         <text>to splay, to distend, to extend, to protract</text>
@@ -2631,6 +2643,9 @@
     <entry id="198" >
       <translation id="0" >
         <text>ausfeilen</text>
+        <conjugation>
+          <tense>past</tense>
+        </conjugation>
       </translation>
       <translation id="1" >
         <text>to elaborate</text>
@@ -2705,6 +2720,9 @@
     <entry id="205" >
       <translation id="0" >
         <text>aufschieben</text>
+        <conjugation>
+          <tense>past</tense>
+        </conjugation>
       </translation>
       <translation id="1" >
         <text>to suspend, to defer</text>
@@ -2773,14 +2791,132 @@
       </translation>
     </entry>
     <entry id="213" >
-      <translation id="0" />
-      <translation id="1" />
+      <translation id="0" >
+        <text>vorwerfen</text>
+      </translation>
+      <translation id="1" >
+        <text>to accuse</text>
+      </translation>
+    </entry>
+    <entry id="214" >
+      <translation id="0" >
+        <text>die Untersuchungshaft</text>
+      </translation>
+      <translation id="1" >
+        <text>detention while awaiting trial</text>
+      </translation>
+    </entry>
+    <entry id="215" >
+      <translation id="0" >
+        <text>entlocken</text>
+      </translation>
+      <translation id="1" >
+        <text>to elicit, to get information from</text>
+      </translation>
+    </entry>
+    <entry id="216" >
+      <translation id="0" >
+        <text>bekommen</text>
+      </translation>
+      <translation id="1" >
+        <text>to get</text>
+      </translation>
+    </entry>
+    <entry id="217" >
+      <translation id="0" >
+        <text>aufbekommen</text>
+      </translation>
+      <translation id="1" >
+        <text>to get open</text>
+      </translation>
+    </entry>
+    <entry id="218" >
+      <translation id="0" >
+        <text>abbekommen</text>
+      </translation>
+      <translation id="1" >
+        <text>to get some (of something)</text>
+      </translation>
+    </entry>
+    <entry id="219" >
+      <translation id="0" >
+        <text>gering</text>
+      </translation>
+      <translation id="1" >
+        <text>little</text>
+      </translation>
+    </entry>
+    <entry id="220" >
+      <translation id="0" >
+        <text>angemessen</text>
+      </translation>
+      <translation id="1" >
+        <text>reasonable, appropriate</text>
+      </translation>
+    </entry>
+    <entry id="221" >
+      <translation id="0" >
+        <text>strafbar</text>
+      </translation>
+      <translation id="1" >
+        <text>culpable, punishable</text>
+      </translation>
+    </entry>
+    <entry id="222" >
+      <translation id="0" >
+        <text>dennoch</text>
+      </translation>
+      <translation id="1" >
+        <text>notwithstanding</text>
+      </translation>
+    </entry>
+    <entry id="223" >
+      <translation id="0" >
+        <text>dessen</text>
+      </translation>
+      <translation id="1" >
+        <text>whose, of whose</text>
+      </translation>
+    </entry>
+    <entry id="224" >
+      <translation id="0" >
+        <text>dringend</text>
+      </translation>
+      <translation id="1" >
+        <text>urgent. imperitive</text>
+      </translation>
+    </entry>
+    <entry id="225" >
+      <translation id="0" >
+        <text>die Panne(n)</text>
+      </translation>
+      <translation id="1" >
+        <text>breakdown, mishap</text>
+      </translation>
+    </entry>
+    <entry id="226" >
+      <translation id="0" >
+        <text>der Mangel (Mängel)</text>
+      </translation>
+      <translation id="1" >
+        <text>deficiency, defect</text>
+      </translation>
+    </entry>
+    <entry id="227" >
+      <translation id="0" >
+        <text>anstreben</text>
+        <conjugation>
+          <tense>past</tense>
+        </conjugation>
+      </translation>
+      <translation id="1" >
+        <text>to aim at, to envisage</text>
+      </translation>
     </entry>
   </entries>
   <lessons>
     <container>
       <name>Lesson 1</name>
-      <inpractice>true</inpractice>
       <entry id="0" />
       <entry id="1" />
       <entry id="2" />
@@ -2814,7 +2950,6 @@
     </container>
     <container>
       <name>Lesson 2</name>
-      <inpractice>true</inpractice>
       <entry id="30" />
       <entry id="31" />
       <entry id="32" />
@@ -2848,7 +2983,6 @@
     </container>
     <container>
       <name>Lesson 3</name>
-      <inpractice>true</inpractice>
       <entry id="60" />
       <entry id="61" />
       <entry id="62" />
@@ -2882,7 +3016,6 @@
     </container>
     <container>
       <name>Lesson 4</name>
-      <inpractice>true</inpractice>
       <entry id="90" />
       <entry id="91" />
       <entry id="92" />
@@ -2916,7 +3049,6 @@
     </container>
     <container>
       <name>Lesson 5</name>
-      <inpractice>true</inpractice>
       <entry id="120" />
       <entry id="121" />
       <entry id="122" />
@@ -2950,7 +3082,6 @@
     </container>
     <container>
       <name>Lesson 6</name>
-      <inpractice>true</inpractice>
       <entry id="150" />
       <entry id="151" />
       <entry id="152" />
@@ -2984,7 +3115,6 @@
     </container>
     <container>
       <name>Lesson 7</name>
-      <inpractice>true</inpractice>
       <entry id="180" />
       <entry id="181" />
       <entry id="182" />
@@ -3023,12 +3153,29 @@
       <entry id="211" />
       <entry id="212" />
       <entry id="213" />
+      <entry id="214" />
+      <entry id="215" />
+      <entry id="216" />
+      <entry id="217" />
+      <entry id="218" />
+      <entry id="219" />
+      <entry id="220" />
+      <entry id="221" />
+      <entry id="222" />
+      <entry id="223" />
+      <entry id="224" />
+      <entry id="225" />
+      <entry id="226" />
+      <entry id="227" />
     </container>
   </lessons>
   <wordtypes>
     <container>
       <name>Noun</name>
       <specialwordtype>noun</specialwordtype>
+      <entry id="223" >
+        <translation id="0" />
+      </entry>
       <container>
         <name>Masculine</name>
         <specialwordtype>noun/male</specialwordtype>
@@ -3146,6 +3293,9 @@
         <entry id="212" >
           <translation id="0" />
         </entry>
+        <entry id="226" >
+          <translation id="0" />
+        </entry>
       </container>
       <container>
         <name>Feminine</name>
@@ -3226,6 +3376,12 @@
           <translation id="0" />
         </entry>
         <entry id="199" >
+          <translation id="0" />
+        </entry>
+        <entry id="214" >
+          <translation id="0" />
+        </entry>
+        <entry id="225" >
           <translation id="0" />
         </entry>
       </container>
@@ -3399,6 +3555,69 @@
       <entry id="209" >
         <translation id="0" />
       </entry>
+      <entry id="213" >
+        <translation id="0" />
+      </entry>
+      <entry id="215" >
+        <translation id="0" />
+      </entry>
+      <entry id="78" >
+        <translation id="0" />
+      </entry>
+      <entry id="80" >
+        <translation id="0" />
+      </entry>
+      <entry id="52" >
+        <translation id="0" />
+      </entry>
+      <entry id="92" >
+        <translation id="0" />
+      </entry>
+      <entry id="170" >
+        <translation id="0" />
+      </entry>
+      <entry id="142" >
+        <translation id="0" />
+      </entry>
+      <entry id="218" >
+        <translation id="0" />
+      </entry>
+      <entry id="60" >
+        <translation id="0" />
+      </entry>
+      <entry id="216" >
+        <translation id="0" />
+      </entry>
+      <entry id="217" >
+        <translation id="0" />
+      </entry>
+      <entry id="139" >
+        <translation id="0" />
+      </entry>
+      <entry id="23" >
+        <translation id="0" />
+      </entry>
+      <entry id="64" >
+        <translation id="0" />
+      </entry>
+      <entry id="98" >
+        <translation id="0" />
+      </entry>
+      <entry id="11" >
+        <translation id="0" />
+      </entry>
+      <entry id="15" >
+        <translation id="0" />
+      </entry>
+      <entry id="105" >
+        <translation id="0" />
+      </entry>
+      <entry id="172" >
+        <translation id="0" />
+      </entry>
+      <entry id="227" >
+        <translation id="0" />
+      </entry>
     </container>
     <container>
       <name>Adjective</name>
@@ -3448,6 +3667,18 @@
       <entry id="201" >
         <translation id="0" />
       </entry>
+      <entry id="10" >
+        <translation id="0" />
+      </entry>
+      <entry id="220" >
+        <translation id="0" />
+      </entry>
+      <entry id="221" >
+        <translation id="0" />
+      </entry>
+      <entry id="224" >
+        <translation id="0" />
+      </entry>
     </container>
     <container>
       <name>Adverb</name>
@@ -3459,6 +3690,12 @@
         <translation id="0" />
       </entry>
       <entry id="211" >
+        <translation id="0" />
+      </entry>
+      <entry id="219" >
+        <translation id="0" />
+      </entry>
+      <entry id="222" >
         <translation id="0" />
       </entry>
     </container>
