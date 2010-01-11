@@ -6,7 +6,7 @@
     <title>basic vocabulary German-English</title>
     <author>Markus Büchele, Norbert Behrendt</author>
     <license>GPL</license>
-    <date>2009-12-08</date>
+    <date>2010-01-09</date>
   </information>
   <identifiers>
     <identifier id="0" >
@@ -14977,10 +14977,10 @@
       <translation id="1" >
         <text>die Anwendung, die Bewerbung</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
-          <errorcount>0</errorcount>
-          <date>2009-12-06T10:34:37</date>
+          <currentgrade>1</currentgrade>
+          <count>6</count>
+          <errorcount>2</errorcount>
+          <date>2010-01-09T17:41:11</date>
         </grade>
       </translation>
     </entry>
@@ -14992,10 +14992,10 @@
       <translation id="1" >
         <text>die Kampagne, der Feldzug</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T08:12:15</date>
+          <date>2010-01-09T17:40:18</date>
         </grade>
       </translation>
     </entry>
@@ -15007,10 +15007,10 @@
       <translation id="1" >
         <text>die Auswahl, die Wahl</text>
         <grade>
-          <currentgrade>0</currentgrade>
-          <count>5</count>
+          <currentgrade>1</currentgrade>
+          <count>6</count>
           <errorcount>2</errorcount>
-          <date>2009-12-06T10:14:16</date>
+          <date>2010-01-09T17:33:06</date>
         </grade>
       </translation>
     </entry>
@@ -15022,10 +15022,10 @@
       <translation id="1" >
         <text>die Unterhaltung</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>6</count>
+          <currentgrade>4</currentgrade>
+          <count>7</count>
           <errorcount>2</errorcount>
-          <date>2009-12-06T10:16:47</date>
+          <date>2010-01-09T17:39:08</date>
         </grade>
       </translation>
     </entry>
@@ -15037,10 +15037,10 @@
       <translation id="1" >
         <text>die Entfernung</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>4</count>
+          <currentgrade>2</currentgrade>
+          <count>5</count>
           <errorcount>2</errorcount>
-          <date>2009-11-24T16:56:44</date>
+          <date>2010-01-09T17:34:46</date>
         </grade>
       </translation>
     </entry>
@@ -15052,10 +15052,10 @@
       <translation id="1" >
         <text>die Wahl</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T08:02:18</date>
+          <date>2010-01-09T17:41:19</date>
         </grade>
       </translation>
     </entry>
@@ -15071,10 +15071,10 @@
       <translation id="1" >
         <text>aufregend, spannend</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:36:02</date>
+          <date>2010-01-09T17:30:25</date>
         </grade>
       </translation>
     </entry>
@@ -15101,10 +15101,10 @@
       <translation id="1" >
         <text>zu verkaufen</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:52:06</date>
+          <date>2010-01-09T17:31:02</date>
         </grade>
       </translation>
     </entry>
@@ -15199,10 +15199,10 @@
       <translation id="1" >
         <text>elegant, schick, schlau</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:29:18</date>
+          <date>2010-01-09T17:32:13</date>
         </grade>
       </translation>
     </entry>
@@ -15237,10 +15237,10 @@
       <translation id="1" >
         <text>ordentlich</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:30:47</date>
+          <date>2010-01-09T17:33:03</date>
         </grade>
       </translation>
     </entry>
@@ -15298,10 +15298,10 @@
       <translation id="1" >
         <text>beschreiben</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:34:32</date>
+          <date>2010-01-09T17:36:32</date>
         </grade>
         <conjugation/>
       </translation>
@@ -15314,10 +15314,10 @@
       <translation id="1" >
         <text>raten, erraten, schätzen</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>7</count>
+          <currentgrade>2</currentgrade>
+          <count>8</count>
           <errorcount>4</errorcount>
-          <date>2009-11-26T08:03:11</date>
+          <date>2010-01-09T17:38:35</date>
         </grade>
       </translation>
     </entry>
@@ -15329,10 +15329,10 @@
       <translation id="1" >
         <text>ignorieren</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T08:14:55</date>
+          <date>2010-01-09T17:38:18</date>
         </grade>
       </translation>
     </entry>
@@ -15374,10 +15374,10 @@
       <translation id="1" >
         <text>erwähnen</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:31:08</date>
+          <date>2010-01-09T17:41:38</date>
         </grade>
       </translation>
     </entry>
@@ -15389,10 +15389,10 @@
       <translation id="1" >
         <text>vorbereiten, bereiten</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:36:24</date>
+          <date>2010-01-09T17:30:43</date>
         </grade>
       </translation>
     </entry>
@@ -15448,10 +15448,10 @@
       <translation id="1" >
         <text>das Kapital, die Hauptstadt</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:31:48</date>
+          <date>2010-01-09T17:35:55</date>
         </grade>
       </translation>
     </entry>
@@ -15491,10 +15491,10 @@
       <translation id="1" >
         <text>die Teilung, die Abteilung</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:23:16</date>
+          <date>2010-01-09T17:33:09</date>
         </grade>
       </translation>
     </entry>
@@ -15506,10 +15506,10 @@
       <translation id="1" >
         <text>sonst</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:39:17</date>
+          <date>2010-01-09T17:41:13</date>
         </grade>
       </translation>
     </entry>
@@ -15521,10 +15521,10 @@
       <translation id="1" >
         <text>endgültig</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:50:04</date>
+          <date>2010-01-09T17:34:15</date>
         </grade>
       </translation>
     </entry>
@@ -15595,10 +15595,10 @@
       <translation id="1" >
         <text>der Hals</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:49:05</date>
+          <date>2010-01-09T17:39:43</date>
         </grade>
       </translation>
     </entry>
@@ -15623,10 +15623,10 @@
       <translation id="1" >
         <text>das Geschenk, gegenwärtig</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T08:13:38</date>
+          <date>2010-01-09T17:35:51</date>
         </grade>
       </translation>
     </entry>
@@ -15638,10 +15638,10 @@
       <translation id="1" >
         <text>die Antwort</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:52:01</date>
+          <date>2010-01-09T17:38:15</date>
         </grade>
       </translation>
     </entry>
@@ -15653,10 +15653,10 @@
       <translation id="1" >
         <text>getrennt, separat</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:23:25</date>
+          <date>2010-01-09T17:30:59</date>
         </grade>
       </translation>
     </entry>
@@ -15668,10 +15668,10 @@
       <translation id="1" >
         <text>die Lösung</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T08:03:26</date>
+          <date>2010-01-09T17:31:38</date>
         </grade>
       </translation>
     </entry>
@@ -15682,10 +15682,10 @@
       <translation id="1" >
         <text>die Schnur</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:55:52</date>
+          <date>2010-01-09T17:40:02</date>
         </grade>
       </translation>
     </entry>
@@ -15710,10 +15710,10 @@
       <translation id="1" >
         <text>streiten, sich streiten, argumentieren</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T08:09:09</date>
+          <date>2010-01-09T17:33:44</date>
         </grade>
       </translation>
     </entry>
@@ -15754,10 +15754,10 @@
       <translation id="1" >
         <text>erfinden</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:42:13</date>
+          <date>2010-01-09T17:33:46</date>
         </grade>
       </translation>
     </entry>
@@ -15826,10 +15826,10 @@
       <translation id="1" >
         <text>die Ferien, der Urlaub</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:24:42</date>
+          <date>2010-01-09T17:32:02</date>
         </grade>
       </translation>
     </entry>
@@ -15884,10 +15884,10 @@
       <translation id="1" >
         <text>die Sorge, die Pflege</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:37:36</date>
+          <date>2010-01-09T17:36:25</date>
         </grade>
       </translation>
     </entry>
@@ -15899,10 +15899,10 @@
       <translation id="1" >
         <text>der Kunde</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:38:50</date>
+          <date>2010-01-09T17:40:38</date>
         </grade>
       </translation>
     </entry>
@@ -15913,10 +15913,10 @@
       <translation id="1" >
         <text>das Paar</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T07:58:17</date>
+          <date>2010-01-09T17:33:52</date>
         </grade>
       </translation>
     </entry>
@@ -15941,10 +15941,10 @@
       <translation id="1" >
         <text>das Dokument</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T08:07:41</date>
+          <date>2010-01-09T17:37:12</date>
         </grade>
       </translation>
     </entry>
@@ -15970,10 +15970,10 @@
       <translation id="1" >
         <text>die Erfahrung</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:54:42</date>
+          <date>2010-01-09T17:30:09</date>
         </grade>
       </translation>
     </entry>
@@ -15999,10 +15999,10 @@
       <translation id="1" >
         <text>der Treibstoff, das Benzin</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:53:39</date>
+          <date>2010-01-09T17:35:24</date>
         </grade>
       </translation>
     </entry>
@@ -16028,10 +16028,10 @@
       <translation id="1" >
         <text>das Bild</text>
         <grade>
-          <currentgrade>0</currentgrade>
-          <count>5</count>
+          <currentgrade>1</currentgrade>
+          <count>6</count>
           <errorcount>2</errorcount>
-          <date>2009-12-06T10:37:28</date>
+          <date>2010-01-09T17:32:35</date>
         </grade>
       </translation>
     </entry>
@@ -16042,10 +16042,10 @@
       <translation id="1" >
         <text>der Verlierer</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T07:59:57</date>
+          <date>2010-01-09T17:40:46</date>
         </grade>
       </translation>
     </entry>
@@ -16072,10 +16072,10 @@
       <translation id="1" >
         <text>der Nachbar</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T08:01:08</date>
+          <date>2010-01-09T17:32:19</date>
         </grade>
       </translation>
     </entry>
@@ -16158,10 +16158,10 @@
       <translation id="1" >
         <text>einladen</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:48:43</date>
+          <date>2010-01-09T17:40:40</date>
         </grade>
       </translation>
     </entry>
@@ -16200,10 +16200,10 @@
       <translation id="1" >
         <text>sich ausruhen</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:22:53</date>
+          <date>2010-01-09T17:33:22</date>
         </grade>
       </translation>
     </entry>
@@ -16242,10 +16242,10 @@
       <translation id="1" >
         <text>der Knochen</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:40:10</date>
+          <date>2010-01-09T17:31:26</date>
         </grade>
       </translation>
     </entry>
@@ -16257,10 +16257,10 @@
       <translation id="1" >
         <text>der Teppich</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:23:31</date>
+          <date>2010-01-09T17:39:06</date>
         </grade>
       </translation>
     </entry>
@@ -16272,10 +16272,10 @@
       <translation id="1" >
         <text>die Wolke</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T07:59:44</date>
+          <date>2010-01-09T17:37:45</date>
         </grade>
       </translation>
     </entry>
@@ -16316,10 +16316,10 @@
       <translation id="1" >
         <text>die Möbel</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:27:35</date>
+          <date>2010-01-09T17:38:59</date>
         </grade>
       </translation>
     </entry>
@@ -16344,10 +16344,10 @@
       <translation id="1" >
         <text>das Eisen</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:27:47</date>
+          <date>2010-01-09T17:42:04</date>
         </grade>
       </translation>
     </entry>
@@ -16386,10 +16386,10 @@
       <translation id="1" >
         <text>könnte vielleicht</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:30:59</date>
+          <date>2010-01-09T17:37:02</date>
         </grade>
       </translation>
     </entry>
@@ -16414,10 +16414,10 @@
       <translation id="1" >
         <text>der Absatz, der Paragraph</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T08:10:51</date>
+          <date>2010-01-09T17:31:34</date>
         </grade>
       </translation>
     </entry>
@@ -16442,10 +16442,10 @@
       <translation id="1" >
         <text>der Grund</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T08:03:05</date>
+          <date>2010-01-09T17:41:56</date>
         </grade>
       </translation>
     </entry>
@@ -16456,10 +16456,10 @@
       <translation id="1" >
         <text>das Ergebnis</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:24:14</date>
+          <date>2010-01-09T17:32:09</date>
         </grade>
       </translation>
     </entry>
@@ -16475,10 +16475,10 @@
       <translation id="1" >
         <text>ernst</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:23:46</date>
+          <date>2010-01-09T17:32:54</date>
         </grade>
       </translation>
     </entry>
@@ -16490,10 +16490,10 @@
       <translation id="1" >
         <text>der Raum, der Platz, der Weltraum</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>7</count>
+          <currentgrade>3</currentgrade>
+          <count>8</count>
           <errorcount>2</errorcount>
-          <date>2009-12-06T10:26:44</date>
+          <date>2010-01-09T17:33:12</date>
         </grade>
       </translation>
     </entry>
@@ -16504,10 +16504,10 @@
       <translation id="1" >
         <text>der Erfolg</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:25:50</date>
+          <date>2010-01-09T17:35:12</date>
         </grade>
       </translation>
     </entry>
@@ -16518,10 +16518,10 @@
       <translation id="1" >
         <text>zu Stande bringen, erreichen</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:23:12</date>
+          <date>2010-01-09T17:30:17</date>
         </grade>
       </translation>
     </entry>
@@ -16546,10 +16546,10 @@
       <translation id="1" >
         <text>decken, bedecken</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:26:41</date>
+          <date>2010-01-09T17:33:38</date>
         </grade>
       </translation>
     </entry>
@@ -16603,10 +16603,10 @@
       <translation id="1" >
         <text>verbessern</text>
         <grade>
-          <currentgrade>5</currentgrade>
-          <count>5</count>
+          <currentgrade>6</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:30:04</date>
+          <date>2010-01-09T17:38:30</date>
         </grade>
       </translation>
     </entry>
@@ -16618,10 +16618,10 @@
       <translation id="1" >
         <text>die Spur</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T07:59:38</date>
+          <date>2010-01-09T17:40:22</date>
         </grade>
       </translation>
     </entry>
@@ -16660,10 +16660,10 @@
       <translation id="1" >
         <text>der Boden</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T08:00:30</date>
+          <date>2010-01-09T17:35:10</date>
         </grade>
       </translation>
     </entry>
@@ -16688,10 +16688,10 @@
       <translation id="1" >
         <text>das Verbrechen</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>4</count>
+          <currentgrade>2</currentgrade>
+          <count>5</count>
           <errorcount>2</errorcount>
-          <date>2009-11-24T08:11:35</date>
+          <date>2010-01-09T17:30:36</date>
         </grade>
       </translation>
     </entry>
@@ -16717,10 +16717,10 @@
       <translation id="1" >
         <text>der Zweifel</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:32:44</date>
+          <date>2010-01-09T17:33:50</date>
         </grade>
       </translation>
     </entry>
@@ -16735,10 +16735,10 @@
       <translation id="1" >
         <text>gesund, fit</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T07:58:38</date>
+          <date>2010-01-09T17:31:28</date>
         </grade>
       </translation>
     </entry>
@@ -16779,10 +16779,10 @@
       <translation id="1" >
         <text>der Gegenstand</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:26:48</date>
+          <date>2010-01-09T17:38:04</date>
         </grade>
       </translation>
     </entry>
@@ -16808,10 +16808,10 @@
       <translation id="1" >
         <text>der Millionär</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:50:52</date>
+          <date>2010-01-09T17:39:22</date>
         </grade>
       </translation>
     </entry>
@@ -16822,10 +16822,10 @@
       <translation id="1" >
         <text>die Zeitung</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:29:10</date>
+          <date>2010-01-09T17:39:37</date>
         </grade>
       </translation>
     </entry>
@@ -16852,10 +16852,10 @@
       <translation id="1" >
         <text>die Briefmarke, der Stempel</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T08:12:24</date>
+          <date>2010-01-09T17:41:53</date>
         </grade>
       </translation>
     </entry>
@@ -16881,10 +16881,10 @@
       <translation id="1" >
         <text>raten, einen Rat geben</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T07:58:11</date>
+          <date>2010-01-09T17:34:27</date>
         </grade>
       </translation>
     </entry>
@@ -16895,10 +16895,10 @@
       <translation id="1" >
         <text>sammeln</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
-          <errorcount>0</errorcount>
-          <date>2009-12-06T10:25:54</date>
+          <currentgrade>2</currentgrade>
+          <count>7</count>
+          <errorcount>2</errorcount>
+          <date>2010-01-09T17:37:04</date>
         </grade>
       </translation>
     </entry>
@@ -16909,10 +16909,10 @@
       <translation id="1" >
         <text>hineingehen, betreten</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
-          <errorcount>0</errorcount>
-          <date>2009-12-06T10:31:19</date>
+          <currentgrade>1</currentgrade>
+          <count>6</count>
+          <errorcount>2</errorcount>
+          <date>2010-01-09T17:35:44</date>
         </grade>
       </translation>
     </entry>
@@ -16937,10 +16937,10 @@
       <translation id="1" >
         <text>einschließen</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:28:00</date>
+          <date>2010-01-09T17:33:27</date>
         </grade>
       </translation>
     </entry>
@@ -16952,10 +16952,10 @@
       <translation id="1" >
         <text>lassen, vermieten</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T08:09:33</date>
+          <date>2010-01-09T17:34:23</date>
         </grade>
       </translation>
     </entry>
@@ -17011,10 +17011,10 @@
       <translation id="1" >
         <text>dienen, bedienen</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T07:58:27</date>
+          <date>2010-01-09T17:34:08</date>
         </grade>
       </translation>
     </entry>
@@ -17025,10 +17025,10 @@
       <translation id="1" >
         <text>die Behandlung</text>
         <grade>
-          <currentgrade>0</currentgrade>
-          <count>4</count>
+          <currentgrade>1</currentgrade>
+          <count>5</count>
           <errorcount>2</errorcount>
-          <date>2009-11-24T08:10:54</date>
+          <date>2010-01-09T17:31:10</date>
         </grade>
       </translation>
     </entry>
@@ -17039,10 +17039,10 @@
       <translation id="1" >
         <text>der Vokal</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:51:59</date>
+          <date>2010-01-09T17:37:29</date>
         </grade>
       </translation>
     </entry>
@@ -17068,10 +17068,10 @@
       <translation id="1" >
         <text>der Aspekt</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:18:16</date>
+          <date>2010-01-09T17:31:15</date>
         </grade>
       </translation>
     </entry>
@@ -17086,10 +17086,10 @@
       <translation id="1" >
         <text>sicher</text>
         <grade>
-          <currentgrade>0</currentgrade>
-          <count>4</count>
+          <currentgrade>1</currentgrade>
+          <count>5</count>
           <errorcount>2</errorcount>
-          <date>2009-11-24T08:13:14</date>
+          <date>2010-01-09T17:37:47</date>
         </grade>
       </translation>
     </entry>
@@ -17100,10 +17100,10 @@
       <translation id="1" >
         <text>die Fachhochschule, die Berufsschule</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:50:41</date>
+          <date>2010-01-09T17:36:54</date>
         </grade>
       </translation>
     </entry>
@@ -17143,10 +17143,10 @@
       <translation id="1" >
         <text>die Tatsache</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T08:07:30</date>
+          <date>2010-01-09T17:38:39</date>
         </grade>
       </translation>
     </entry>
@@ -17161,10 +17161,10 @@
       <translation id="1" >
         <text>allgemein</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:42:02</date>
+          <date>2010-01-09T17:39:34</date>
         </grade>
       </translation>
     </entry>
@@ -17213,10 +17213,10 @@
       <translation id="1" >
         <text>die Bibliothek, die Bücherei</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T08:12:08</date>
+          <date>2010-01-09T17:42:23</date>
         </grade>
       </translation>
     </entry>
@@ -17228,10 +17228,10 @@
       <translation id="1" >
         <text>Haupt-</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:32:51</date>
+          <date>2010-01-09T17:31:05</date>
         </grade>
       </translation>
     </entry>
@@ -17242,10 +17242,10 @@
       <translation id="1" >
         <text>der Lärm, das Geräusch</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T08:15:32</date>
+          <date>2010-01-09T17:32:26</date>
         </grade>
       </translation>
     </entry>
@@ -17256,10 +17256,10 @@
       <translation id="1" >
         <text>das Prozent</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>7</count>
+          <currentgrade>4</currentgrade>
+          <count>8</count>
           <errorcount>2</errorcount>
-          <date>2009-12-06T10:15:15</date>
+          <date>2010-01-09T17:38:50</date>
         </grade>
       </translation>
     </entry>
@@ -17270,10 +17270,10 @@
       <translation id="1" >
         <text>kürzlich, neulich</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:32:47</date>
+          <date>2010-01-09T17:34:03</date>
         </grade>
       </translation>
     </entry>
@@ -17284,10 +17284,10 @@
       <translation id="1" >
         <text>die Rolle</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:21:18</date>
+          <date>2010-01-09T17:35:54</date>
         </grade>
       </translation>
     </entry>
@@ -17298,10 +17298,10 @@
       <translation id="1" >
         <text>mehrere, verschiedene</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T07:59:04</date>
+          <date>2010-01-09T17:31:21</date>
         </grade>
       </translation>
     </entry>
@@ -17313,10 +17313,10 @@
       <translation id="1" >
         <text>der Zustand, der Staat</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T07:58:46</date>
+          <date>2010-01-09T17:35:34</date>
         </grade>
       </translation>
     </entry>
@@ -17327,10 +17327,10 @@
       <translation id="1" >
         <text>bremsen</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T08:01:03</date>
+          <date>2010-01-09T17:34:17</date>
         </grade>
       </translation>
     </entry>
@@ -17341,10 +17341,10 @@
       <translation id="1" >
         <text>entwickeln</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T08:02:21</date>
+          <date>2010-01-09T17:35:32</date>
         </grade>
       </translation>
     </entry>
@@ -17370,10 +17370,10 @@
       <translation id="1" >
         <text>befestigen, reparieren</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T08:09:44</date>
+          <date>2010-01-09T17:37:23</date>
         </grade>
       </translation>
     </entry>
@@ -17457,10 +17457,10 @@
       <translation id="1" >
         <text>der Spaziergang</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:29:14</date>
+          <date>2010-01-09T17:31:24</date>
         </grade>
       </translation>
     </entry>
@@ -17471,10 +17471,10 @@
       <translation id="1" >
         <text>der Assistent</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T07:59:35</date>
+          <date>2010-01-09T17:34:20</date>
         </grade>
       </translation>
     </entry>
@@ -17500,10 +17500,10 @@
       <translation id="1" >
         <text>sicherlich, bestimmt</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:51:45</date>
+          <date>2010-01-09T17:39:56</date>
         </grade>
       </translation>
     </entry>
@@ -17576,10 +17576,10 @@
       <translation id="1" >
         <text>die Wohnung, flach</text>
         <grade>
-          <currentgrade>5</currentgrade>
-          <count>5</count>
+          <currentgrade>6</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:13:39</date>
+          <date>2010-01-09T17:38:01</date>
         </grade>
       </translation>
     </entry>
@@ -17594,10 +17594,10 @@
       <translation id="1" >
         <text>froh</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T08:03:15</date>
+          <date>2010-01-09T17:37:31</date>
         </grade>
       </translation>
     </entry>
@@ -17608,10 +17608,10 @@
       <translation id="1" >
         <text>die Hitze, die Wärme</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:21:24</date>
+          <date>2010-01-09T17:37:09</date>
         </grade>
       </translation>
     </entry>
@@ -17623,10 +17623,10 @@
       <translation id="1" >
         <text>das Handy</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T08:07:16</date>
+          <date>2010-01-09T17:39:20</date>
         </grade>
       </translation>
     </entry>
@@ -17637,10 +17637,10 @@
       <translation id="1" >
         <text>die Notiz</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:41:58</date>
+          <date>2010-01-09T17:35:37</date>
         </grade>
       </translation>
     </entry>
@@ -17651,10 +17651,10 @@
       <translation id="1" >
         <text>die Ebene, klar, einfach</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>5</count>
+          <currentgrade>3</currentgrade>
+          <count>6</count>
           <errorcount>2</errorcount>
-          <date>2009-12-06T10:22:45</date>
+          <date>2010-01-09T17:38:22</date>
         </grade>
       </translation>
     </entry>
@@ -17666,10 +17666,10 @@
       <translation id="1" >
         <text>die Aufzeichnung, die Schallplatte, der Rekord</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>4</count>
+          <currentgrade>2</currentgrade>
+          <count>5</count>
           <errorcount>2</errorcount>
-          <date>2009-11-24T16:48:11</date>
+          <date>2010-01-09T17:39:05</date>
         </grade>
       </translation>
     </entry>
@@ -17681,10 +17681,10 @@
       <translation id="1" >
         <text>die Reihe</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:56:58</date>
+          <date>2010-01-09T17:37:14</date>
         </grade>
       </translation>
     </entry>
@@ -17724,10 +17724,10 @@
       <translation id="1" >
         <text>wirken, einwirken</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:56:14</date>
+          <date>2010-01-09T17:39:59</date>
         </grade>
       </translation>
     </entry>
@@ -17753,10 +17753,10 @@
       <translation id="1" >
         <text>scheitern, durchfallen</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>7</count>
-          <errorcount>2</errorcount>
-          <date>2009-12-06T10:24:03</date>
+          <currentgrade>1</currentgrade>
+          <count>10</count>
+          <errorcount>4</errorcount>
+          <date>2010-01-09T17:31:07</date>
         </grade>
       </translation>
     </entry>
@@ -17767,10 +17767,10 @@
       <translation id="1" >
         <text>erhöhen, zunehmen</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
-          <errorcount>0</errorcount>
-          <date>2009-11-24T08:09:18</date>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>2</errorcount>
+          <date>2010-01-09T17:34:31</date>
         </grade>
       </translation>
     </entry>
@@ -17781,10 +17781,10 @@
       <translation id="1" >
         <text>Witze machen</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:32:19</date>
+          <date>2010-01-09T17:33:30</date>
         </grade>
       </translation>
     </entry>
@@ -17809,10 +17809,10 @@
       <translation id="1" >
         <text>liegen</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:25:22</date>
+          <date>2010-01-09T17:38:07</date>
         </grade>
       </translation>
     </entry>
@@ -17837,10 +17837,10 @@
       <translation id="1" >
         <text>scheinen, glänzen</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:30:27</date>
+          <date>2010-01-09T17:41:59</date>
         </grade>
       </translation>
     </entry>
@@ -17851,10 +17851,10 @@
       <translation id="1" >
         <text>ansehen, beobachten</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
-          <errorcount>0</errorcount>
-          <date>2009-12-06T10:23:21</date>
+          <currentgrade>1</currentgrade>
+          <count>6</count>
+          <errorcount>2</errorcount>
+          <date>2010-01-09T17:42:37</date>
         </grade>
       </translation>
     </entry>
@@ -17865,10 +17865,10 @@
       <translation id="1" >
         <text>der Zwilling</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:40:06</date>
+          <date>2010-01-09T17:30:12</date>
         </grade>
       </translation>
     </entry>
@@ -17912,10 +17912,10 @@
       <translation id="1" >
         <text>die Gelegenheit, die Chance</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:48:59</date>
+          <date>2010-01-09T17:37:35</date>
         </grade>
       </translation>
     </entry>
@@ -17941,10 +17941,10 @@
       <translation id="1" >
         <text>der Kunde</text>
         <grade>
-          <currentgrade>5</currentgrade>
-          <count>5</count>
-          <errorcount>0</errorcount>
-          <date>2009-12-06T10:32:13</date>
+          <currentgrade>3</currentgrade>
+          <count>8</count>
+          <errorcount>2</errorcount>
+          <date>2010-01-09T17:39:57</date>
         </grade>
       </translation>
     </entry>
@@ -17955,10 +17955,10 @@
       <translation id="1" >
         <text>die Schwierigkeit</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:14:33</date>
+          <date>2010-01-09T17:33:00</date>
         </grade>
       </translation>
     </entry>
@@ -17984,10 +17984,10 @@
       <translation id="1" >
         <text>besonders</text>
         <grade>
-          <currentgrade>5</currentgrade>
-          <count>5</count>
+          <currentgrade>6</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:24:52</date>
+          <date>2010-01-09T17:35:48</date>
         </grade>
       </translation>
     </entry>
@@ -18016,10 +18016,10 @@
       <translation id="1" >
         <text>der Fußboden, die Etage</text>
         <grade>
-          <currentgrade>0</currentgrade>
-          <count>5</count>
+          <currentgrade>1</currentgrade>
+          <count>6</count>
           <errorcount>2</errorcount>
-          <date>2009-12-06T10:37:58</date>
+          <date>2010-01-09T17:39:50</date>
         </grade>
       </translation>
     </entry>
@@ -18031,10 +18031,10 @@
       <translation id="1" >
         <text>das Tor, das Ziel</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T08:12:18</date>
+          <date>2010-01-09T17:38:10</date>
         </grade>
       </translation>
     </entry>
@@ -18059,10 +18059,10 @@
       <translation id="1" >
         <text>die Freude</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
-          <errorcount>0</errorcount>
-          <date>2009-11-24T08:14:12</date>
+          <currentgrade>0</currentgrade>
+          <count>6</count>
+          <errorcount>4</errorcount>
+          <date>2010-01-09T17:40:25</date>
         </grade>
       </translation>
     </entry>
@@ -18117,10 +18117,10 @@
       <translation id="1" >
         <text>die Politik</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:40:23</date>
+          <date>2010-01-09T17:30:05</date>
         </grade>
       </translation>
     </entry>
@@ -18136,10 +18136,10 @@
       <translation id="1" >
         <text>regelmäßig, üblich</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:32:29</date>
+          <date>2010-01-09T17:32:06</date>
         </grade>
       </translation>
     </entry>
@@ -18150,10 +18150,10 @@
       <translation id="1" >
         <text>das Ufer</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:39:41</date>
+          <date>2010-01-09T17:41:21</date>
         </grade>
       </translation>
     </entry>
@@ -18194,10 +18194,10 @@
       <translation id="1" >
         <text>sich leisten</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>6</count>
-          <errorcount>2</errorcount>
-          <date>2009-12-06T10:34:44</date>
+          <currentgrade>0</currentgrade>
+          <count>9</count>
+          <errorcount>4</errorcount>
+          <date>2010-01-09T17:36:40</date>
         </grade>
       </translation>
     </entry>
@@ -18222,10 +18222,10 @@
       <translation id="1" >
         <text>bemerken</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:50:51</date>
+          <date>2010-01-09T17:36:46</date>
         </grade>
       </translation>
     </entry>
@@ -18237,10 +18237,10 @@
       <translation id="1" >
         <text>verlassen, aufhören</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:41:51</date>
+          <date>2010-01-09T17:41:48</date>
         </grade>
       </translation>
     </entry>
@@ -18251,10 +18251,10 @@
       <translation id="1" >
         <text>herrschen, regieren</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T08:02:41</date>
+          <date>2010-01-09T17:29:51</date>
         </grade>
       </translation>
     </entry>
@@ -18265,10 +18265,10 @@
       <translation id="1" >
         <text>der Typ</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T08:01:04</date>
+          <date>2010-01-09T17:30:03</date>
         </grade>
       </translation>
     </entry>
@@ -18326,10 +18326,10 @@
       <translation id="1" >
         <text>breit</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:46:57</date>
+          <date>2010-01-09T17:35:21</date>
         </grade>
       </translation>
     </entry>
@@ -18340,10 +18340,10 @@
       <translation id="1" >
         <text>die Änderung, die Veränderung</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T07:58:35</date>
+          <date>2010-01-09T17:36:19</date>
         </grade>
       </translation>
     </entry>
@@ -18369,10 +18369,10 @@
       <translation id="1" >
         <text>der Direktor, der Regisseur</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:27:41</date>
+          <date>2010-01-09T17:42:25</date>
         </grade>
       </translation>
     </entry>
@@ -18383,10 +18383,10 @@
       <translation id="1" >
         <text>sogar</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>5</count>
+          <currentgrade>3</currentgrade>
+          <count>6</count>
           <errorcount>2</errorcount>
-          <date>2009-11-26T08:01:01</date>
+          <date>2010-01-09T17:42:03</date>
         </grade>
       </translation>
     </entry>
@@ -18460,10 +18460,10 @@
       <translation id="1" >
         <text>das Substantiv</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T08:14:35</date>
+          <date>2010-01-09T17:29:55</date>
         </grade>
       </translation>
     </entry>
@@ -18492,10 +18492,10 @@
       <translation id="1" >
         <text>das Rennen, die Rasse</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:24:39</date>
+          <date>2010-01-09T17:30:23</date>
         </grade>
       </translation>
     </entry>
@@ -18507,10 +18507,10 @@
       <translation id="1" >
         <text>das Verhältnis, die Beziehung</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T08:11:27</date>
+          <date>2010-01-09T17:35:07</date>
         </grade>
       </translation>
     </entry>
@@ -18578,10 +18578,10 @@
       <translation id="1" >
         <text>vergleichen</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:56:52</date>
+          <date>2010-01-09T17:41:34</date>
         </grade>
       </translation>
     </entry>
@@ -18607,10 +18607,10 @@
       <translation id="1" >
         <text>fließen</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:36:49</date>
+          <date>2010-01-09T17:30:07</date>
         </grade>
       </translation>
     </entry>
@@ -18621,10 +18621,10 @@
       <translation id="1" >
         <text>behalten, halten</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:54:11</date>
+          <date>2010-01-09T17:39:32</date>
         </grade>
       </translation>
     </entry>
@@ -18635,10 +18635,10 @@
       <translation id="1" >
         <text>heben</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:53:28</date>
+          <date>2010-01-09T17:39:25</date>
         </grade>
       </translation>
     </entry>
@@ -18649,10 +18649,10 @@
       <translation id="1" >
         <text>zusammenpassen</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
-          <errorcount>0</errorcount>
-          <date>2009-12-06T10:25:03</date>
+          <currentgrade>2</currentgrade>
+          <count>7</count>
+          <errorcount>2</errorcount>
+          <date>2010-01-09T17:40:34</date>
         </grade>
       </translation>
     </entry>
@@ -18663,10 +18663,10 @@
       <translation id="1" >
         <text>bewegen, sich bewegen, umziehen</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>6</count>
+          <currentgrade>3</currentgrade>
+          <count>7</count>
           <errorcount>2</errorcount>
-          <date>2009-12-06T10:13:58</date>
+          <date>2010-01-09T17:42:32</date>
         </grade>
       </translation>
     </entry>
@@ -18693,10 +18693,10 @@
       <translation id="1" >
         <text>die Welle</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:35:51</date>
+          <date>2010-01-09T17:41:07</date>
         </grade>
       </translation>
     </entry>
@@ -18707,10 +18707,10 @@
       <translation id="1" >
         <text>allein</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T07:59:13</date>
+          <date>2010-01-09T17:36:27</date>
         </grade>
       </translation>
     </entry>
@@ -18721,10 +18721,10 @@
       <translation id="1" >
         <text>das Geschäft, die Angelegenheit</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:57:15</date>
+          <date>2010-01-09T17:39:13</date>
         </grade>
       </translation>
     </entry>
@@ -18735,10 +18735,10 @@
       <translation id="1" >
         <text>der Schmutz</text>
         <grade>
-          <currentgrade>5</currentgrade>
-          <count>5</count>
+          <currentgrade>6</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:26:30</date>
+          <date>2010-01-09T17:39:47</date>
         </grade>
       </translation>
     </entry>
@@ -18750,10 +18750,10 @@
       <translation id="1" >
         <text>der Rand</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>6</count>
+          <currentgrade>2</currentgrade>
+          <count>7</count>
           <errorcount>2</errorcount>
-          <date>2009-12-06T10:42:17</date>
+          <date>2010-01-09T17:36:37</date>
         </grade>
       </translation>
     </entry>
@@ -18779,10 +18779,10 @@
       <translation id="1" >
         <text>der Gefallen, das Wohlwollen</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>5</count>
-          <errorcount>2</errorcount>
-          <date>2009-12-06T10:42:09</date>
+          <currentgrade>0</currentgrade>
+          <count>10</count>
+          <errorcount>6</errorcount>
+          <date>2010-01-09T17:40:31</date>
         </grade>
       </translation>
     </entry>
@@ -18793,10 +18793,10 @@
       <translation id="1" >
         <text>die Kraft, der Zwang</text>
         <grade>
-          <currentgrade>0</currentgrade>
-          <count>4</count>
+          <currentgrade>1</currentgrade>
+          <count>5</count>
           <errorcount>2</errorcount>
-          <date>2009-11-24T16:48:54</date>
+          <date>2010-01-09T17:42:39</date>
         </grade>
       </translation>
     </entry>
@@ -18807,10 +18807,10 @@
       <translation id="1" >
         <text>großartig</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>5</count>
+          <currentgrade>3</currentgrade>
+          <count>6</count>
           <errorcount>2</errorcount>
-          <date>2009-11-26T08:00:26</date>
+          <date>2010-01-09T17:40:49</date>
         </grade>
       </translation>
     </entry>
@@ -18836,10 +18836,10 @@
       <translation id="1" >
         <text>die Industrie</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T08:01:34</date>
+          <date>2010-01-09T17:36:59</date>
         </grade>
       </translation>
     </entry>
@@ -18879,10 +18879,10 @@
       <translation id="1" >
         <text>die Bewegung</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:29:12</date>
+          <date>2010-01-09T17:39:41</date>
         </grade>
       </translation>
     </entry>
@@ -18908,10 +18908,10 @@
       <translation id="1" >
         <text>das Schweinefleisch</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:31:56</date>
+          <date>2010-01-09T17:39:44</date>
         </grade>
       </translation>
     </entry>
@@ -18923,10 +18923,10 @@
       <translation id="1" >
         <text>die Eisenbahn</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:26:18</date>
+          <date>2010-01-09T17:42:22</date>
         </grade>
       </translation>
     </entry>
@@ -18937,10 +18937,10 @@
       <translation id="1" >
         <text>die Wissenschaft</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:29:23</date>
+          <date>2010-01-09T17:40:36</date>
         </grade>
       </translation>
     </entry>
@@ -18952,10 +18952,10 @@
       <translation id="1" >
         <text>das Symbol</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:47:12</date>
+          <date>2010-01-09T17:35:42</date>
         </grade>
       </translation>
     </entry>
@@ -19009,10 +19009,10 @@
       <translation id="1" >
         <text>entscheiden, sich entscheiden</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:49:54</date>
+          <date>2010-01-09T17:40:44</date>
         </grade>
       </translation>
     </entry>
@@ -19066,10 +19066,10 @@
       <translation id="1" >
         <text>speichern, lagern</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:29:28</date>
+          <date>2010-01-09T17:37:07</date>
         </grade>
       </translation>
     </entry>
@@ -19080,10 +19080,10 @@
       <translation id="1" >
         <text>tragen (Kleidung)</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:31:52</date>
+          <date>2010-01-09T17:41:26</date>
         </grade>
       </translation>
     </entry>
@@ -19099,10 +19099,10 @@
       <translation id="1" >
         <text>unbequem</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:13:35</date>
+          <date>2010-01-09T17:42:28</date>
         </grade>
       </translation>
     </entry>
@@ -19113,10 +19113,10 @@
       <translation id="1" >
         <text>die Menge, der Betrag</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>6</count>
+          <currentgrade>2</currentgrade>
+          <count>7</count>
           <errorcount>2</errorcount>
-          <date>2009-12-06T10:33:18</date>
+          <date>2010-01-09T17:41:29</date>
         </grade>
       </translation>
     </entry>
@@ -19131,10 +19131,10 @@
       <translation id="1" >
         <text>grundlegend</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T08:09:37</date>
+          <date>2010-01-09T17:34:53</date>
         </grade>
       </translation>
     </entry>
@@ -19149,10 +19149,10 @@
       <translation id="1" >
         <text>beschäftigt, besetzt (Tel.)</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>5</count>
+          <currentgrade>2</currentgrade>
+          <count>6</count>
           <errorcount>2</errorcount>
-          <date>2009-11-24T16:48:24</date>
+          <date>2010-01-09T17:35:18</date>
         </grade>
       </translation>
     </entry>
@@ -19177,10 +19177,10 @@
       <translation id="1" >
         <text>die Bedingung</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
-          <errorcount>0</errorcount>
-          <date>2009-11-26T08:03:47</date>
+          <currentgrade>1</currentgrade>
+          <count>6</count>
+          <errorcount>2</errorcount>
+          <date>2010-01-09T17:40:58</date>
         </grade>
       </translation>
     </entry>
@@ -19207,10 +19207,10 @@
       <translation id="1" >
         <text>die Erziehung, die Bildung</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:49:58</date>
+          <date>2010-01-09T17:32:44</date>
         </grade>
       </translation>
     </entry>
@@ -19222,10 +19222,10 @@
       <translation id="1" >
         <text>je, jemals</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>6</count>
+          <currentgrade>2</currentgrade>
+          <count>7</count>
           <errorcount>2</errorcount>
-          <date>2009-12-06T10:39:21</date>
+          <date>2010-01-09T17:33:19</date>
         </grade>
       </translation>
     </entry>
@@ -19266,10 +19266,10 @@
       <translation id="1" >
         <text>das Knie</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T08:06:45</date>
+          <date>2010-01-09T17:30:38</date>
         </grade>
       </translation>
     </entry>
@@ -19308,10 +19308,10 @@
       <translation id="1" >
         <text>die Position, die Stellung, die Lage</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:13:25</date>
+          <date>2010-01-09T17:32:21</date>
         </grade>
       </translation>
     </entry>
@@ -19338,10 +19338,10 @@
       <translation id="1" >
         <text>das Zeichen, das Schild</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:24:45</date>
+          <date>2010-01-09T17:31:31</date>
         </grade>
       </translation>
     </entry>
@@ -19370,10 +19370,10 @@
       <translation id="1" >
         <text>der Schwanz</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T08:03:27</date>
+          <date>2010-01-09T17:32:57</date>
         </grade>
       </translation>
     </entry>
@@ -19385,10 +19385,10 @@
       <translation id="1" >
         <text>entdecken</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T08:02:25</date>
+          <date>2010-01-09T17:30:22</date>
         </grade>
       </translation>
     </entry>
@@ -19441,10 +19441,10 @@
       <translation id="1" >
         <text>messen</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:48:31</date>
+          <date>2010-01-09T17:32:41</date>
         </grade>
       </translation>
     </entry>
@@ -19470,10 +19470,10 @@
       <translation id="1" >
         <text>heben, erhöhen</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:27:50</date>
+          <date>2010-01-09T17:36:11</date>
         </grade>
       </translation>
     </entry>
@@ -19503,10 +19503,10 @@
       <translation id="1" >
         <text>ungerecht</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T08:10:41</date>
+          <date>2010-01-09T17:41:50</date>
         </grade>
       </translation>
     </entry>
@@ -19517,10 +19517,10 @@
       <translation id="1" >
         <text>das Gewicht</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:40:27</date>
+          <date>2010-01-09T17:40:04</date>
         </grade>
       </translation>
     </entry>
@@ -19532,10 +19532,10 @@
       <translation id="1" >
         <text>der Schläger, die Fledermaus</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:56:12</date>
+          <date>2010-01-09T17:33:56</date>
         </grade>
       </translation>
     </entry>
@@ -19546,10 +19546,10 @@
       <translation id="1" >
         <text>der Anruf</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T08:08:00</date>
+          <date>2010-01-09T17:42:07</date>
         </grade>
       </translation>
     </entry>
@@ -19560,10 +19560,10 @@
       <translation id="1" >
         <text>chemisch, die Chemikalie</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:30:07</date>
+          <date>2010-01-09T17:34:50</date>
         </grade>
       </translation>
     </entry>
@@ -19575,10 +19575,10 @@
       <translation id="1" >
         <text>der Konflikt</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:51:13</date>
+          <date>2010-01-09T17:33:40</date>
         </grade>
       </translation>
     </entry>
@@ -19625,10 +19625,10 @@
       <translation id="1" >
         <text>genau</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:39:20</date>
+          <date>2010-01-09T17:35:26</date>
         </grade>
       </translation>
     </entry>
@@ -19639,10 +19639,10 @@
       <translation id="1" >
         <text>der Boden</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:37:55</date>
+          <date>2010-01-09T17:39:53</date>
         </grade>
       </translation>
     </entry>
@@ -19657,10 +19657,10 @@
       <translation id="1" >
         <text>schrecklich</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T08:11:31</date>
+          <date>2010-01-09T17:37:15</date>
         </grade>
       </translation>
     </entry>
@@ -19671,10 +19671,10 @@
       <translation id="1" >
         <text>stattdessen</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:34:21</date>
+          <date>2010-01-09T17:38:53</date>
         </grade>
       </translation>
     </entry>
@@ -19703,10 +19703,10 @@
       <translation id="1" >
         <text>die Medien</text>
         <grade>
-          <currentgrade>0</currentgrade>
-          <count>5</count>
+          <currentgrade>1</currentgrade>
+          <count>6</count>
           <errorcount>2</errorcount>
-          <date>2009-12-06T10:37:38</date>
+          <date>2010-01-09T17:32:23</date>
         </grade>
       </translation>
     </entry>
@@ -19717,10 +19717,10 @@
       <translation id="1" >
         <text>national, landesweit</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>5</count>
+          <currentgrade>2</currentgrade>
+          <count>6</count>
           <errorcount>2</errorcount>
-          <date>2009-12-06T10:23:38</date>
+          <date>2010-01-09T17:33:58</date>
         </grade>
       </translation>
     </entry>
@@ -19732,10 +19732,10 @@
       <translation id="1" >
         <text>die Meinung</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:21:04</date>
+          <date>2010-01-09T17:35:29</date>
         </grade>
       </translation>
     </entry>
@@ -19747,10 +19747,10 @@
       <translation id="1" >
         <text>die Macht</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:38:53</date>
+          <date>2010-01-09T17:35:40</date>
         </grade>
       </translation>
     </entry>
@@ -19789,10 +19789,10 @@
       <translation id="1" >
         <text>seltsam, fremd</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T08:12:29</date>
+          <date>2010-01-09T17:31:13</date>
         </grade>
       </translation>
     </entry>
@@ -19832,10 +19832,10 @@
       <translation id="1" >
         <text>diskutieren, besprechen</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T07:57:52</date>
+          <date>2010-01-09T17:37:38</date>
         </grade>
       </translation>
     </entry>
@@ -19847,10 +19847,10 @@
       <translation id="1" >
         <text>füttern</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T07:58:23</date>
+          <date>2010-01-09T17:33:33</date>
         </grade>
       </translation>
     </entry>
@@ -19903,10 +19903,10 @@
       <translation id="1" >
         <text>suchen</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:53:27</date>
+          <date>2010-01-09T17:30:30</date>
         </grade>
       </translation>
     </entry>
@@ -19936,10 +19936,10 @@
       <translation id="1" >
         <text>breit, weit</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T08:06:15</date>
+          <date>2010-01-09T17:33:48</date>
         </grade>
       </translation>
     </entry>
@@ -19966,10 +19966,10 @@
       <translation id="1" >
         <text>das Lager</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>7</count>
+          <currentgrade>5</currentgrade>
+          <count>8</count>
           <errorcount>2</errorcount>
-          <date>2009-12-06T10:41:15</date>
+          <date>2010-01-09T17:36:52</date>
         </grade>
       </translation>
     </entry>
@@ -20009,10 +20009,10 @@
       <translation id="1" >
         <text>die Diskette</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T08:13:16</date>
+          <date>2010-01-09T17:38:56</date>
         </grade>
       </translation>
     </entry>
@@ -20023,10 +20023,10 @@
       <translation id="1" >
         <text>z. B.</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:30:55</date>
+          <date>2010-01-09T17:37:26</date>
         </grade>
       </translation>
     </entry>
@@ -20038,10 +20038,10 @@
       <translation id="1" >
         <text>der Austauschschüler</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:34:25</date>
+          <date>2010-01-09T17:39:28</date>
         </grade>
       </translation>
     </entry>
@@ -20056,10 +20056,10 @@
       <translation id="1" >
         <text>wenig</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-11-26T08:00:34</date>
+          <date>2010-01-09T17:41:05</date>
         </grade>
       </translation>
     </entry>
@@ -20071,10 +20071,10 @@
       <translation id="1" >
         <text>die Form, das Formular</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:23:05</date>
+          <date>2010-01-09T17:41:16</date>
         </grade>
       </translation>
     </entry>
@@ -20118,10 +20118,10 @@
       <translation id="1" >
         <text>gestern Abend</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
-          <errorcount>0</errorcount>
-          <date>2009-11-26T08:01:48</date>
+          <currentgrade>2</currentgrade>
+          <count>6</count>
+          <errorcount>2</errorcount>
+          <date>2010-01-09T17:41:24</date>
         </grade>
       </translation>
     </entry>
@@ -20132,10 +20132,10 @@
       <translation id="1" >
         <text>hiesig, ortsansässig</text>
         <grade>
-          <currentgrade>1</currentgrade>
-          <count>5</count>
+          <currentgrade>2</currentgrade>
+          <count>6</count>
           <errorcount>2</errorcount>
-          <date>2009-12-06T10:39:04</date>
+          <date>2010-01-09T17:30:01</date>
         </grade>
       </translation>
     </entry>
@@ -20160,10 +20160,10 @@
       <translation id="1" >
         <text>beinahe, fast</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:31:34</date>
+          <date>2010-01-09T17:32:29</date>
         </grade>
       </translation>
     </entry>
@@ -20204,10 +20204,10 @@
       <translation id="1" >
         <text>die Stärke, die Kraft</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:48:48</date>
+          <date>2010-01-09T17:33:35</date>
         </grade>
       </translation>
     </entry>
@@ -20246,10 +20246,10 @@
       <translation id="1" >
         <text>Wert sein</text>
         <grade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2009-11-24T16:48:14</date>
+          <date>2010-01-09T17:32:38</date>
         </grade>
       </translation>
     </entry>
@@ -20261,10 +20261,10 @@
       <translation id="1" >
         <text>verbinden</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>5</count>
+          <currentgrade>4</currentgrade>
+          <count>6</count>
           <errorcount>1</errorcount>
-          <date>2009-12-06T10:42:20</date>
+          <date>2010-01-09T17:31:36</date>
         </grade>
       </translation>
     </entry>
@@ -20276,10 +20276,10 @@
       <translation id="1" >
         <text>wachsen</text>
         <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:28:07</date>
+          <date>2010-01-09T17:41:00</date>
         </grade>
       </translation>
     </entry>
@@ -20332,10 +20332,10 @@
       <translation id="1" >
         <text>auswählen</text>
         <grade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2009-12-06T10:35:11</date>
+          <date>2010-01-09T17:41:42</date>
         </grade>
       </translation>
     </entry>
