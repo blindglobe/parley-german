@@ -8,7 +8,7 @@
     <contact>blindglobe@gmail.com</contact>
     <license>GPLv2+ (GNU General Public License version 2 or later)</license>
     <comment>Tram words</comment>
-    <date>2010-01-23</date>
+    <date>2010-02-03</date>
     <category>Languages</category>
   </information>
   <identifiers>
@@ -1476,9 +1476,12 @@
     <entry id="101" >
       <translation id="0" >
         <text>zeigen</text>
+        <conjugation>
+          <tense>past</tense>
+        </conjugation>
       </translation>
       <translation id="1" >
-        <text>to indicate</text>
+        <text>to indicate, to show</text>
         <grade>
           <currentgrade>2</currentgrade>
           <count>7</count>
@@ -1503,21 +1506,10 @@
     </entry>
     <entry id="103" >
       <translation id="0" >
-        <text>abschneiden</text>
-      </translation>
-      <translation id="1" >
-        <text>to snip, to cut (hair).</text>
-        <grade>
-          <currentgrade>7</currentgrade>
-          <count>7</count>
-          <errorcount>0</errorcount>
-          <date>2010-01-18T08:09:10</date>
-        </grade>
-      </translation>
-    </entry>
-    <entry id="104" >
-      <translation id="0" >
         <text>anfahren</text>
+        <conjugation>
+          <tense>past</tense>
+        </conjugation>
       </translation>
       <translation id="1" >
         <text>to hit, to run into</text>
@@ -1529,7 +1521,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="105" >
+    <entry id="104" >
       <translation id="0" >
         <text>würden</text>
       </translation>
@@ -1543,7 +1535,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="106" >
+    <entry id="105" >
       <translation id="0" >
         <text>angemessen</text>
       </translation>
@@ -1557,7 +1549,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="107" >
+    <entry id="106" >
       <translation id="0" >
         <text>bestehen aus</text>
       </translation>
@@ -1571,7 +1563,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="108" >
+    <entry id="107" >
       <translation id="0" >
         <text>der Zweck</text>
       </translation>
@@ -1585,7 +1577,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="109" >
+    <entry id="108" >
       <translation id="0" >
         <text>nennen</text>
       </translation>
@@ -1599,7 +1591,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="110" >
+    <entry id="109" >
       <translation id="0" >
         <text>der Ergebnis (se)</text>
       </translation>
@@ -1613,7 +1605,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="111" >
+    <entry id="110" >
       <translation id="0" >
         <text>die Aufregung</text>
       </translation>
@@ -1627,7 +1619,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="112" >
+    <entry id="111" >
       <translation id="0" >
         <text>das Verderben</text>
       </translation>
@@ -1641,7 +1633,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="113" >
+    <entry id="112" >
       <translation id="0" >
         <text>der Entgegenkommen</text>
       </translation>
@@ -1655,21 +1647,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="114" >
-      <translation id="0" >
-        <text>ablaufen</text>
-      </translation>
-      <translation id="1" >
-        <text>to pass</text>
-        <grade>
-          <currentgrade>0</currentgrade>
-          <count>3</count>
-          <errorcount>2</errorcount>
-          <date>2009-12-13T19:03:59</date>
-        </grade>
-      </translation>
-    </entry>
-    <entry id="115" >
+    <entry id="113" >
       <translation id="0" >
         <text>passen</text>
       </translation>
@@ -1683,7 +1661,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="116" >
+    <entry id="114" >
       <translation id="0" >
         <text>gehören</text>
       </translation>
@@ -1697,7 +1675,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="117" >
+    <entry id="115" >
       <translation id="0" >
         <text>beschäftigen</text>
       </translation>
@@ -1711,7 +1689,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="118" >
+    <entry id="116" >
       <translation id="0" >
         <text>aufnehmen</text>
         <conjugation/>
@@ -1726,7 +1704,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="119" >
+    <entry id="117" >
       <translation id="0" >
         <text>herrschen</text>
       </translation>
@@ -1739,6 +1717,18 @@
           <date>2010-01-18T08:09:59</date>
         </grade>
       </translation>
+    </entry>
+    <entry id="118" >
+      <translation id="0" >
+        <text>unterstreichen</text>
+      </translation>
+      <translation id="1" >
+        <text>to underline, to emphasize</text>
+      </translation>
+    </entry>
+    <entry id="119" >
+      <translation id="0" />
+      <translation id="1" />
     </entry>
     <entry id="120" >
       <translation id="0" >
@@ -2810,6 +2800,9 @@
       <translation id="0" >
         <text>zutreffen</text>
         <conjugation/>
+        <conjugation>
+          <tense>past</tense>
+        </conjugation>
       </translation>
       <translation id="1" >
         <text>to apply (to), to be correct/true</text>
@@ -3052,6 +3045,9 @@
     <entry id="213" >
       <translation id="0" >
         <text>vorwerfen</text>
+        <conjugation>
+          <tense>past</tense>
+        </conjugation>
       </translation>
       <translation id="1" >
         <text>to accuse</text>
@@ -3330,11 +3326,214 @@
         <text>permission</text>
       </translation>
     </entry>
+    <entry id="234" >
+      <translation id="0" >
+        <text>bemerkenswert</text>
+      </translation>
+      <translation id="1" >
+        <text>noticebly, remarkably</text>
+      </translation>
+    </entry>
+    <entry id="235" >
+      <translation id="0" >
+        <text>Strafgericht</text>
+      </translation>
+      <translation id="1" >
+        <text>punishment court</text>
+      </translation>
+    </entry>
+    <entry id="236" >
+      <translation id="0" >
+        <text>abschneiden</text>
+        <conjugation>
+          <tense>past</tense>
+        </conjugation>
+      </translation>
+      <translation id="1" >
+        <text>to snip, to cut (hair).</text>
+        <grade>
+          <currentgrade>7</currentgrade>
+          <count>7</count>
+          <errorcount>0</errorcount>
+          <date>2010-01-18T08:09:10</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="237" >
+      <translation id="0" >
+        <text>ablaufen</text>
+        <conjugation>
+          <tense>past</tense>
+        </conjugation>
+      </translation>
+      <translation id="1" >
+        <text>to pass</text>
+        <grade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2009-12-13T19:03:59</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="238" >
+      <translation id="0" >
+        <text>schuld</text>
+      </translation>
+      <translation id="1" >
+        <text>blame, blamed</text>
+      </translation>
+    </entry>
+    <entry id="239" >
+      <translation id="0" >
+        <text>abstuertzen</text>
+      </translation>
+      <translation id="1" >
+        <text>to crash</text>
+      </translation>
+    </entry>
+    <entry id="240" >
+      <translation id="0" >
+        <text>Nachlaessigkeit</text>
+      </translation>
+      <translation id="1" >
+        <text>negligence</text>
+      </translation>
+    </entry>
+    <entry id="241" >
+      <translation id="0" >
+        <text>Vortag</text>
+      </translation>
+      <translation id="1" >
+        <text>yesterday</text>
+      </translation>
+    </entry>
+    <entry id="242" >
+      <translation id="0" >
+        <text>Weisheit</text>
+      </translation>
+      <translation id="1" >
+        <text>wisdom</text>
+      </translation>
+    </entry>
+    <entry id="243" >
+      <translation id="0" >
+        <text>Entschluss</text>
+      </translation>
+      <translation id="1" >
+        <text>decision</text>
+      </translation>
+    </entry>
+    <entry id="244" >
+      <translation id="0" >
+        <text>lassen</text>
+      </translation>
+      <translation id="1" >
+        <text>to let, to leave</text>
+      </translation>
+    </entry>
+    <entry id="245" >
+      <translation id="0" >
+        <text>befürchten</text>
+        <conjugation>
+          <tense>past</tense>
+        </conjugation>
+      </translation>
+      <translation id="1" >
+        <text>to worry about, to be apprehensive of</text>
+      </translation>
+    </entry>
+    <entry id="246" >
+      <translation id="0" >
+        <text>erfreulich</text>
+      </translation>
+      <translation id="1" >
+        <text>gratifying, cheerful, joyful</text>
+      </translation>
+    </entry>
+    <entry id="247" >
+      <translation id="0" >
+        <text>ebenso</text>
+      </translation>
+      <translation id="1" >
+        <text>just as...</text>
+      </translation>
+    </entry>
+    <entry id="248" >
+      <translation id="0" >
+        <text>gelingen</text>
+      </translation>
+      <translation id="1" >
+        <text>to succeed</text>
+      </translation>
+    </entry>
+    <entry id="249" >
+      <translation id="0" >
+        <text>verzichten</text>
+      </translation>
+      <translation id="1" >
+        <text>to renounce, to abstain</text>
+      </translation>
+    </entry>
+    <entry id="250" >
+      <translation id="0" >
+        <text>erwerben</text>
+      </translation>
+      <translation id="1" >
+        <text>to acquire</text>
+      </translation>
+    </entry>
+    <entry id="251" >
+      <translation id="0" >
+        <text>prägen</text>
+      </translation>
+      <translation id="1" >
+        <text>to coin (money, phrase)</text>
+      </translation>
+    </entry>
+    <entry id="252" >
+      <translation id="0" >
+        <text>bereits</text>
+      </translation>
+      <translation id="1" >
+        <text>already</text>
+      </translation>
+    </entry>
+    <entry id="253" >
+      <translation id="0" >
+        <text>zurückgreifen auf</text>
+        <conjugation>
+          <tense>past</tense>
+        </conjugation>
+      </translation>
+      <translation id="1" >
+        <text>to refer to, to fall back on</text>
+      </translation>
+    </entry>
+    <entry id="254" >
+      <translation id="0" >
+        <text>bestrafen</text>
+      </translation>
+      <translation id="1" >
+        <text>to penalize</text>
+      </translation>
+    </entry>
+    <entry id="255" >
+      <translation id="0" >
+        <text>überwiegen</text>
+      </translation>
+      <translation id="1" >
+        <text>to outweigh, to prevail</text>
+      </translation>
+    </entry>
+    <entry id="256" >
+      <translation id="0" />
+      <translation id="1" />
+    </entry>
   </entries>
   <lessons>
     <container>
       <name>Lesson 2</name>
-      <inpractice>true</inpractice>
       <entry id="0" />
       <entry id="1" />
       <entry id="2" />
@@ -3368,7 +3567,6 @@
     </container>
     <container>
       <name>Lesson 1</name>
-      <inpractice>true</inpractice>
       <entry id="30" />
       <entry id="31" />
       <entry id="32" />
@@ -3402,7 +3600,6 @@
     </container>
     <container>
       <name>Lesson 3</name>
-      <inpractice>true</inpractice>
       <entry id="60" />
       <entry id="61" />
       <entry id="62" />
@@ -3436,7 +3633,6 @@
     </container>
     <container>
       <name>Lesson 4</name>
-      <inpractice>true</inpractice>
       <entry id="90" />
       <entry id="91" />
       <entry id="92" />
@@ -3470,7 +3666,6 @@
     </container>
     <container>
       <name>Lesson 5</name>
-      <inpractice>true</inpractice>
       <entry id="120" />
       <entry id="121" />
       <entry id="122" />
@@ -3504,7 +3699,6 @@
     </container>
     <container>
       <name>Lesson 6</name>
-      <inpractice>true</inpractice>
       <entry id="150" />
       <entry id="151" />
       <entry id="152" />
@@ -3538,7 +3732,6 @@
     </container>
     <container>
       <name>Lesson 7</name>
-      <inpractice>true</inpractice>
       <entry id="180" />
       <entry id="181" />
       <entry id="182" />
@@ -3572,7 +3765,6 @@
     </container>
     <container>
       <name>Lesson 8</name>
-      <inpractice>true</inpractice>
       <entry id="210" />
       <entry id="211" />
       <entry id="212" />
@@ -3597,6 +3789,33 @@
       <entry id="231" />
       <entry id="232" />
       <entry id="233" />
+      <entry id="234" />
+      <entry id="235" />
+      <entry id="236" />
+      <entry id="237" />
+      <entry id="238" />
+      <entry id="239" />
+    </container>
+    <container>
+      <name>Lesson 9</name>
+      <inpractice>true</inpractice>
+      <entry id="240" />
+      <entry id="241" />
+      <entry id="242" />
+      <entry id="243" />
+      <entry id="244" />
+      <entry id="245" />
+      <entry id="246" />
+      <entry id="247" />
+      <entry id="248" />
+      <entry id="249" />
+      <entry id="250" />
+      <entry id="251" />
+      <entry id="252" />
+      <entry id="253" />
+      <entry id="254" />
+      <entry id="255" />
+      <entry id="256" />
     </container>
   </lessons>
   <wordtypes>
@@ -3604,6 +3823,9 @@
       <name>Noun</name>
       <specialwordtype>noun</specialwordtype>
       <entry id="223" >
+        <translation id="0" />
+      </entry>
+      <entry id="240" >
         <translation id="0" />
       </entry>
       <container>
@@ -3636,10 +3858,10 @@
         <entry id="129" >
           <translation id="0" />
         </entry>
-        <entry id="113" >
+        <entry id="112" >
           <translation id="0" />
         </entry>
-        <entry id="110" >
+        <entry id="109" >
           <translation id="0" />
         </entry>
         <entry id="135" >
@@ -3693,7 +3915,7 @@
         <entry id="131" >
           <translation id="0" />
         </entry>
-        <entry id="108" >
+        <entry id="107" >
           <translation id="0" />
         </entry>
         <entry id="160" >
@@ -3726,6 +3948,12 @@
         <entry id="226" >
           <translation id="0" />
         </entry>
+        <entry id="241" >
+          <translation id="0" />
+        </entry>
+        <entry id="243" >
+          <translation id="0" />
+        </entry>
       </container>
       <container>
         <name>Feminine</name>
@@ -3748,7 +3976,7 @@
         <entry id="84" >
           <translation id="0" />
         </entry>
-        <entry id="111" >
+        <entry id="110" >
           <translation id="0" />
         </entry>
         <entry id="69" >
@@ -3817,6 +4045,9 @@
         <entry id="233" >
           <translation id="0" />
         </entry>
+        <entry id="242" >
+          <translation id="0" />
+        </entry>
       </container>
       <container>
         <name>Neuter</name>
@@ -3830,7 +4061,7 @@
         <entry id="17" >
           <translation id="0" />
         </entry>
-        <entry id="112" >
+        <entry id="111" >
           <translation id="0" />
         </entry>
         <entry id="184" >
@@ -3892,7 +4123,7 @@
       <entry id="50" >
         <translation id="0" />
       </entry>
-      <entry id="118" >
+      <entry id="116" >
         <translation id="0" />
       </entry>
       <entry id="152" >
@@ -4042,7 +4273,7 @@
       <entry id="45" >
         <translation id="0" />
       </entry>
-      <entry id="105" >
+      <entry id="104" >
         <translation id="0" />
       </entry>
       <entry id="172" >
@@ -4066,10 +4297,10 @@
       <entry id="21" >
         <translation id="0" />
       </entry>
-      <entry id="109" >
+      <entry id="108" >
         <translation id="0" />
       </entry>
-      <entry id="115" >
+      <entry id="113" >
         <translation id="0" />
       </entry>
       <entry id="65" >
@@ -4105,7 +4336,7 @@
       <entry id="90" >
         <translation id="0" />
       </entry>
-      <entry id="116" >
+      <entry id="114" >
         <translation id="0" />
       </entry>
       <entry id="75" >
@@ -4114,19 +4345,13 @@
       <entry id="74" >
         <translation id="0" />
       </entry>
-      <entry id="119" >
+      <entry id="117" >
         <translation id="0" />
       </entry>
       <entry id="228" >
         <translation id="0" />
       </entry>
-      <entry id="114" >
-        <translation id="0" />
-      </entry>
       <entry id="103" >
-        <translation id="0" />
-      </entry>
-      <entry id="104" >
         <translation id="0" />
       </entry>
       <entry id="229" >
@@ -4139,6 +4364,57 @@
         <translation id="0" />
       </entry>
       <entry id="57" >
+        <translation id="0" />
+      </entry>
+      <entry id="130" >
+        <translation id="0" />
+      </entry>
+      <entry id="121" >
+        <translation id="0" />
+      </entry>
+      <entry id="132" >
+        <translation id="0" />
+      </entry>
+      <entry id="115" >
+        <translation id="0" />
+      </entry>
+      <entry id="93" >
+        <translation id="0" />
+      </entry>
+      <entry id="118" >
+        <translation id="0" />
+      </entry>
+      <entry id="236" >
+        <translation id="0" />
+      </entry>
+      <entry id="237" >
+        <translation id="0" />
+      </entry>
+      <entry id="244" >
+        <translation id="0" />
+      </entry>
+      <entry id="245" >
+        <translation id="0" />
+      </entry>
+      <entry id="248" >
+        <translation id="0" />
+      </entry>
+      <entry id="249" >
+        <translation id="0" />
+      </entry>
+      <entry id="250" >
+        <translation id="0" />
+      </entry>
+      <entry id="251" >
+        <translation id="0" />
+      </entry>
+      <entry id="253" >
+        <translation id="0" />
+      </entry>
+      <entry id="255" >
+        <translation id="0" />
+      </entry>
+      <entry id="254" >
         <translation id="0" />
       </entry>
     </container>
@@ -4205,10 +4481,13 @@
       <entry id="8" >
         <translation id="0" />
       </entry>
-      <entry id="106" >
+      <entry id="105" >
         <translation id="0" />
       </entry>
       <entry id="230" >
+        <translation id="0" />
+      </entry>
+      <entry id="246" >
         <translation id="0" />
       </entry>
     </container>
@@ -4234,6 +4513,12 @@
         <translation id="0" />
       </entry>
       <entry id="122" >
+        <translation id="0" />
+      </entry>
+      <entry id="234" >
+        <translation id="0" />
+      </entry>
+      <entry id="252" >
         <translation id="0" />
       </entry>
     </container>
