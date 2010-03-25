@@ -8,7 +8,7 @@
     <contact>blindglobe@gmail.com</contact>
     <license>GPLv2+ (GNU General Public License version 2 or later)</license>
     <comment>second set of tram</comment>
-    <date>2010-03-07</date>
+    <date>2010-03-25</date>
     <category>Languages</category>
   </information>
   <identifiers>
@@ -134,20 +134,24 @@
         <text>Gegend</text>
       </translation>
       <translation id="1" >
-        <text>the</text>
+        <text>district, region, clime, quartier</text>
       </translation>
     </entry>
     <entry id="1" >
       <translation id="0" >
         <text>fleissig</text>
       </translation>
-      <translation id="1" />
+      <translation id="1" >
+        <text>diligent, hard-working</text>
+      </translation>
     </entry>
     <entry id="2" >
       <translation id="0" >
-        <text>Abscheid</text>
+        <text>Abschied</text>
       </translation>
-      <translation id="1" />
+      <translation id="1" >
+        <text>the parting, departure.</text>
+      </translation>
     </entry>
     <entry id="3" >
       <translation id="0" >
@@ -178,7 +182,181 @@
         <text>Wesen</text>
       </translation>
       <translation id="1" >
-        <text>being, nature, character</text>
+        <text>being, nature, character, entity</text>
+      </translation>
+    </entry>
+    <entry id="7" >
+      <translation id="0" >
+        <text>Fleiss</text>
+      </translation>
+      <translation id="1" >
+        <text>diligence, industry, study, studiousness, industriousness</text>
+      </translation>
+    </entry>
+    <entry id="8" >
+      <translation id="0" >
+        <text>erfahren (adj)</text>
+      </translation>
+      <translation id="1" >
+        <text>skillfull, sophisticated</text>
+      </translation>
+    </entry>
+    <entry id="9" >
+      <translation id="0" >
+        <text>erfahren (v)</text>
+      </translation>
+      <translation id="1" >
+        <text>to find out (sth)</text>
+      </translation>
+    </entry>
+    <entry id="10" >
+      <translation id="0" >
+        <text>annehmen</text>
+      </translation>
+      <translation id="1" >
+        <text>to presume, to assume, to accept</text>
+      </translation>
+    </entry>
+    <entry id="11" >
+      <translation id="0" >
+        <text>winzig</text>
+      </translation>
+      <translation id="1" >
+        <text>tiny, miniscule</text>
+      </translation>
+    </entry>
+    <entry id="12" >
+      <translation id="0" >
+        <text>Überzahl</text>
+      </translation>
+      <translation id="1" >
+        <text>superior number, outnumber</text>
+      </translation>
+    </entry>
+    <entry id="13" >
+      <translation id="0" >
+        <text>Verdauung</text>
+      </translation>
+      <translation id="1" >
+        <text>digestion</text>
+      </translation>
+    </entry>
+    <entry id="14" >
+      <translation id="0" >
+        <text>Gegensatz</text>
+      </translation>
+      <translation id="1" >
+        <text>contradiction, opposition, antagonism</text>
+      </translation>
+    </entry>
+    <entry id="15" >
+      <translation id="0" >
+        <text>hinzufügen</text>
+      </translation>
+      <translation id="1" >
+        <text>to add, to associate</text>
+      </translation>
+    </entry>
+    <entry id="16" >
+      <translation id="0" >
+        <text>übersteigen</text>
+      </translation>
+      <translation id="1" >
+        <text>to surmount, to top, to transcend</text>
+      </translation>
+    </entry>
+    <entry id="17" >
+      <translation id="0" >
+        <text>durchführen</text>
+      </translation>
+      <translation id="1" >
+        <text>to enforce, to execute</text>
+      </translation>
+    </entry>
+    <entry id="18" >
+      <translation id="0" >
+        <text>entzündlich</text>
+      </translation>
+      <translation id="1" >
+        <text>inflammable, incendiary</text>
+      </translation>
+    </entry>
+    <entry id="19" >
+      <translation id="0" >
+        <text>zusätzlich</text>
+      </translation>
+      <translation id="1" >
+        <text>additional, supernumerary</text>
+      </translation>
+    </entry>
+    <entry id="20" >
+      <translation id="0" >
+        <text>Überleben</text>
+      </translation>
+      <translation id="1" >
+        <text>survival, viability</text>
+      </translation>
+    </entry>
+    <entry id="21" >
+      <translation id="0" >
+        <text>überleben</text>
+      </translation>
+      <translation id="1" >
+        <text>to live out, to survive</text>
+      </translation>
+    </entry>
+    <entry id="22" >
+      <translation id="0" >
+        <text>besassen</text>
+      </translation>
+      <translation id="1" />
+    </entry>
+    <entry id="23" >
+      <translation id="0" >
+        <text>vermuten</text>
+      </translation>
+      <translation id="1" >
+        <text>presume, assume</text>
+      </translation>
+    </entry>
+    <entry id="24" >
+      <translation id="0" >
+        <text>erforderlich</text>
+      </translation>
+      <translation id="1" >
+        <text>necessary, required</text>
+      </translation>
+    </entry>
+    <entry id="25" >
+      <translation id="0" >
+        <text>erfinden</text>
+      </translation>
+      <translation id="1" >
+        <text>to invent</text>
+      </translation>
+    </entry>
+    <entry id="26" >
+      <translation id="0" >
+        <text>entdecken</text>
+      </translation>
+      <translation id="1" >
+        <text>to discover</text>
+      </translation>
+    </entry>
+    <entry id="27" >
+      <translation id="0" >
+        <text>erfreuen</text>
+      </translation>
+      <translation id="1" >
+        <text>to please</text>
+      </translation>
+    </entry>
+    <entry id="28" >
+      <translation id="0" >
+        <text>Entwurf</text>
+      </translation>
+      <translation id="1" >
+        <text>outline, draft, plan</text>
       </translation>
     </entry>
   </entries>
@@ -193,6 +371,28 @@
       <entry id="4" />
       <entry id="5" />
       <entry id="6" />
+      <entry id="7" />
+      <entry id="8" />
+      <entry id="9" />
+      <entry id="10" />
+      <entry id="11" />
+      <entry id="12" />
+      <entry id="13" />
+      <entry id="14" />
+      <entry id="15" />
+      <entry id="16" />
+      <entry id="17" />
+      <entry id="18" />
+      <entry id="19" />
+      <entry id="20" />
+      <entry id="21" />
+      <entry id="22" />
+      <entry id="23" />
+      <entry id="24" />
+      <entry id="25" />
+      <entry id="26" />
+      <entry id="27" />
+      <entry id="28" />
     </container>
   </lessons>
   <wordtypes>
@@ -205,7 +405,18 @@
         <entry id="2" >
           <translation id="0" />
         </entry>
-        <entry id="0" />
+        <entry id="7" >
+          <translation id="0" />
+        </entry>
+        <entry id="13" >
+          <translation id="0" />
+        </entry>
+        <entry id="14" >
+          <translation id="0" />
+        </entry>
+        <entry id="28" >
+          <translation id="0" />
+        </entry>
       </container>
       <container>
         <name>Feminine</name>
@@ -216,11 +427,17 @@
         <entry id="4" >
           <translation id="0" />
         </entry>
+        <entry id="0" >
+          <translation id="0" />
+        </entry>
+        <entry id="12" >
+          <translation id="0" />
+        </entry>
       </container>
       <container>
         <name>Neuter</name>
         <specialwordtype>noun/neutral</specialwordtype>
-        <entry id="6" >
+        <entry id="20" >
           <translation id="0" />
         </entry>
       </container>
@@ -228,14 +445,63 @@
     <container>
       <name>Verb</name>
       <specialwordtype>verb</specialwordtype>
+      <entry id="9" >
+        <translation id="0" />
+      </entry>
+      <entry id="10" >
+        <translation id="0" />
+      </entry>
+      <entry id="15" >
+        <translation id="0" />
+      </entry>
+      <entry id="16" >
+        <translation id="0" />
+      </entry>
+      <entry id="17" >
+        <translation id="0" />
+      </entry>
+      <entry id="21" >
+        <translation id="0" />
+      </entry>
+      <entry id="23" >
+        <translation id="0" />
+      </entry>
+      <entry id="22" >
+        <translation id="0" />
+      </entry>
+      <entry id="24" >
+        <translation id="0" />
+      </entry>
+      <entry id="25" >
+        <translation id="0" />
+      </entry>
+      <entry id="26" >
+        <translation id="0" />
+      </entry>
     </container>
     <container>
       <name>Adjective</name>
       <specialwordtype>adjective</specialwordtype>
+      <entry id="8" >
+        <translation id="0" />
+      </entry>
+      <entry id="1" >
+        <translation id="0" />
+      </entry>
+      <entry id="11" >
+        <translation id="0" />
+      </entry>
+      <entry id="18" >
+        <translation id="0" />
+      </entry>
+      <entry id="19" />
     </container>
     <container>
       <name>Adverb</name>
       <specialwordtype>adverb</specialwordtype>
+      <entry id="5" >
+        <translation id="0" />
+      </entry>
     </container>
   </wordtypes>
   <leitnerboxes>
