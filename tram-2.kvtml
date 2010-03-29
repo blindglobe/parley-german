@@ -8,7 +8,7 @@
     <contact>blindglobe@gmail.com</contact>
     <license>GPLv2+ (GNU General Public License version 2 or later)</license>
     <comment>second set of tram</comment>
-    <date>2010-03-25</date>
+    <date>2010-03-27</date>
     <category>Languages</category>
   </information>
   <identifiers>
@@ -608,8 +608,77 @@
       </translation>
     </entry>
     <entry id="60" >
-      <translation id="0" />
+      <translation id="0" >
+        <text>Bündnis</text>
+      </translation>
+      <translation id="1" >
+        <text>confederacy, alliance, league</text>
+      </translation>
+    </entry>
+    <entry id="61" >
+      <translation id="0" >
+        <text>bekannt geben</text>
+      </translation>
+      <translation id="1" >
+        <text>to notify</text>
+      </translation>
+    </entry>
+    <entry id="62" >
+      <translation id="0" >
+        <text>knappen</text>
+      </translation>
       <translation id="1" />
+    </entry>
+    <entry id="63" >
+      <translation id="0" >
+        <text>abknappen</text>
+      </translation>
+      <translation id="1" >
+        <text>to scrape together</text>
+      </translation>
+    </entry>
+    <entry id="64" >
+      <translation id="0" >
+        <text>verknappen</text>
+      </translation>
+      <translation id="1" >
+        <text>to run short</text>
+      </translation>
+    </entry>
+    <entry id="65" >
+      <translation id="0" >
+        <text>Vorteil</text>
+      </translation>
+      <translation id="1" >
+        <text>edge, advantage, interest</text>
+      </translation>
+    </entry>
+    <entry id="66" >
+      <translation id="0" >
+        <text>Vorsprung</text>
+      </translation>
+      <translation id="1" >
+        <text>projection (prediction, or object from another)</text>
+      </translation>
+    </entry>
+    <entry id="67" >
+      <translation id="0" >
+        <text>entfallen</text>
+      </translation>
+      <translation id="1" >
+        <text>to slip (from a lead)</text>
+      </translation>
+    </entry>
+    <entry id="68" >
+      <translation id="0" >
+        <text>reif</text>
+        <conjugation>
+          <tense>Präteritum</tense>
+        </conjugation>
+      </translation>
+      <translation id="1" >
+        <text>to have called</text>
+      </translation>
     </entry>
   </entries>
   <lessons>
@@ -677,6 +746,14 @@
       <entry id="58" />
       <entry id="59" />
       <entry id="60" />
+      <entry id="61" />
+      <entry id="62" />
+      <entry id="63" />
+      <entry id="64" />
+      <entry id="65" />
+      <entry id="66" />
+      <entry id="67" />
+      <entry id="68" />
     </container>
   </lessons>
   <wordtypes>
@@ -705,6 +782,15 @@
           <translation id="0" />
         </entry>
         <entry id="56" >
+          <translation id="0" />
+        </entry>
+        <entry id="60" >
+          <translation id="0" />
+        </entry>
+        <entry id="66" >
+          <translation id="0" />
+        </entry>
+        <entry id="65" >
           <translation id="0" />
         </entry>
       </container>
@@ -825,6 +911,21 @@
       <entry id="48" >
         <translation id="0" />
       </entry>
+      <entry id="61" >
+        <translation id="0" />
+      </entry>
+      <entry id="64" >
+        <translation id="0" />
+      </entry>
+      <entry id="63" >
+        <translation id="0" />
+      </entry>
+      <entry id="67" >
+        <translation id="0" />
+      </entry>
+      <entry id="68" >
+        <translation id="0" />
+      </entry>
     </container>
     <container>
       <name>Adjective</name>
@@ -839,12 +940,6 @@
         <translation id="0" />
       </entry>
       <entry id="18" >
-        <translation id="0" />
-      </entry>
-      <entry id="19" >
-        <translation id="0" />
-      </entry>
-      <entry id="19" >
         <translation id="0" />
       </entry>
       <entry id="38" >
