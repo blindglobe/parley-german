@@ -8,7 +8,7 @@
     <contact>blindglobe@gmail.com</contact>
     <license>GPLv2+ (GNU General Public License version 2 or later)</license>
     <comment>Tram words</comment>
-    <date>2010-04-03</date>
+    <date>2010-04-15</date>
     <category>Languages</category>
   </information>
   <identifiers>
@@ -193,9 +193,7 @@
     <entry id="9" >
       <translation id="0" >
         <text>häufen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to heap</text>
@@ -239,9 +237,6 @@
       <translation id="0" >
         <text>abdriften</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
       </translation>
       <translation id="1" >
         <text>to make leeway.</text>
@@ -270,9 +265,7 @@
     <entry id="14" >
       <translation id="0" >
         <text>fördern</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to support</text>
@@ -385,9 +378,7 @@
     <entry id="22" >
       <translation id="0" >
         <text>antreten, angetreten</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to accede, to report</text>
@@ -402,9 +393,7 @@
     <entry id="23" >
       <translation id="0" >
         <text>anpassen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to adapt, to suit</text>
@@ -419,9 +408,7 @@
     <entry id="24" >
       <translation id="0" >
         <text>anpassen sich</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to adapt ones self.</text>
@@ -435,7 +422,7 @@
     </entry>
     <entry id="25" >
       <translation id="0" >
-        <text>der Umfeld</text>
+        <text>Umfeld</text>
       </translation>
       <translation id="1" >
         <text>milieu, environment, space, situation</text>
@@ -465,9 +452,6 @@
       <translation id="0" >
         <text>abhetzen</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
       </translation>
       <translation id="1" >
         <text>to rush about</text>
@@ -496,9 +480,7 @@
     <entry id="29" >
       <translation id="0" >
         <text>ernennen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to appoint</text>
@@ -555,9 +537,7 @@
     <entry id="33" >
       <translation id="0" >
         <text>fordern</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to stipulate, to postulate, to exact</text>
@@ -586,9 +566,7 @@
     <entry id="35" >
       <translation id="0" >
         <text>bestehen auf</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to stand upon (principles)</text>
@@ -602,7 +580,7 @@
     </entry>
     <entry id="36" >
       <translation id="0" >
-        <text>die Anerkennung</text>
+        <text>Anerkennung</text>
       </translation>
       <translation id="1" >
         <text>acknowledgement, recognition, praise</text>
@@ -630,7 +608,7 @@
     </entry>
     <entry id="38" >
       <translation id="0" >
-        <text>der Knopf</text>
+        <text>Knopf</text>
       </translation>
       <translation id="1" >
         <text>button, knob</text>
@@ -645,9 +623,7 @@
     <entry id="39" >
       <translation id="0" >
         <text>einlenken</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to corner</text>
@@ -717,7 +693,7 @@
     </entry>
     <entry id="44" >
       <translation id="0" >
-        <text>der Hinweis</text>
+        <text>Hinweis</text>
       </translation>
       <translation id="1" >
         <text>clue, hint, notice</text>
@@ -732,6 +708,7 @@
     <entry id="45" >
       <translation id="0" >
         <text>weiderkehren</text>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to recur</text>
@@ -774,9 +751,7 @@
     <entry id="48" >
       <translation id="0" >
         <text>befürworten</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to advocate, to recommend (to occur?)</text>
@@ -791,9 +766,7 @@
     <entry id="49" >
       <translation id="0" >
         <text>kriegen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to get (as in in the neck, or hard task), to receive</text>
@@ -808,9 +781,7 @@
     <entry id="50" >
       <translation id="0" >
         <text>ersetzen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to replace, to supercede</text>
@@ -853,6 +824,7 @@
     <entry id="53" >
       <translation id="0" >
         <text>vorhalten</text>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to charge with, to hold out</text>
@@ -895,9 +867,7 @@
     <entry id="56" >
       <translation id="0" >
         <text>erhalten</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to receive</text>
@@ -912,9 +882,7 @@
     <entry id="57" >
       <translation id="0" >
         <text>flüchten</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to resort, to skedaddle, to flee</text>
@@ -957,9 +925,7 @@
     <entry id="60" >
       <translation id="0" >
         <text>abebben</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to fade away, die down.</text>
@@ -1128,9 +1094,7 @@
     <entry id="72" >
       <translation id="0" >
         <text>einigen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to unite</text>
@@ -1159,9 +1123,7 @@
     <entry id="74" >
       <translation id="0" >
         <text>gelten als</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to pass for, to rate as</text>
@@ -1176,9 +1138,7 @@
     <entry id="75" >
       <translation id="0" >
         <text>gelten</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to obtain, to be valid,</text>
@@ -1276,7 +1236,7 @@
     </entry>
     <entry id="82" >
       <translation id="0" >
-        <text>der Pulk</text>
+        <text>Pulk</text>
       </translation>
       <translation id="1" >
         <text>pile, throng</text>
@@ -1333,9 +1293,7 @@
     <entry id="86" >
       <translation id="0" >
         <text>entwaffnen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to disarm</text>
@@ -1392,9 +1350,7 @@
     <entry id="90" >
       <translation id="0" >
         <text>fühlen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to sense, feel?</text>
@@ -1437,9 +1393,7 @@
     <entry id="93" >
       <translation id="0" >
         <text>bestehen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to obtain, to insist, to consist</text>
@@ -1537,7 +1491,7 @@
     </entry>
     <entry id="100" >
       <translation id="0" >
-        <text>der Tatbestand</text>
+        <text>Tatbestand</text>
       </translation>
       <translation id="1" >
         <text>facts of the case</text>
@@ -1582,9 +1536,6 @@
       <translation id="0" >
         <text>anfahren</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
       </translation>
       <translation id="1" >
         <text>to hit, to run into</text>
@@ -1640,7 +1591,7 @@
     </entry>
     <entry id="107" >
       <translation id="0" >
-        <text>der Zweck</text>
+        <text>Zweck</text>
       </translation>
       <translation id="1" >
         <text>purpose, aims</text>
@@ -1655,9 +1606,7 @@
     <entry id="108" >
       <translation id="0" >
         <text>nennen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to call, to name, to term</text>
@@ -1742,9 +1691,7 @@
     <entry id="114" >
       <translation id="0" >
         <text>gehören</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to hear, past tense</text>
@@ -1759,9 +1706,7 @@
     <entry id="115" >
       <translation id="0" >
         <text>beschäftigen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to task, to employ</text>
@@ -1777,9 +1722,6 @@
       <translation id="0" >
         <text>aufnehmen</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
       </translation>
       <translation id="1" >
         <text>to record, to affiliate, to integrate, to take in, to soak up</text>
@@ -1794,9 +1736,7 @@
     <entry id="117" >
       <translation id="0" >
         <text>herrschen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to obtain, to dominate, to rule, to govern</text>
@@ -1825,9 +1765,7 @@
     <entry id="119" >
       <translation id="0" >
         <text>entwurzeln</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to uproot</text>
@@ -1856,9 +1794,7 @@
     <entry id="121" >
       <translation id="0" >
         <text>aufhalten, verzögern {vt}</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to delay, retard</text>
@@ -1900,7 +1836,7 @@
     </entry>
     <entry id="124" >
       <translation id="0" >
-        <text>die Angabe, Angaben</text>
+        <text>Angabe (-n)</text>
       </translation>
       <translation id="1" >
         <text>details</text>
@@ -1914,7 +1850,7 @@
     </entry>
     <entry id="125" >
       <translation id="0" >
-        <text>die Anklage, Anklagen</text>
+        <text>Anklage (-n)</text>
       </translation>
       <translation id="1" >
         <text>impeachment, indictment, arraignment,</text>
@@ -1929,9 +1865,7 @@
     <entry id="126" >
       <translation id="0" >
         <text>anklagen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to impeach, to arraign, to indict</text>
@@ -1988,9 +1922,7 @@
     <entry id="130" >
       <translation id="0" >
         <text>anstellen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to hire, to employ</text>
@@ -2004,7 +1936,7 @@
     </entry>
     <entry id="131" >
       <translation id="0" >
-        <text>der Widerstand</text>
+        <text>Widerstand</text>
       </translation>
       <translation id="1" >
         <text>resistance, resistor</text>
@@ -2019,9 +1951,7 @@
     <entry id="132" >
       <translation id="0" >
         <text>aufhetzen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to incite</text>
@@ -2035,7 +1965,7 @@
     </entry>
     <entry id="133" >
       <translation id="0" >
-        <text>der Schaden</text>
+        <text>Schaden</text>
       </translation>
       <translation id="1" >
         <text>mischief, disservice.</text>
@@ -2077,7 +2007,7 @@
     </entry>
     <entry id="136" >
       <translation id="0" >
-        <text>der Schritt, Schritte</text>
+        <text>Schritt (e)</text>
       </translation>
       <translation id="1" >
         <text>step (towards, by-step)</text>
@@ -2245,7 +2175,7 @@
     </entry>
     <entry id="148" >
       <translation id="0" >
-        <text>der Pflichtenheft</text>
+        <text>Pflichtenheft</text>
       </translation>
       <translation id="1" >
         <text>specification, specification document</text>
@@ -2274,9 +2204,7 @@
     <entry id="150" >
       <translation id="0" >
         <text>entbrennen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to flare up</text>
@@ -2305,9 +2233,7 @@
     <entry id="152" >
       <translation id="0" >
         <text>betonen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to punctuate, to enhance, to stress</text>
@@ -2322,9 +2248,7 @@
     <entry id="153" >
       <translation id="0" >
         <text>einstufen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to rate, to grade, to classify</text>
@@ -2339,9 +2263,7 @@
     <entry id="154" >
       <translation id="0" >
         <text>eintreffen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to arrive</text>
@@ -2371,9 +2293,6 @@
       <translation id="0" >
         <text>abheilen</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
       </translation>
       <translation id="1" >
         <text>to heal up</text>
@@ -2401,7 +2320,7 @@
     </entry>
     <entry id="158" >
       <translation id="0" >
-        <text>der Stich</text>
+        <text>Stich</text>
       </translation>
       <translation id="1" >
         <text>bite, sting, prick</text>
@@ -2488,9 +2407,6 @@
       <translation id="0" >
         <text>aushauchen</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
       </translation>
       <translation id="1" >
         <text>to breathe</text>
@@ -2562,9 +2478,7 @@
     <entry id="169" >
       <translation id="0" >
         <text>abgleichen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to balance, to level out, to adjust</text>
@@ -2624,9 +2538,6 @@
       <translation id="0" >
         <text>ergänzen</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
       </translation>
       <translation id="1" >
         <text>to supplement, to complement, to complete</text>
@@ -2640,7 +2551,7 @@
     </entry>
     <entry id="174" >
       <translation id="0" >
-        <text>der Verbrecher</text>
+        <text>Verbrecher</text>
       </translation>
       <translation id="1" >
         <text>criminal (s)</text>
@@ -2670,9 +2581,6 @@
       <translation id="0" >
         <text>angehören</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
       </translation>
       <translation id="1" >
         <text>to belong to</text>
@@ -2688,9 +2596,6 @@
       <translation id="0" >
         <text>auftreten</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
       </translation>
       <translation id="1" >
         <text>to appear, to behave</text>
@@ -2748,9 +2653,6 @@
       <translation id="0" >
         <text>ausdehnen</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
       </translation>
       <translation id="1" >
         <text>to splay, to distend, to extend, to protract</text>
@@ -2764,7 +2666,7 @@
     </entry>
     <entry id="182" >
       <translation id="0" >
-        <text>der Racheakt, Racheakte</text>
+        <text>Racheakt, Racheakte</text>
       </translation>
       <translation id="1" >
         <text>act(s) of revenge</text>
@@ -2822,9 +2724,6 @@
       <translation id="0" >
         <text>erstellen</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
       </translation>
       <translation id="1" >
         <text>to create</text>
@@ -2869,9 +2768,6 @@
       <translation id="0" >
         <text>lancieren</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
       </translation>
       <translation id="1" >
         <text>to spread, to launch</text>
@@ -2928,7 +2824,7 @@
     </entry>
     <entry id="193" >
       <translation id="0" >
-        <text>der Makel</text>
+        <text>Makel</text>
       </translation>
       <translation id="1" >
         <text>stigma, blemish</text>
@@ -2958,9 +2854,6 @@
       <translation id="0" >
         <text>korrigieren</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
       </translation>
       <translation id="1" >
         <text>to correct, to amend, to adjust</text>
@@ -3005,9 +2898,6 @@
       <translation id="0" >
         <text>ausfeilen</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
       </translation>
       <translation id="1" >
         <text>to elaborate</text>
@@ -3036,9 +2926,7 @@
     <entry id="200" >
       <translation id="0" >
         <text>entfernen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to remove, to dispose</text>
@@ -3067,9 +2955,7 @@
     <entry id="202" >
       <translation id="0" >
         <text>erfassen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to gather, to apprehend</text>
@@ -3084,9 +2970,7 @@
     <entry id="203" >
       <translation id="0" >
         <text>fassen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to grab, to grasp</text>
@@ -3102,9 +2986,6 @@
       <translation id="0" >
         <text>anhalten</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
       </translation>
       <translation id="1" >
         <text>to stop, to flag down, to pull over</text>
@@ -3120,9 +3001,6 @@
       <translation id="0" >
         <text>aufschieben</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
       </translation>
       <translation id="1" >
         <text>to suspend, to defer</text>
@@ -3137,9 +3015,7 @@
     <entry id="206" >
       <translation id="0" >
         <text>entscheiden</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to opt (for), to decide, to determine</text>
@@ -3196,7 +3072,7 @@
     </entry>
     <entry id="210" >
       <translation id="0" >
-        <text>der Gestrüpp</text>
+        <text>Gestrüpp</text>
       </translation>
       <translation id="1" >
         <text>copse, undergrowth,</text>
@@ -3238,21 +3114,6 @@
     </entry>
     <entry id="213" >
       <translation id="0" >
-        <text>vorwerfen</text>
-        <conjugation/>
-      </translation>
-      <translation id="1" >
-        <text>to accuse</text>
-        <grade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
-          <errorcount>0</errorcount>
-          <date>2010-01-23T11:30:46</date>
-        </grade>
-      </translation>
-    </entry>
-    <entry id="214" >
-      <translation id="0" >
         <text>die Untersuchungshaft</text>
       </translation>
       <translation id="1" >
@@ -3265,12 +3126,10 @@
         </grade>
       </translation>
     </entry>
-    <entry id="215" >
+    <entry id="214" >
       <translation id="0" >
         <text>entlocken</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to elicit, to get information from</text>
@@ -3282,12 +3141,10 @@
         </grade>
       </translation>
     </entry>
-    <entry id="216" >
+    <entry id="215" >
       <translation id="0" >
         <text>bekommen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to get</text>
@@ -3299,12 +3156,10 @@
         </grade>
       </translation>
     </entry>
-    <entry id="217" >
+    <entry id="216" >
       <translation id="0" >
         <text>aufbekommen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to get open</text>
@@ -3316,13 +3171,10 @@
         </grade>
       </translation>
     </entry>
-    <entry id="218" >
+    <entry id="217" >
       <translation id="0" >
         <text>abbekommen</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
       </translation>
       <translation id="1" >
         <text>to get some (of something)</text>
@@ -3334,7 +3186,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="219" >
+    <entry id="218" >
       <translation id="0" >
         <text>gering</text>
       </translation>
@@ -3348,7 +3200,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="220" >
+    <entry id="219" >
       <translation id="0" >
         <text>angemessen</text>
       </translation>
@@ -3362,7 +3214,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="221" >
+    <entry id="220" >
       <translation id="0" >
         <text>strafbar</text>
       </translation>
@@ -3376,7 +3228,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="222" >
+    <entry id="221" >
       <translation id="0" >
         <text>dennoch</text>
       </translation>
@@ -3390,7 +3242,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="223" >
+    <entry id="222" >
       <translation id="0" >
         <text>dessen</text>
       </translation>
@@ -3404,7 +3256,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="224" >
+    <entry id="223" >
       <translation id="0" >
         <text>dringend</text>
       </translation>
@@ -3418,7 +3270,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="225" >
+    <entry id="224" >
       <translation id="0" >
         <text>die Panne(n)</text>
       </translation>
@@ -3432,9 +3284,9 @@
         </grade>
       </translation>
     </entry>
-    <entry id="226" >
+    <entry id="225" >
       <translation id="0" >
-        <text>der Mangel (Mängel)</text>
+        <text>Mangel (Mängel)</text>
       </translation>
       <translation id="1" >
         <text>deficiency, defect</text>
@@ -3446,13 +3298,10 @@
         </grade>
       </translation>
     </entry>
-    <entry id="227" >
+    <entry id="226" >
       <translation id="0" >
         <text>anstreben</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
       </translation>
       <translation id="1" >
         <text>to aim at, to envisage</text>
@@ -3464,12 +3313,10 @@
         </grade>
       </translation>
     </entry>
-    <entry id="228" >
+    <entry id="227" >
       <translation id="0" >
         <text>mitwirken</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to cooperate</text>
@@ -3481,7 +3328,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="229" >
+    <entry id="228" >
       <translation id="0" >
         <text>sich verloben</text>
       </translation>
@@ -3495,7 +3342,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="230" >
+    <entry id="229" >
       <translation id="0" >
         <text>gerade</text>
       </translation>
@@ -3509,7 +3356,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="231" >
+    <entry id="230" >
       <translation id="0" >
         <text>sich verirren</text>
       </translation>
@@ -3523,12 +3370,10 @@
         </grade>
       </translation>
     </entry>
-    <entry id="232" >
+    <entry id="231" >
       <translation id="0" >
         <text>beschaffen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to procure, to provide</text>
@@ -3540,7 +3385,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="233" >
+    <entry id="232" >
       <translation id="0" >
         <text>die Erlaubnis</text>
       </translation>
@@ -3554,7 +3399,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="234" >
+    <entry id="233" >
       <translation id="0" >
         <text>bemerkenswert</text>
       </translation>
@@ -3568,7 +3413,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="235" >
+    <entry id="234" >
       <translation id="0" >
         <text>Strafgericht</text>
       </translation>
@@ -3582,13 +3427,10 @@
         </grade>
       </translation>
     </entry>
-    <entry id="236" >
+    <entry id="235" >
       <translation id="0" >
         <text>abschneiden</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
       </translation>
       <translation id="1" >
         <text>to snip, to cut (hair).</text>
@@ -3600,13 +3442,10 @@
         </grade>
       </translation>
     </entry>
-    <entry id="237" >
+    <entry id="236" >
       <translation id="0" >
         <text>ablaufen</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
       </translation>
       <translation id="1" >
         <text>to pass</text>
@@ -3618,7 +3457,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="238" >
+    <entry id="237" >
       <translation id="0" >
         <text>schuld</text>
       </translation>
@@ -3626,12 +3465,10 @@
         <text>blame, blamed</text>
       </translation>
     </entry>
-    <entry id="239" >
+    <entry id="238" >
       <translation id="0" >
         <text>abstuertzen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to crash</text>
@@ -3642,6 +3479,10 @@
           <date>2010-03-11T17:19:06</date>
         </grade>
       </translation>
+    </entry>
+    <entry id="239" >
+      <translation id="0" />
+      <translation id="1" />
     </entry>
     <entry id="240" >
       <translation id="0" >
@@ -3702,9 +3543,7 @@
     <entry id="244" >
       <translation id="0" >
         <text>lassen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to let, to leave</text>
@@ -3720,9 +3559,6 @@
       <translation id="0" >
         <text>befürchten</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
       </translation>
       <translation id="1" >
         <text>to worry about, to be apprehensive of</text>
@@ -3765,9 +3601,7 @@
     <entry id="248" >
       <translation id="0" >
         <text>gelingen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to succeed</text>
@@ -3781,24 +3615,8 @@
     </entry>
     <entry id="249" >
       <translation id="0" >
-        <text>verzichten</text>
-      </translation>
-      <translation id="1" >
-        <text>to renounce, to abstain</text>
-        <grade>
-          <currentgrade>1</currentgrade>
-          <count>5</count>
-          <errorcount>2</errorcount>
-          <date>2010-03-15T19:43:48</date>
-        </grade>
-      </translation>
-    </entry>
-    <entry id="250" >
-      <translation id="0" >
         <text>erwerben</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to acquire</text>
@@ -3810,7 +3628,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="251" >
+    <entry id="250" >
       <translation id="0" >
         <text>prägen</text>
       </translation>
@@ -3824,7 +3642,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="252" >
+    <entry id="251" >
       <translation id="0" >
         <text>bereits</text>
       </translation>
@@ -3838,13 +3656,10 @@
         </grade>
       </translation>
     </entry>
-    <entry id="253" >
+    <entry id="252" >
       <translation id="0" >
         <text>zurückgreifen auf</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
       </translation>
       <translation id="1" >
         <text>to refer to, to fall back on</text>
@@ -3856,12 +3671,10 @@
         </grade>
       </translation>
     </entry>
-    <entry id="254" >
+    <entry id="253" >
       <translation id="0" >
         <text>bestrafen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to penalize</text>
@@ -3873,7 +3686,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="255" >
+    <entry id="254" >
       <translation id="0" >
         <text>überwiegen</text>
       </translation>
@@ -3887,7 +3700,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="256" >
+    <entry id="255" >
       <translation id="0" >
         <text>Wesen</text>
       </translation>
@@ -3901,7 +3714,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="257" >
+    <entry id="256" >
       <translation id="0" >
         <text>winzig</text>
       </translation>
@@ -3915,7 +3728,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="258" >
+    <entry id="257" >
       <translation id="0" >
         <text>Verdauung</text>
       </translation>
@@ -3929,7 +3742,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="259" >
+    <entry id="258" >
       <translation id="0" >
         <text>vermuten</text>
       </translation>
@@ -3943,7 +3756,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="260" >
+    <entry id="259" >
       <translation id="0" >
         <text>verlangen</text>
       </translation>
@@ -3957,7 +3770,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="261" >
+    <entry id="260" >
       <translation id="0" >
         <text>verlängern</text>
       </translation>
@@ -3971,12 +3784,10 @@
         </grade>
       </translation>
     </entry>
-    <entry id="262" >
+    <entry id="261" >
       <translation id="0" >
         <text>verantworten</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to be responsible for</text>
@@ -3988,7 +3799,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="263" >
+    <entry id="262" >
       <translation id="0" >
         <text>verknappen</text>
       </translation>
@@ -4002,7 +3813,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="264" >
+    <entry id="263" >
       <translation id="0" >
         <text>Vorteil</text>
       </translation>
@@ -4016,7 +3827,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="265" >
+    <entry id="264" >
       <translation id="0" >
         <text>Vorsprung</text>
       </translation>
@@ -4030,7 +3841,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="266" >
+    <entry id="265" >
       <translation id="0" >
         <text>Vermutung</text>
       </translation>
@@ -4044,7 +3855,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="267" >
+    <entry id="266" >
       <translation id="0" >
         <text>vermutlich</text>
       </translation>
@@ -4058,21 +3869,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="268" >
-      <translation id="0" >
-        <text>Zwiespältige</text>
-      </translation>
-      <translation id="1" >
-        <text>contradictory</text>
-        <grade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2010-03-30T18:07:24</date>
-        </grade>
-      </translation>
-    </entry>
-    <entry id="269" >
+    <entry id="267" >
       <translation id="0" >
         <text>verdächtigen</text>
       </translation>
@@ -4084,6 +3881,18 @@
           <errorcount>0</errorcount>
           <date>2010-03-31T09:48:26</date>
         </grade>
+      </translation>
+    </entry>
+    <entry id="268" >
+      <translation id="0" />
+      <translation id="1" />
+    </entry>
+    <entry id="269" >
+      <translation id="0" >
+        <text>Verpflichtung</text>
+      </translation>
+      <translation id="1" >
+        <text>commitment, liability</text>
       </translation>
     </entry>
     <entry id="270" >
@@ -4103,9 +3912,7 @@
     <entry id="271" >
       <translation id="0" >
         <text>annehmen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to presume, to assume, to accept</text>
@@ -4120,9 +3927,7 @@
     <entry id="272" >
       <translation id="0" >
         <text>durchführen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to enforce, to execute</text>
@@ -4137,18 +3942,14 @@
     <entry id="273" >
       <translation id="0" >
         <text>besassen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" />
     </entry>
     <entry id="274" >
       <translation id="0" >
         <text>erforderlich</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>necessary, required</text>
@@ -4163,9 +3964,7 @@
     <entry id="275" >
       <translation id="0" >
         <text>entdecken</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to discover</text>
@@ -4180,9 +3979,7 @@
     <entry id="276" >
       <translation id="0" >
         <text>erfreuen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to please</text>
@@ -4211,9 +4008,7 @@
     <entry id="278" >
       <translation id="0" >
         <text>ernähren</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to feed, to support</text>
@@ -4242,9 +4037,7 @@
     <entry id="280" >
       <translation id="0" >
         <text>bekennen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to confess</text>
@@ -4259,9 +4052,7 @@
     <entry id="281" >
       <translation id="0" >
         <text>bekehren</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to convert</text>
@@ -4444,9 +4235,7 @@
     <entry id="294" >
       <translation id="0" >
         <text>bekannt geben</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to notify</text>
@@ -4462,9 +4251,6 @@
       <translation id="0" >
         <text>abknappen</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
       </translation>
       <translation id="1" >
         <text>to scrape together</text>
@@ -4479,9 +4265,7 @@
     <entry id="296" >
       <translation id="0" >
         <text>entfallen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to slip (from a lead)</text>
@@ -4594,9 +4378,7 @@
     <entry id="304" >
       <translation id="0" >
         <text>hinzufügen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to add, to associate</text>
@@ -4800,9 +4582,7 @@
     <entry id="319" >
       <translation id="0" >
         <text>erreichbar</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>within reach</text>
@@ -4831,9 +4611,7 @@
     <entry id="321" >
       <translation id="0" >
         <text>errechnen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to calculate</text>
@@ -4848,9 +4626,7 @@
     <entry id="322" >
       <translation id="0" >
         <text>erschwingen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to afford</text>
@@ -4893,9 +4669,7 @@
     <entry id="325" >
       <translation id="0" >
         <text>erwachen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to wake (up)</text>
@@ -4910,9 +4684,7 @@
     <entry id="326" >
       <translation id="0" >
         <text>ertragen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to bear, to endure</text>
@@ -4927,9 +4699,7 @@
     <entry id="327" >
       <translation id="0" >
         <text>erziehen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to raise, to bring up</text>
@@ -4944,9 +4714,7 @@
     <entry id="328" >
       <translation id="0" >
         <text>erzielen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to achieve</text>
@@ -4974,6 +4742,229 @@
     </entry>
     <entry id="330" >
       <translation id="0" >
+        <text>aufgeben</text>
+      </translation>
+      <translation id="1" >
+        <text>to give up, to mail, to send</text>
+      </translation>
+    </entry>
+    <entry id="331" >
+      <translation id="0" >
+        <text>lebensfähiger</text>
+      </translation>
+      <translation id="1" />
+    </entry>
+    <entry id="332" >
+      <translation id="0" >
+        <text>naturschätze</text>
+      </translation>
+      <translation id="1" />
+    </entry>
+    <entry id="333" >
+      <translation id="0" >
+        <text>aufhören</text>
+      </translation>
+      <translation id="1" />
+    </entry>
+    <entry id="334" >
+      <translation id="0" >
+        <text>Beseidlung</text>
+      </translation>
+      <translation id="1" />
+    </entry>
+    <entry id="335" >
+      <translation id="0" >
+        <text>Stellungsbezug</text>
+      </translation>
+      <translation id="1" />
+    </entry>
+    <entry id="336" >
+      <translation id="0" >
+        <text>Erwartungen</text>
+      </translation>
+      <translation id="1" />
+    </entry>
+    <entry id="337" >
+      <translation id="0" >
+        <text>fanden</text>
+      </translation>
+      <translation id="1" />
+    </entry>
+    <entry id="338" >
+      <translation id="0" >
+        <text>kundgebungen</text>
+      </translation>
+      <translation id="1" />
+    </entry>
+    <entry id="339" >
+      <translation id="0" >
+        <text>griffen</text>
+      </translation>
+      <translation id="1" />
+    </entry>
+    <entry id="340" >
+      <translation id="0" >
+        <text>verfehlen</text>
+      </translation>
+      <translation id="1" >
+        <text>to mistake, to miss (2nd)</text>
+      </translation>
+    </entry>
+    <entry id="341" >
+      <translation id="0" >
+        <text>verdauen</text>
+      </translation>
+      <translation id="1" >
+        <text>to digest</text>
+      </translation>
+    </entry>
+    <entry id="342" >
+      <translation id="0" >
+        <text>hängenden</text>
+      </translation>
+      <translation id="1" />
+    </entry>
+    <entry id="343" >
+      <translation id="0" >
+        <text>betrachtern</text>
+      </translation>
+      <translation id="1" />
+    </entry>
+    <entry id="344" >
+      <translation id="0" >
+        <text>geprägen</text>
+      </translation>
+      <translation id="1" />
+    </entry>
+    <entry id="345" >
+      <translation id="0" >
+        <text>Schwächen</text>
+      </translation>
+      <translation id="1" />
+    </entry>
+    <entry id="346" >
+      <translation id="0" >
+        <text>damals</text>
+      </translation>
+      <translation id="1" />
+    </entry>
+    <entry id="347" >
+      <translation id="0" >
+        <text>lassen</text>
+      </translation>
+      <translation id="1" />
+    </entry>
+    <entry id="348" >
+      <translation id="0" >
+        <text>soeben</text>
+      </translation>
+      <translation id="1" />
+    </entry>
+    <entry id="349" >
+      <translation id="0" >
+        <text>aufkommen</text>
+      </translation>
+      <translation id="1" />
+    </entry>
+    <entry id="350" >
+      <translation id="0" >
+        <text>Verlauf</text>
+      </translation>
+      <translation id="1" >
+        <text>course, regime</text>
+      </translation>
+    </entry>
+    <entry id="351" >
+      <translation id="0" >
+        <text>Nahbarkeit</text>
+      </translation>
+      <translation id="1" />
+    </entry>
+    <entry id="352" >
+      <translation id="0" >
+        <text>beaufsichtigen</text>
+      </translation>
+      <translation id="1" />
+    </entry>
+    <entry id="353" >
+      <translation id="0" >
+        <text>Misstrauensantrag</text>
+      </translation>
+      <translation id="1" />
+    </entry>
+    <entry id="354" >
+      <translation id="0" >
+        <text>Wende</text>
+      </translation>
+      <translation id="1" >
+        <text>turning point</text>
+      </translation>
+    </entry>
+    <entry id="355" >
+      <translation id="0" >
+        <text>überschüsse</text>
+      </translation>
+      <translation id="1" />
+    </entry>
+    <entry id="356" >
+      <translation id="0" >
+        <text>Unterstellung</text>
+      </translation>
+      <translation id="1" >
+        <text>the suggestion, imputation</text>
+      </translation>
+    </entry>
+    <entry id="357" >
+      <translation id="0" >
+        <text>gefiel</text>
+      </translation>
+      <translation id="1" />
+    </entry>
+    <entry id="358" >
+      <translation id="0" >
+        <text>auflösen</text>
+      </translation>
+      <translation id="1" />
+    </entry>
+    <entry id="359" >
+      <translation id="0" >
+        <text>vorwerfen</text>
+        <conjugation/>
+      </translation>
+      <translation id="1" >
+        <text>to accuse</text>
+        <grade>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2010-01-23T11:30:46</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="360" >
+      <translation id="0" >
+        <text>Zwiespältige</text>
+      </translation>
+      <translation id="1" >
+        <text>contradictory</text>
+        <grade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2010-03-30T18:07:24</date>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="361" >
+      <translation id="0" >
+        <text>ledig</text>
+      </translation>
+      <translation id="1" >
+        <text>single, unmarried</text>
+      </translation>
+    </entry>
+    <entry id="362" >
+      <translation id="0" >
         <text>erfahren (adj)</text>
       </translation>
       <translation id="1" >
@@ -4986,12 +4977,10 @@
         </grade>
       </translation>
     </entry>
-    <entry id="331" >
+    <entry id="363" >
       <translation id="0" >
         <text>erfahren (v)</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to find out (sth)</text>
@@ -5003,7 +4992,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="332" >
+    <entry id="364" >
       <translation id="0" >
         <text>entzündlich</text>
       </translation>
@@ -5017,12 +5006,10 @@
         </grade>
       </translation>
     </entry>
-    <entry id="333" >
+    <entry id="365" >
       <translation id="0" >
         <text>erfinden</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1" >
         <text>to invent</text>
@@ -5034,7 +5021,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="334" >
+    <entry id="366" >
       <translation id="0" >
         <text>Entwurf</text>
       </translation>
@@ -5046,6 +5033,311 @@
           <errorcount>2</errorcount>
           <date>2010-03-31T09:50:35</date>
         </grade>
+      </translation>
+    </entry>
+    <entry id="367" >
+      <translation id="0" >
+        <text>Wilde</text>
+      </translation>
+      <translation id="1" >
+        <text>a savage</text>
+      </translation>
+    </entry>
+    <entry id="368" >
+      <translation id="0" >
+        <text>beschränken</text>
+        <conjugation/>
+      </translation>
+      <translation id="1" >
+        <text>to confine, to limit, to restrict</text>
+      </translation>
+    </entry>
+    <entry id="369" >
+      <translation id="0" >
+        <text>wirksam</text>
+      </translation>
+      <translation id="1" >
+        <text>effective</text>
+      </translation>
+    </entry>
+    <entry id="370" >
+      <translation id="0" >
+        <text>massgeblich</text>
+      </translation>
+      <translation id="1" >
+        <text>authoritative</text>
+      </translation>
+    </entry>
+    <entry id="371" >
+      <translation id="0" >
+        <text>verzichten</text>
+      </translation>
+      <translation id="1" >
+        <text>to give up, to do without, to renounce</text>
+      </translation>
+    </entry>
+    <entry id="372" >
+      <translation id="0" >
+        <text>verhaften</text>
+      </translation>
+      <translation id="1" >
+        <text>to arrest</text>
+      </translation>
+    </entry>
+    <entry id="373" >
+      <translation id="0" >
+        <text>darstellen</text>
+      </translation>
+      <translation id="1" >
+        <text>to represent, to show, to depict, to describe</text>
+      </translation>
+    </entry>
+    <entry id="374" >
+      <translation id="0" >
+        <text>ergriffen</text>
+      </translation>
+      <translation id="1" >
+        <text>embraced, stricken (vt).</text>
+      </translation>
+    </entry>
+    <entry id="375" >
+      <translation id="0" >
+        <text>darüber</text>
+      </translation>
+      <translation id="1" >
+        <text>over, above it, in the meantime</text>
+      </translation>
+    </entry>
+    <entry id="376" >
+      <translation id="0" >
+        <text>schliesslich</text>
+      </translation>
+      <translation id="1" >
+        <text>finally, eventually, in the end</text>
+      </translation>
+    </entry>
+    <entry id="377" >
+      <translation id="0" >
+        <text>verborgen</text>
+      </translation>
+      <translation id="1" >
+        <text>concealed, cryptic</text>
+      </translation>
+    </entry>
+    <entry id="378" >
+      <translation id="0" >
+        <text>überzeugen</text>
+      </translation>
+      <translation id="1" >
+        <text>to convince, to persuade</text>
+      </translation>
+    </entry>
+    <entry id="379" >
+      <translation id="0" >
+        <text>davon</text>
+      </translation>
+      <translation id="1" >
+        <text>from it, about it, away from</text>
+      </translation>
+    </entry>
+    <entry id="380" >
+      <translation id="0" >
+        <text>ermutigen</text>
+      </translation>
+      <translation id="1" >
+        <text>to encourage</text>
+      </translation>
+    </entry>
+    <entry id="381" >
+      <translation id="0" >
+        <text>wahrscheinlich</text>
+      </translation>
+      <translation id="1" >
+        <text>probable, likely</text>
+      </translation>
+    </entry>
+    <entry id="382" >
+      <translation id="0" >
+        <text>Wahrscheinlichkeit</text>
+      </translation>
+      <translation id="1" >
+        <text>probability, likelihood</text>
+      </translation>
+    </entry>
+    <entry id="383" >
+      <translation id="0" >
+        <text>Umfrage (-n)</text>
+      </translation>
+      <translation id="1" >
+        <text>opinion poll</text>
+      </translation>
+    </entry>
+    <entry id="384" >
+      <translation id="0" >
+        <text>passieren</text>
+      </translation>
+      <translation id="1" >
+        <text>to happen, to pass through</text>
+      </translation>
+    </entry>
+    <entry id="385" >
+      <translation id="0" >
+        <text>Gestalt</text>
+      </translation>
+      <translation id="1" >
+        <text>the shape, form</text>
+      </translation>
+    </entry>
+    <entry id="386" >
+      <translation id="0" >
+        <text>gestalten</text>
+      </translation>
+      <translation id="1" >
+        <text>to arrange, to design (vt)</text>
+      </translation>
+    </entry>
+    <entry id="387" >
+      <translation id="0" >
+        <text>Frieden</text>
+      </translation>
+      <translation id="1" >
+        <text>peace</text>
+      </translation>
+    </entry>
+    <entry id="388" >
+      <translation id="0" >
+        <text>Ersatz</text>
+      </translation>
+      <translation id="1" >
+        <text>replacement</text>
+      </translation>
+    </entry>
+    <entry id="389" >
+      <translation id="0" >
+        <text>Umkehr</text>
+      </translation>
+      <translation id="1" >
+        <text>turn back, change ones ways</text>
+      </translation>
+    </entry>
+    <entry id="390" >
+      <translation id="0" >
+        <text>Wiederkehr</text>
+      </translation>
+      <translation id="1" >
+        <text>return</text>
+      </translation>
+    </entry>
+    <entry id="391" >
+      <translation id="0" >
+        <text>ungekehrt</text>
+      </translation>
+      <translation id="1" >
+        <text>converse, conversely</text>
+      </translation>
+    </entry>
+    <entry id="392" >
+      <translation id="0" >
+        <text>bieten</text>
+      </translation>
+      <translation id="1" >
+        <text>to offer, to bid, to afford</text>
+      </translation>
+    </entry>
+    <entry id="393" >
+      <translation id="0" >
+        <text>verstecken</text>
+      </translation>
+      <translation id="1" >
+        <text>to hide, to cache, to stash</text>
+      </translation>
+    </entry>
+    <entry id="394" >
+      <translation id="0" >
+        <text>schuldig</text>
+      </translation>
+      <translation id="1" >
+        <text>blameworthy, blamable, liable</text>
+      </translation>
+    </entry>
+    <entry id="395" >
+      <translation id="0" >
+        <text>Schwund</text>
+      </translation>
+      <translation id="1" >
+        <text>dwindling, atrophy, fading</text>
+      </translation>
+    </entry>
+    <entry id="396" >
+      <translation id="0" >
+        <text>Strafe (-n)</text>
+      </translation>
+      <translation id="1" >
+        <text>penalty</text>
+      </translation>
+    </entry>
+    <entry id="397" >
+      <translation id="0" >
+        <text>vertreiben</text>
+      </translation>
+      <translation id="1" >
+        <text>to drive away, to dislodge, to cast out, to distribute</text>
+      </translation>
+    </entry>
+    <entry id="398" >
+      <translation id="0" >
+        <text>abschrecken</text>
+      </translation>
+      <translation id="1" >
+        <text>to deter, to chill, to discourage</text>
+      </translation>
+    </entry>
+    <entry id="399" >
+      <translation id="0" >
+        <text>abschrechend</text>
+      </translation>
+      <translation id="1" >
+        <text>deterrent, deterrently,</text>
+      </translation>
+    </entry>
+    <entry id="400" >
+      <translation id="0" >
+        <text>prunkvoll</text>
+      </translation>
+      <translation id="1" >
+        <text>pompous, pompously</text>
+      </translation>
+    </entry>
+    <entry id="401" >
+      <translation id="0" >
+        <text>unterzeichnen</text>
+      </translation>
+      <translation id="1" >
+        <text>to endorse, to sign, to subscribe (to)</text>
+      </translation>
+    </entry>
+    <entry id="402" >
+      <translation id="0" >
+        <text>Angriff</text>
+      </translation>
+      <translation id="1" >
+        <text>attack</text>
+      </translation>
+    </entry>
+    <entry id="403" >
+      <translation id="0" >
+        <text>Eitelkeit</text>
+      </translation>
+      <translation id="1" >
+        <text>vanity, conceit</text>
+      </translation>
+    </entry>
+    <entry id="404" >
+      <translation id="0" >
+        <text>ausschlaggebend</text>
+      </translation>
+      <translation id="1" >
+        <text>determining, essential, decisive</text>
       </translation>
     </entry>
   </entries>
@@ -5432,13 +5724,91 @@
       <entry id="332" />
       <entry id="333" />
       <entry id="334" />
+      <entry id="335" />
+      <entry id="336" />
+      <entry id="337" />
+      <entry id="338" />
+      <entry id="339" />
+      <entry id="340" />
+      <entry id="341" />
+      <entry id="342" />
+      <entry id="343" />
+      <entry id="344" />
+      <entry id="345" />
+      <entry id="346" />
+      <entry id="347" />
+      <entry id="348" />
+      <entry id="349" />
+      <entry id="350" />
+      <entry id="351" />
+      <entry id="352" />
+      <entry id="353" />
+      <entry id="354" />
+      <entry id="355" />
+      <entry id="356" />
+      <entry id="357" />
+      <entry id="358" />
+    </container>
+    <container>
+      <name>Lesson 013</name>
+      <inpractice>true</inpractice>
+      <entry id="359" />
+      <entry id="360" />
+      <entry id="361" />
+      <entry id="362" />
+      <entry id="363" />
+      <entry id="364" />
+      <entry id="365" />
+      <entry id="366" />
+      <entry id="367" />
+      <entry id="368" />
+      <entry id="369" />
+      <entry id="370" />
+      <entry id="371" />
+      <entry id="372" />
+      <entry id="373" />
+      <entry id="374" />
+      <entry id="375" />
+      <entry id="376" />
+      <entry id="377" />
+      <entry id="378" />
+      <entry id="379" />
+      <entry id="380" />
+      <entry id="381" />
+      <entry id="382" />
+      <entry id="383" />
+      <entry id="384" />
+      <entry id="385" />
+      <entry id="386" />
+      <entry id="387" />
+      <entry id="388" />
+    </container>
+    <container>
+      <name>Lesson 014</name>
+      <inpractice>true</inpractice>
+      <entry id="389" />
+      <entry id="390" />
+      <entry id="391" />
+      <entry id="392" />
+      <entry id="393" />
+      <entry id="394" />
+      <entry id="395" />
+      <entry id="396" />
+      <entry id="397" />
+      <entry id="398" />
+      <entry id="399" />
+      <entry id="400" />
+      <entry id="401" />
+      <entry id="402" />
+      <entry id="403" />
+      <entry id="404" />
     </container>
   </lessons>
   <wordtypes>
     <container>
       <name>Noun</name>
       <specialwordtype>noun</specialwordtype>
-      <entry id="223" >
+      <entry id="222" >
         <translation id="0" />
       </entry>
       <entry id="240" >
@@ -5561,7 +5931,7 @@
         <entry id="212" >
           <translation id="0" />
         </entry>
-        <entry id="226" >
+        <entry id="225" >
           <translation id="0" />
         </entry>
         <entry id="241" >
@@ -5582,13 +5952,13 @@
         <entry id="293" >
           <translation id="0" />
         </entry>
-        <entry id="258" >
+        <entry id="257" >
+          <translation id="0" />
+        </entry>
+        <entry id="263" >
           <translation id="0" />
         </entry>
         <entry id="264" >
-          <translation id="0" />
-        </entry>
-        <entry id="265" >
           <translation id="0" />
         </entry>
         <entry id="317" >
@@ -5597,7 +5967,28 @@
         <entry id="318" >
           <translation id="0" />
         </entry>
-        <entry id="334" >
+        <entry id="255" >
+          <translation id="0" />
+        </entry>
+        <entry id="366" >
+          <translation id="0" />
+        </entry>
+        <entry id="367" >
+          <translation id="0" />
+        </entry>
+        <entry id="387" >
+          <translation id="0" />
+        </entry>
+        <entry id="388" >
+          <translation id="0" />
+        </entry>
+        <entry id="395" >
+          <translation id="0" />
+        </entry>
+        <entry id="402" >
+          <translation id="0" />
+        </entry>
+        <entry id="350" >
           <translation id="0" />
         </entry>
       </container>
@@ -5682,13 +6073,13 @@
         <entry id="199" >
           <translation id="0" />
         </entry>
-        <entry id="214" >
+        <entry id="213" >
           <translation id="0" />
         </entry>
-        <entry id="225" >
+        <entry id="224" >
           <translation id="0" />
         </entry>
-        <entry id="233" >
+        <entry id="232" >
           <translation id="0" />
         </entry>
         <entry id="242" >
@@ -5700,7 +6091,7 @@
         <entry id="297" >
           <translation id="0" />
         </entry>
-        <entry id="266" >
+        <entry id="265" >
           <translation id="0" />
         </entry>
         <entry id="300" >
@@ -5719,6 +6110,33 @@
           <translation id="0" />
         </entry>
         <entry id="320" >
+          <translation id="0" />
+        </entry>
+        <entry id="383" >
+          <translation id="0" />
+        </entry>
+        <entry id="385" >
+          <translation id="0" />
+        </entry>
+        <entry id="269" >
+          <translation id="0" />
+        </entry>
+        <entry id="389" >
+          <translation id="0" />
+        </entry>
+        <entry id="390" >
+          <translation id="0" />
+        </entry>
+        <entry id="396" >
+          <translation id="0" />
+        </entry>
+        <entry id="403" >
+          <translation id="0" />
+        </entry>
+        <entry id="354" >
+          <translation id="0" />
+        </entry>
+        <entry id="356" >
           <translation id="0" />
         </entry>
       </container>
@@ -5898,10 +6316,7 @@
       <entry id="209" >
         <translation id="0" />
       </entry>
-      <entry id="213" >
-        <translation id="0" />
-      </entry>
-      <entry id="215" >
+      <entry id="214" >
         <translation id="0" />
       </entry>
       <entry id="78" >
@@ -5922,16 +6337,16 @@
       <entry id="142" >
         <translation id="0" />
       </entry>
-      <entry id="218" >
+      <entry id="217" >
         <translation id="0" />
       </entry>
       <entry id="60" >
         <translation id="0" />
       </entry>
-      <entry id="216" >
+      <entry id="215" >
         <translation id="0" />
       </entry>
-      <entry id="217" >
+      <entry id="216" >
         <translation id="0" />
       </entry>
       <entry id="139" >
@@ -5958,7 +6373,7 @@
       <entry id="172" >
         <translation id="0" />
       </entry>
-      <entry id="227" >
+      <entry id="226" >
         <translation id="0" />
       </entry>
       <entry id="33" >
@@ -6024,19 +6439,19 @@
       <entry id="117" >
         <translation id="0" />
       </entry>
-      <entry id="228" >
+      <entry id="227" >
         <translation id="0" />
       </entry>
       <entry id="103" >
         <translation id="0" />
       </entry>
-      <entry id="229" >
+      <entry id="228" >
+        <translation id="0" />
+      </entry>
+      <entry id="230" >
         <translation id="0" />
       </entry>
       <entry id="231" >
-        <translation id="0" />
-      </entry>
-      <entry id="232" >
         <translation id="0" />
       </entry>
       <entry id="57" >
@@ -6060,10 +6475,10 @@
       <entry id="118" >
         <translation id="0" />
       </entry>
-      <entry id="236" >
+      <entry id="235" >
         <translation id="0" />
       </entry>
-      <entry id="237" >
+      <entry id="236" >
         <translation id="0" />
       </entry>
       <entry id="244" >
@@ -6081,16 +6496,13 @@
       <entry id="250" >
         <translation id="0" />
       </entry>
-      <entry id="251" >
-        <translation id="0" />
-      </entry>
-      <entry id="253" >
-        <translation id="0" />
-      </entry>
-      <entry id="255" >
+      <entry id="252" >
         <translation id="0" />
       </entry>
       <entry id="254" >
+        <translation id="0" />
+      </entry>
+      <entry id="253" >
         <translation id="0" />
       </entry>
       <entry id="271" >
@@ -6129,6 +6541,9 @@
       <entry id="296" >
         <translation id="0" />
       </entry>
+      <entry id="258" >
+        <translation id="0" />
+      </entry>
       <entry id="259" >
         <translation id="0" />
       </entry>
@@ -6141,13 +6556,10 @@
       <entry id="262" >
         <translation id="0" />
       </entry>
-      <entry id="263" >
-        <translation id="0" />
-      </entry>
       <entry id="298" >
         <translation id="0" />
       </entry>
-      <entry id="239" >
+      <entry id="238" >
         <translation id="0" />
       </entry>
       <entry id="304" >
@@ -6189,10 +6601,64 @@
       <entry id="119" >
         <translation id="0" />
       </entry>
-      <entry id="331" >
+      <entry id="359" >
         <translation id="0" />
       </entry>
-      <entry id="333" >
+      <entry id="363" >
+        <translation id="0" />
+      </entry>
+      <entry id="365" >
+        <translation id="0" />
+      </entry>
+      <entry id="368" >
+        <translation id="0" />
+      </entry>
+      <entry id="371" >
+        <translation id="0" />
+      </entry>
+      <entry id="372" >
+        <translation id="0" />
+      </entry>
+      <entry id="373" >
+        <translation id="0" />
+      </entry>
+      <entry id="374" >
+        <translation id="0" />
+      </entry>
+      <entry id="378" >
+        <translation id="0" />
+      </entry>
+      <entry id="384" >
+        <translation id="0" />
+      </entry>
+      <entry id="386" >
+        <translation id="0" />
+      </entry>
+      <entry id="392" >
+        <translation id="0" />
+      </entry>
+      <entry id="393" >
+        <translation id="0" />
+      </entry>
+      <entry id="397" >
+        <translation id="0" />
+      </entry>
+      <entry id="398" >
+        <translation id="0" />
+      </entry>
+      <entry id="401" >
+        <translation id="0" />
+      </entry>
+      <entry id="340" >
+        <translation id="0" />
+      </entry>
+      <entry id="267" >
+        <translation id="0" />
+      </entry>
+      <entry id="341" >
+        <translation id="0" />
+      </entry>
+      <entry id="310" >
         <translation id="0" />
       </entry>
     </container>
@@ -6247,13 +6713,13 @@
       <entry id="40" >
         <translation id="0" />
       </entry>
+      <entry id="219" >
+        <translation id="0" />
+      </entry>
       <entry id="220" >
         <translation id="0" />
       </entry>
-      <entry id="221" >
-        <translation id="0" />
-      </entry>
-      <entry id="224" >
+      <entry id="223" >
         <translation id="0" />
       </entry>
       <entry id="8" >
@@ -6262,19 +6728,15 @@
       <entry id="105" >
         <translation id="0" />
       </entry>
-      <entry id="230" >
+      <entry id="229" >
         <translation id="0" />
       </entry>
       <entry id="246" >
         <translation id="0" />
       </entry>
-      <entry id="257" >
+      <entry id="256" >
         <translation id="0" />
       </entry>
-      <entry id="267" >
-        <translation id="0" />
-      </entry>
-      <entry id="120" />
       <entry id="312" >
         <translation id="0" />
       </entry>
@@ -6284,10 +6746,49 @@
       <entry id="324" >
         <translation id="0" />
       </entry>
-      <entry id="330" >
+      <entry id="314" >
         <translation id="0" />
       </entry>
-      <entry id="332" >
+      <entry id="360" >
+        <translation id="0" />
+      </entry>
+      <entry id="362" >
+        <translation id="0" />
+      </entry>
+      <entry id="364" >
+        <translation id="0" />
+      </entry>
+      <entry id="369" >
+        <translation id="0" />
+      </entry>
+      <entry id="361" >
+        <translation id="0" />
+      </entry>
+      <entry id="370" >
+        <translation id="0" />
+      </entry>
+      <entry id="377" >
+        <translation id="0" />
+      </entry>
+      <entry id="381" >
+        <translation id="0" />
+      </entry>
+      <entry id="391" >
+        <translation id="0" />
+      </entry>
+      <entry id="394" >
+        <translation id="0" />
+      </entry>
+      <entry id="399" >
+        <translation id="0" />
+      </entry>
+      <entry id="400" >
+        <translation id="0" />
+      </entry>
+      <entry id="404" >
+        <translation id="0" />
+      </entry>
+      <entry id="91" >
         <translation id="0" />
       </entry>
     </container>
@@ -6303,10 +6804,10 @@
       <entry id="211" >
         <translation id="0" />
       </entry>
-      <entry id="219" >
+      <entry id="218" >
         <translation id="0" />
       </entry>
-      <entry id="222" >
+      <entry id="221" >
         <translation id="0" />
       </entry>
       <entry id="123" >
@@ -6315,10 +6816,10 @@
       <entry id="122" >
         <translation id="0" />
       </entry>
-      <entry id="234" >
+      <entry id="233" >
         <translation id="0" />
       </entry>
-      <entry id="252" >
+      <entry id="251" >
         <translation id="0" />
       </entry>
       <entry id="120" >
@@ -6328,6 +6829,21 @@
         <translation id="0" />
       </entry>
       <entry id="323" >
+        <translation id="0" />
+      </entry>
+      <entry id="28" >
+        <translation id="0" />
+      </entry>
+      <entry id="266" >
+        <translation id="0" />
+      </entry>
+      <entry id="376" >
+        <translation id="0" />
+      </entry>
+      <entry id="375" >
+        <translation id="0" />
+      </entry>
+      <entry id="31" >
         <translation id="0" />
       </entry>
     </container>
