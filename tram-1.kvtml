@@ -2637,7 +2637,7 @@
     </entry>
     <entry id="180">
       <translation id="0">
-        <text>ausgedehnt (adv/adj)</text>
+        <text>ausgedehnt</text>
       </translation>
       <translation id="1">
         <text>spaciously, vast</text>
@@ -3487,7 +3487,9 @@
       <translation id="0">
         <text>traktat</text>
       </translation>
-      <translation id="1"/>
+      <translation id="1">
+        <text>treatise, religious tract</text>
+      </translation>
     </entry>
     <entry id="240">
       <translation id="0">
@@ -6934,6 +6936,21 @@
       <entry id="417">
         <translation id="0"/>
       </entry>
+      <entry id="298">
+        <translation id="0"/>
+      </entry>
+      <entry id="285">
+        <translation id="0"/>
+      </entry>
+      <entry id="282">
+        <translation id="0"/>
+      </entry>
+      <entry id="287">
+        <translation id="0"/>
+      </entry>
+      <entry id="106">
+        <translation id="0"/>
+      </entry>
     </container>
     <container>
       <name>Adjective</name>
@@ -7071,6 +7088,21 @@
         <translation id="0"/>
       </entry>
       <entry id="408">
+        <translation id="0"/>
+      </entry>
+      <entry id="180">
+        <translation id="0"/>
+      </entry>
+      <entry id="85">
+        <translation id="0"/>
+      </entry>
+      <entry id="286">
+        <translation id="0"/>
+      </entry>
+      <entry id="99">
+        <translation id="0"/>
+      </entry>
+      <entry id="30">
         <translation id="0"/>
       </entry>
     </container>
