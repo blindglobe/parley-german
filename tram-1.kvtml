@@ -8,7 +8,7 @@
     <contact>blindglobe@gmail.com</contact>
     <license>GPLv2+ (GNU General Public License version 2 or later)</license>
     <comment>Tram words</comment>
-    <date>2010-06-23</date>
+    <date>2010-06-28</date>
     <category>Languages</category>
   </information>
   <identifiers>
@@ -107,7 +107,7 @@
     </entry>
     <entry id="3">
       <translation id="0">
-        <text>die Siedlung</text>
+        <text>Siedlung</text>
       </translation>
       <translation id="1">
         <text>settlers</text>
@@ -207,7 +207,7 @@
     </entry>
     <entry id="10">
       <translation id="0">
-        <text>die Tat</text>
+        <text>Tat</text>
       </translation>
       <translation id="1">
         <text>act, deed</text>
@@ -221,7 +221,7 @@
     </entry>
     <entry id="11">
       <translation id="0">
-        <text>die Befürchtung</text>
+        <text>Befürchtung</text>
       </translation>
       <translation id="1">
         <text>fears, misgivings</text>
@@ -335,7 +335,7 @@
     </entry>
     <entry id="19">
       <translation id="0">
-        <text>die Anpassung</text>
+        <text>Anpassung</text>
       </translation>
       <translation id="1">
         <text>the adaption, accomodation.</text>
@@ -522,7 +522,7 @@
     </entry>
     <entry id="32">
       <translation id="0">
-        <text>die Kante</text>
+        <text>Kante</text>
       </translation>
       <translation id="1">
         <text>edge, also in the sense of math graphs</text>
@@ -679,7 +679,7 @@
     </entry>
     <entry id="43">
       <translation id="0">
-        <text>die Bestätigung</text>
+        <text>Bestätigung</text>
       </translation>
       <translation id="1">
         <text>recognition, corroboration, endorsement, verification</text>
@@ -809,7 +809,7 @@
     </entry>
     <entry id="52">
       <translation id="0">
-        <text>die Sorge</text>
+        <text>Sorge</text>
       </translation>
       <translation id="1">
         <text>worry</text>
@@ -1023,7 +1023,7 @@
     </entry>
     <entry id="67">
       <translation id="0">
-        <text>die Verhältnismäßigkeit</text>
+        <text>Verhältnismäßigkeit</text>
       </translation>
       <translation id="1">
         <text>comparativeness, proportionality</text>
@@ -1037,7 +1037,7 @@
     </entry>
     <entry id="68">
       <translation id="0">
-        <text>die Verpflichtung, Verpflichtungen</text>
+        <text>Verpflichtung (en)</text>
       </translation>
       <translation id="1">
         <text>commitment, obligation</text>
@@ -1051,7 +1051,7 @@
     </entry>
     <entry id="69">
       <translation id="0">
-        <text>die Bedrängnis</text>
+        <text>Bedrängnis</text>
       </translation>
       <translation id="1">
         <text>affliction, distress</text>
@@ -1166,7 +1166,7 @@
     </entry>
     <entry id="77">
       <translation id="0">
-        <text>die Forderung</text>
+        <text>Forderung</text>
       </translation>
       <translation id="1">
         <text>demand, claim,</text>
@@ -1222,7 +1222,7 @@
     </entry>
     <entry id="81">
       <translation id="0">
-        <text>die Fahne, die Fahnen</text>
+        <text>Fahne (n)</text>
       </translation>
       <translation id="1">
         <text>flag, flags</text>
@@ -1264,7 +1264,7 @@
     </entry>
     <entry id="84">
       <translation id="0">
-        <text>die Aufmerksamkeit</text>
+        <text>Aufmerksamkeit</text>
       </translation>
       <translation id="1">
         <text>attention</text>
@@ -1421,7 +1421,7 @@
     </entry>
     <entry id="95">
       <translation id="0">
-        <text>die Behörde</text>
+        <text>Behörde</text>
       </translation>
       <translation id="1">
         <text>the authority</text>
@@ -1634,7 +1634,7 @@
     </entry>
     <entry id="110">
       <translation id="0">
-        <text>die Aufregung</text>
+        <text>Aufregung</text>
       </translation>
       <translation id="1">
         <text>commotion</text>
@@ -2021,7 +2021,7 @@
     </entry>
     <entry id="137">
       <translation id="0">
-        <text>die Dauer</text>
+        <text>Dauer</text>
       </translation>
       <translation id="1">
         <text>duration, endurance</text>
@@ -2161,20 +2161,6 @@
     </entry>
     <entry id="147">
       <translation id="0">
-        <text>Verhalten</text>
-      </translation>
-      <translation id="1">
-        <text>behaviour</text>
-        <grade>
-          <currentgrade>2</currentgrade>
-          <count>9</count>
-          <errorcount>4</errorcount>
-          <date>2010-03-11T17:15:05</date>
-        </grade>
-      </translation>
-    </entry>
-    <entry id="148">
-      <translation id="0">
         <text>Pflichtenheft</text>
       </translation>
       <translation id="1">
@@ -2187,9 +2173,9 @@
         </grade>
       </translation>
     </entry>
-    <entry id="149">
+    <entry id="148">
       <translation id="0">
-        <text>die Vergeltungs</text>
+        <text>Vergeltungs</text>
       </translation>
       <translation id="1">
         <text>retaliation</text>
@@ -2199,6 +2185,15 @@
           <errorcount>6</errorcount>
           <date>2010-01-23T11:24:01</date>
         </grade>
+      </translation>
+    </entry>
+    <entry id="149">
+      <translation id="0">
+        <text>sich verhalten</text>
+        <conjugation/>
+      </translation>
+      <translation id="1">
+        <text>to behave, to comport</text>
       </translation>
     </entry>
     <entry id="150">
@@ -2391,7 +2386,7 @@
     </entry>
     <entry id="163">
       <translation id="0">
-        <text>die Beteiligung</text>
+        <text>Beteiligung</text>
       </translation>
       <translation id="1">
         <text>stake, exposure, share (stock), interest</text>
@@ -2449,7 +2444,7 @@
     </entry>
     <entry id="167">
       <translation id="0">
-        <text>die Spannung</text>
+        <text>Spannung</text>
       </translation>
       <translation id="1">
         <text>stress, tension</text>
@@ -2463,7 +2458,7 @@
     </entry>
     <entry id="168">
       <translation id="0">
-        <text>die Anspannung</text>
+        <text>Anspannung</text>
       </translation>
       <translation id="1">
         <text>strain</text>
@@ -2623,7 +2618,7 @@
     </entry>
     <entry id="179">
       <translation id="0">
-        <text>die Auffassung</text>
+        <text>Auffassung</text>
       </translation>
       <translation id="1">
         <text>perception, view, conception</text>
@@ -2708,7 +2703,7 @@
     </entry>
     <entry id="185">
       <translation id="0">
-        <text>die Wesenheit</text>
+        <text>Wesenheit</text>
       </translation>
       <translation id="1">
         <text>essence</text>
@@ -2911,7 +2906,7 @@
     </entry>
     <entry id="199">
       <translation id="0">
-        <text>die Nachhaltigkeit</text>
+        <text>Nachhaltigkeit</text>
       </translation>
       <translation id="1">
         <text>sustainability</text>
@@ -3114,7 +3109,7 @@
     </entry>
     <entry id="213">
       <translation id="0">
-        <text>die Untersuchungshaft</text>
+        <text>Untersuchungshaft</text>
       </translation>
       <translation id="1">
         <text>detention while awaiting trial</text>
@@ -3175,9 +3170,7 @@
       <translation id="0">
         <text>abbekommen</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1">
         <text>to get some (of something)</text>
@@ -3275,7 +3268,7 @@
     </entry>
     <entry id="224">
       <translation id="0">
-        <text>die Panne(n)</text>
+        <text>Panne(n)</text>
       </translation>
       <translation id="1">
         <text>breakdown, mishap</text>
@@ -3390,7 +3383,7 @@
     </entry>
     <entry id="232">
       <translation id="0">
-        <text>die Erlaubnis</text>
+        <text>Erlaubnis</text>
       </translation>
       <translation id="1">
         <text>permission</text>
@@ -5162,6 +5155,7 @@
     <entry id="373">
       <translation id="0">
         <text>verhaften</text>
+        <conjugation/>
       </translation>
       <translation id="1">
         <text>to arrest</text>
@@ -5959,6 +5953,110 @@
         <text>clutter, muss, tangle, huddle</text>
       </translation>
     </entry>
+    <entry id="460">
+      <translation id="0">
+        <text>Erleichterung</text>
+      </translation>
+      <translation id="1">
+        <text>easement, alleiviation, facilitation, relied</text>
+      </translation>
+    </entry>
+    <entry id="461">
+      <translation id="0">
+        <text>entlassen</text>
+      </translation>
+      <translation id="1">
+        <text>to dismiss, to release,</text>
+      </translation>
+    </entry>
+    <entry id="462">
+      <translation id="0">
+        <text>deutlich</text>
+      </translation>
+      <translation id="1">
+        <text>clear, clearly, distinct, distinctly</text>
+      </translation>
+    </entry>
+    <entry id="463">
+      <translation id="0">
+        <text>gerade</text>
+      </translation>
+      <translation id="1">
+        <text>straight, even, direct</text>
+      </translation>
+    </entry>
+    <entry id="464">
+      <translation id="0">
+        <text>Gehäuse</text>
+      </translation>
+      <translation id="1">
+        <text>shell, casing, body</text>
+      </translation>
+    </entry>
+    <entry id="465">
+      <translation id="0">
+        <text>ablösen</text>
+      </translation>
+      <translation id="1">
+        <text>to replace, to takeover, to unsolder</text>
+      </translation>
+    </entry>
+    <entry id="466">
+      <translation id="0">
+        <text>sich ablösen</text>
+      </translation>
+      <translation id="1">
+        <text>to take turns (at)</text>
+      </translation>
+    </entry>
+    <entry id="467">
+      <translation id="0">
+        <text>absetzen</text>
+      </translation>
+      <translation id="1">
+        <text>to drop, to depose, to discharge</text>
+      </translation>
+    </entry>
+    <entry id="468">
+      <translation id="0">
+        <text>Hochebene (n)</text>
+      </translation>
+      <translation id="1">
+        <text>plateau, high plains</text>
+      </translation>
+    </entry>
+    <entry id="469">
+      <translation id="0">
+        <text>Enttäuchung (en)</text>
+      </translation>
+      <translation id="1">
+        <text>disappointment, letdown.</text>
+      </translation>
+    </entry>
+    <entry id="470">
+      <translation id="0">
+        <text>Entspannung (en)</text>
+      </translation>
+      <translation id="1">
+        <text>catharthis, relaxation, detente</text>
+      </translation>
+    </entry>
+    <entry id="471">
+      <translation id="0">
+        <text>entspannen</text>
+      </translation>
+      <translation id="1">
+        <text>to relax, to unbend, to unwind, to slacken</text>
+      </translation>
+    </entry>
+    <entry id="472">
+      <translation id="0">
+        <text>Ableger</text>
+      </translation>
+      <translation id="1">
+        <text>scion, offshoot</text>
+      </translation>
+    </entry>
   </entries>
   <lessons>
     <container>
@@ -6484,6 +6582,19 @@
       <entry id="457"/>
       <entry id="458"/>
       <entry id="459"/>
+      <entry id="460"/>
+      <entry id="461"/>
+      <entry id="462"/>
+      <entry id="463"/>
+      <entry id="464"/>
+      <entry id="465"/>
+      <entry id="466"/>
+      <entry id="467"/>
+      <entry id="468"/>
+      <entry id="469"/>
+      <entry id="470"/>
+      <entry id="471"/>
+      <entry id="472"/>
     </container>
   </lessons>
   <wordtypes>
@@ -6496,14 +6607,9 @@
       <entry id="240">
         <translation id="0"/>
       </entry>
-      <entry id="457"/>
-      <entry id="459"/>
       <container>
         <name>Masculine</name>
         <specialwordtype>noun/male</specialwordtype>
-        <entry id="147">
-          <translation id="0"/>
-        </entry>
         <entry id="5">
           <translation id="0"/>
         </entry>
@@ -6546,7 +6652,7 @@
         <entry id="38">
           <translation id="0"/>
         </entry>
-        <entry id="148">
+        <entry id="147">
           <translation id="0"/>
         </entry>
         <entry id="82">
@@ -6696,6 +6802,9 @@
         <entry id="456">
           <translation id="0"/>
         </entry>
+        <entry id="472">
+          <translation id="0"/>
+        </entry>
       </container>
       <container>
         <name>Feminine</name>
@@ -6754,7 +6863,7 @@
         <entry id="10">
           <translation id="0"/>
         </entry>
-        <entry id="149">
+        <entry id="148">
           <translation id="0"/>
         </entry>
         <entry id="68">
@@ -6877,6 +6986,18 @@
         <entry id="453">
           <translation id="0"/>
         </entry>
+        <entry id="460">
+          <translation id="0"/>
+        </entry>
+        <entry id="468">
+          <translation id="0"/>
+        </entry>
+        <entry id="469">
+          <translation id="0"/>
+        </entry>
+        <entry id="470">
+          <translation id="0"/>
+        </entry>
       </container>
       <container>
         <name>Neuter</name>
@@ -6918,6 +7039,9 @@
           <translation id="0"/>
         </entry>
         <entry id="459">
+          <translation id="0"/>
+        </entry>
+        <entry id="464">
           <translation id="0"/>
         </entry>
       </container>
@@ -7528,6 +7652,24 @@
       <entry id="358">
         <translation id="0"/>
       </entry>
+      <entry id="149">
+        <translation id="0"/>
+      </entry>
+      <entry id="461">
+        <translation id="0"/>
+      </entry>
+      <entry id="465">
+        <translation id="0"/>
+      </entry>
+      <entry id="466">
+        <translation id="0"/>
+      </entry>
+      <entry id="467">
+        <translation id="0"/>
+      </entry>
+      <entry id="471">
+        <translation id="0"/>
+      </entry>
     </container>
     <container>
       <name>Adjective</name>
@@ -7692,6 +7834,12 @@
         <translation id="0"/>
       </entry>
       <entry id="455">
+        <translation id="0"/>
+      </entry>
+      <entry id="462">
+        <translation id="0"/>
+      </entry>
+      <entry id="463">
         <translation id="0"/>
       </entry>
     </container>
