@@ -8,7 +8,7 @@
     <contact>blindglobe@gmail.com</contact>
     <license>GPLv2+ (GNU General Public License version 2 or later)</license>
     <comment>Tram words</comment>
-    <date>2010-06-28</date>
+    <date>2010-07-06</date>
     <category>Languages</category>
   </information>
   <identifiers>
@@ -3170,7 +3170,6 @@
       <translation id="0">
         <text>abbekommen</text>
         <conjugation/>
-        <conjugation/>
       </translation>
       <translation id="1">
         <text>to get some (of something)</text>
@@ -6057,6 +6056,90 @@
         <text>scion, offshoot</text>
       </translation>
     </entry>
+    <entry id="473">
+      <translation id="0">
+        <text>Datenerhebung</text>
+      </translation>
+      <translation id="1">
+        <text>data collection, data ascertainment</text>
+      </translation>
+    </entry>
+    <entry id="474">
+      <translation id="0">
+        <text>Fehler</text>
+      </translation>
+      <translation id="1">
+        <text>mistake, failing</text>
+      </translation>
+    </entry>
+    <entry id="475">
+      <translation id="0">
+        <text>erwerben</text>
+      </translation>
+      <translation id="1">
+        <text>to gain, to acquire, to win</text>
+      </translation>
+    </entry>
+    <entry id="476">
+      <translation id="0">
+        <text>Widrigkeit</text>
+      </translation>
+      <translation id="1">
+        <text>adversity, adversness, contrariety</text>
+      </translation>
+    </entry>
+    <entry id="477">
+      <translation id="0">
+        <text>Beziehung</text>
+      </translation>
+      <translation id="1">
+        <text>relationship</text>
+      </translation>
+    </entry>
+    <entry id="478">
+      <translation id="0">
+        <text>aufstellen</text>
+        <conjugation/>
+      </translation>
+      <translation id="1">
+        <text>to establish, to set up</text>
+      </translation>
+    </entry>
+    <entry id="479">
+      <translation id="0">
+        <text>aufsetzen</text>
+      </translation>
+      <translation id="1">
+        <text>to touch down, to land</text>
+      </translation>
+    </entry>
+    <entry id="480">
+      <translation id="0">
+        <text>Verschonung</text>
+      </translation>
+      <translation id="1">
+        <text>the sparing, the exemption</text>
+      </translation>
+    </entry>
+    <entry id="481">
+      <translation id="0">
+        <text>verschonen</text>
+      </translation>
+      <translation id="1">
+        <text>to reprieve, to spare, to exempt</text>
+      </translation>
+    </entry>
+    <entry id="482">
+      <translation id="0">
+        <text>verbrechen</text>
+        <conjugation>
+          <tense>past</tense>
+        </conjugation>
+      </translation>
+      <translation id="1">
+        <text>to commit a crime</text>
+      </translation>
+    </entry>
   </entries>
   <lessons>
     <container>
@@ -6595,6 +6678,20 @@
       <entry id="470"/>
       <entry id="471"/>
       <entry id="472"/>
+      <entry id="473"/>
+      <entry id="474"/>
+      <entry id="475"/>
+      <entry id="476"/>
+      <entry id="477"/>
+      <entry id="478"/>
+      <entry id="479"/>
+    </container>
+    <container>
+      <name>Lesson 017</name>
+      <inpractice>true</inpractice>
+      <entry id="480"/>
+      <entry id="481"/>
+      <entry id="482"/>
     </container>
   </lessons>
   <wordtypes>
@@ -6805,6 +6902,9 @@
         <entry id="472">
           <translation id="0"/>
         </entry>
+        <entry id="474">
+          <translation id="0"/>
+        </entry>
       </container>
       <container>
         <name>Feminine</name>
@@ -6996,6 +7096,18 @@
           <translation id="0"/>
         </entry>
         <entry id="470">
+          <translation id="0"/>
+        </entry>
+        <entry id="473">
+          <translation id="0"/>
+        </entry>
+        <entry id="476">
+          <translation id="0"/>
+        </entry>
+        <entry id="477">
+          <translation id="0"/>
+        </entry>
+        <entry id="480">
           <translation id="0"/>
         </entry>
       </container>
@@ -7668,6 +7780,21 @@
         <translation id="0"/>
       </entry>
       <entry id="471">
+        <translation id="0"/>
+      </entry>
+      <entry id="475">
+        <translation id="0"/>
+      </entry>
+      <entry id="478">
+        <translation id="0"/>
+      </entry>
+      <entry id="479">
+        <translation id="0"/>
+      </entry>
+      <entry id="481">
+        <translation id="0"/>
+      </entry>
+      <entry id="482">
         <translation id="0"/>
       </entry>
     </container>
