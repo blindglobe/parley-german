@@ -8,7 +8,7 @@
     <contact>blindglobe@gmail.com</contact>
     <license>GPLv2+ (GNU General Public License version 2 or later)</license>
     <comment>Tram words</comment>
-    <date>2010-07-06</date>
+    <date>2010-08-20</date>
     <category>Languages</category>
   </information>
   <identifiers>
@@ -6132,12 +6132,199 @@
     <entry id="482">
       <translation id="0">
         <text>verbrechen</text>
+        <conjugation/>
+      </translation>
+      <translation id="1">
+        <text>to commit a crime</text>
+      </translation>
+    </entry>
+    <entry id="483">
+      <translation id="0">
+        <text>freilassen</text>
+      </translation>
+      <translation id="1">
+        <text>to release, to let free</text>
+      </translation>
+    </entry>
+    <entry id="484">
+      <translation id="0">
+        <text>freikommen</text>
+      </translation>
+      <translation id="1">
+        <text>to be released, to be free (from), to get out</text>
+      </translation>
+    </entry>
+    <entry id="485">
+      <translation id="0">
+        <text>erhärten</text>
+      </translation>
+      <translation id="1">
+        <text>to harden</text>
+      </translation>
+    </entry>
+    <entry id="486">
+      <translation id="0">
+        <text>Niederlage</text>
+      </translation>
+      <translation id="1">
+        <text>defeat, reverse,</text>
+      </translation>
+    </entry>
+    <entry id="487">
+      <translation id="0">
+        <text>ausfallen</text>
+      </translation>
+      <translation id="1">
+        <text>to fall out, to fail, to be cancelled, to drop.</text>
+      </translation>
+    </entry>
+    <entry id="488">
+      <translation id="0">
+        <text>betreffen</text>
+      </translation>
+      <translation id="1">
+        <text>to concern, to affect</text>
+      </translation>
+    </entry>
+    <entry id="489">
+      <translation id="0">
+        <text>Zeuge (-n)</text>
+      </translation>
+      <translation id="1">
+        <text>Witness (m)</text>
+      </translation>
+    </entry>
+    <entry id="490">
+      <translation id="0">
+        <text>Zeugin (-en)</text>
+      </translation>
+      <translation id="1">
+        <text>Witness (f)</text>
+      </translation>
+    </entry>
+    <entry id="491">
+      <translation id="0">
+        <text>aussagen</text>
+      </translation>
+      <translation id="1">
+        <text>to predicate, to reveal, to testify</text>
+      </translation>
+    </entry>
+    <entry id="492">
+      <translation id="0">
+        <text>heben</text>
+      </translation>
+      <translation id="1">
+        <text>to raise, to lift</text>
+      </translation>
+    </entry>
+    <entry id="493">
+      <translation id="0">
+        <text>aufheben</text>
+        <conjugation/>
+      </translation>
+      <translation id="1">
+        <text>to annull, to reverse</text>
+      </translation>
+    </entry>
+    <entry id="494">
+      <translation id="0">
+        <text>zulegen</text>
+      </translation>
+      <translation id="1">
+        <text>to put on, to add (to)</text>
+      </translation>
+    </entry>
+    <entry id="495">
+      <translation id="0">
+        <text>Wettmachen</text>
+      </translation>
+      <translation id="1">
+        <text>retrieval</text>
+      </translation>
+    </entry>
+    <entry id="496">
+      <translation id="0">
+        <text>wettmachen</text>
+      </translation>
+      <translation id="1">
+        <text>to redeem, to offset, to make up for</text>
+      </translation>
+    </entry>
+    <entry id="497">
+      <translation id="0">
+        <text>Ausfuhr (-en)</text>
+      </translation>
+      <translation id="1">
+        <text>export</text>
+      </translation>
+    </entry>
+    <entry id="498">
+      <translation id="0">
+        <text>Einfuhr (-en)</text>
+      </translation>
+      <translation id="1">
+        <text>import</text>
+      </translation>
+    </entry>
+    <entry id="499">
+      <translation id="0">
+        <text>angesichts</text>
+      </translation>
+      <translation id="1">
+        <text>in view of, accounting for, with respect to</text>
+      </translation>
+    </entry>
+    <entry id="500">
+      <translation id="0">
+        <text>Nüchternheit</text>
+      </translation>
+      <translation id="1">
+        <text>level-headedness</text>
+      </translation>
+    </entry>
+    <entry id="501">
+      <translation id="0">
+        <text>aufzuhalten</text>
+        <conjugation/>
+      </translation>
+      <translation id="1">
+        <text>to keep out</text>
+      </translation>
+    </entry>
+    <entry id="502">
+      <translation id="0">
+        <text>wagen</text>
+      </translation>
+      <translation id="1">
+        <text>to dare, to risk</text>
+      </translation>
+    </entry>
+    <entry id="503">
+      <translation id="0">
+        <text>auffallen</text>
+      </translation>
+      <translation id="1">
+        <text>to be in evidence, to be striking</text>
+      </translation>
+    </entry>
+    <entry id="504">
+      <translation id="0">
+        <text>sprunghaft</text>
+      </translation>
+      <translation id="1">
+        <text>flighty, jumpy, erratic</text>
+      </translation>
+    </entry>
+    <entry id="505">
+      <translation id="0">
+        <text>ernüchtern</text>
         <conjugation>
           <tense>past</tense>
         </conjugation>
       </translation>
       <translation id="1">
-        <text>to commit a crime</text>
+        <text>to sober, to disenchant, (to bring to back to reality)</text>
       </translation>
     </entry>
   </entries>
@@ -6692,6 +6879,29 @@
       <entry id="480"/>
       <entry id="481"/>
       <entry id="482"/>
+      <entry id="483"/>
+      <entry id="484"/>
+      <entry id="485"/>
+      <entry id="486"/>
+      <entry id="487"/>
+      <entry id="488"/>
+      <entry id="489"/>
+      <entry id="490"/>
+      <entry id="491"/>
+      <entry id="492"/>
+      <entry id="493"/>
+      <entry id="494"/>
+      <entry id="495"/>
+      <entry id="496"/>
+      <entry id="497"/>
+      <entry id="498"/>
+      <entry id="499"/>
+      <entry id="500"/>
+      <entry id="501"/>
+      <entry id="502"/>
+      <entry id="503"/>
+      <entry id="504"/>
+      <entry id="505"/>
     </container>
   </lessons>
   <wordtypes>
@@ -6905,6 +7115,9 @@
         <entry id="474">
           <translation id="0"/>
         </entry>
+        <entry id="489">
+          <translation id="0"/>
+        </entry>
       </container>
       <container>
         <name>Feminine</name>
@@ -7110,6 +7323,21 @@
         <entry id="480">
           <translation id="0"/>
         </entry>
+        <entry id="486">
+          <translation id="0"/>
+        </entry>
+        <entry id="490">
+          <translation id="0"/>
+        </entry>
+        <entry id="497">
+          <translation id="0"/>
+        </entry>
+        <entry id="498">
+          <translation id="0"/>
+        </entry>
+        <entry id="500">
+          <translation id="0"/>
+        </entry>
       </container>
       <container>
         <name>Neuter</name>
@@ -7154,6 +7382,9 @@
           <translation id="0"/>
         </entry>
         <entry id="464">
+          <translation id="0"/>
+        </entry>
+        <entry id="495">
           <translation id="0"/>
         </entry>
       </container>
@@ -7797,6 +8028,48 @@
       <entry id="482">
         <translation id="0"/>
       </entry>
+      <entry id="483">
+        <translation id="0"/>
+      </entry>
+      <entry id="484">
+        <translation id="0"/>
+      </entry>
+      <entry id="485">
+        <translation id="0"/>
+      </entry>
+      <entry id="487">
+        <translation id="0"/>
+      </entry>
+      <entry id="488">
+        <translation id="0"/>
+      </entry>
+      <entry id="491">
+        <translation id="0"/>
+      </entry>
+      <entry id="492">
+        <translation id="0"/>
+      </entry>
+      <entry id="493">
+        <translation id="0"/>
+      </entry>
+      <entry id="494">
+        <translation id="0"/>
+      </entry>
+      <entry id="496">
+        <translation id="0"/>
+      </entry>
+      <entry id="501">
+        <translation id="0"/>
+      </entry>
+      <entry id="502">
+        <translation id="0"/>
+      </entry>
+      <entry id="503">
+        <translation id="0"/>
+      </entry>
+      <entry id="505">
+        <translation id="0"/>
+      </entry>
     </container>
     <container>
       <name>Adjective</name>
@@ -7967,6 +8240,12 @@
         <translation id="0"/>
       </entry>
       <entry id="463">
+        <translation id="0"/>
+      </entry>
+      <entry id="499">
+        <translation id="0"/>
+      </entry>
+      <entry id="504">
         <translation id="0"/>
       </entry>
     </container>
