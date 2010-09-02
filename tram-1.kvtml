@@ -8,7 +8,7 @@
     <contact>blindglobe@gmail.com</contact>
     <license>GPLv2+ (GNU General Public License version 2 or later)</license>
     <comment>Tram words</comment>
-    <date>2010-08-20</date>
+    <date>2010-09-02</date>
     <category>Languages</category>
   </information>
   <identifiers>
@@ -6319,13 +6319,82 @@
     <entry id="505">
       <translation id="0">
         <text>ernüchtern</text>
+        <conjugation/>
+      </translation>
+      <translation id="1">
+        <text>to sober, to disenchant, (to bring to back to reality)</text>
+      </translation>
+    </entry>
+    <entry id="506">
+      <translation id="0">
+        <text>zusammenfúhren</text>
+      </translation>
+      <translation id="1">
+        <text>to join, to conflate</text>
+      </translation>
+    </entry>
+    <entry id="507">
+      <translation id="0">
+        <text>Querschuss</text>
+      </translation>
+      <translation id="1">
+        <text>crossing of plans (derailing of intent)</text>
+      </translation>
+    </entry>
+    <entry id="508">
+      <translation id="0">
+        <text>Durchbruch (ü, -e)</text>
+      </translation>
+      <translation id="1">
+        <text>breakthrough</text>
+      </translation>
+    </entry>
+    <entry id="509">
+      <translation id="0">
+        <text>Vordringen</text>
+      </translation>
+      <translation id="1">
+        <text>progress</text>
+      </translation>
+    </entry>
+    <entry id="510">
+      <translation id="0">
+        <text>verstecken</text>
         <conjugation>
           <tense>past</tense>
         </conjugation>
       </translation>
       <translation id="1">
-        <text>to sober, to disenchant, (to bring to back to reality)</text>
+        <text>to hide, to cache</text>
       </translation>
+    </entry>
+    <entry id="511">
+      <translation id="0">
+        <text>sich verstecken</text>
+      </translation>
+      <translation id="1">
+        <text>to dodge, to hole-up</text>
+      </translation>
+    </entry>
+    <entry id="512">
+      <translation id="0">
+        <text>durchgreifen</text>
+      </translation>
+      <translation id="1">
+        <text>to take drastic measures</text>
+      </translation>
+    </entry>
+    <entry id="513">
+      <translation id="0">
+        <text>riesig, riesigster, am riesigsten</text>
+      </translation>
+      <translation id="1">
+        <text>huge, large</text>
+      </translation>
+    </entry>
+    <entry id="514">
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
   </entries>
   <lessons>
@@ -6902,6 +6971,19 @@
       <entry id="503"/>
       <entry id="504"/>
       <entry id="505"/>
+      <entry id="506"/>
+      <entry id="507"/>
+      <entry id="508"/>
+      <entry id="509"/>
+    </container>
+    <container>
+      <name>Lesson 018</name>
+      <inpractice>true</inpractice>
+      <entry id="510"/>
+      <entry id="511"/>
+      <entry id="512"/>
+      <entry id="513"/>
+      <entry id="514"/>
     </container>
   </lessons>
   <wordtypes>
@@ -6914,6 +6996,7 @@
       <entry id="240">
         <translation id="0"/>
       </entry>
+      <entry id="509"/>
       <container>
         <name>Masculine</name>
         <specialwordtype>noun/male</specialwordtype>
@@ -7116,6 +7199,12 @@
           <translation id="0"/>
         </entry>
         <entry id="489">
+          <translation id="0"/>
+        </entry>
+        <entry id="507">
+          <translation id="0"/>
+        </entry>
+        <entry id="508">
           <translation id="0"/>
         </entry>
       </container>
@@ -7385,6 +7474,9 @@
           <translation id="0"/>
         </entry>
         <entry id="495">
+          <translation id="0"/>
+        </entry>
+        <entry id="509">
           <translation id="0"/>
         </entry>
       </container>
@@ -8070,6 +8162,18 @@
       <entry id="505">
         <translation id="0"/>
       </entry>
+      <entry id="506">
+        <translation id="0"/>
+      </entry>
+      <entry id="510">
+        <translation id="0"/>
+      </entry>
+      <entry id="511">
+        <translation id="0"/>
+      </entry>
+      <entry id="512">
+        <translation id="0"/>
+      </entry>
     </container>
     <container>
       <name>Adjective</name>
@@ -8246,6 +8350,12 @@
         <translation id="0"/>
       </entry>
       <entry id="504">
+        <translation id="0"/>
+      </entry>
+      <entry id="513">
+        <translation id="0"/>
+      </entry>
+      <entry id="513">
         <translation id="0"/>
       </entry>
     </container>
