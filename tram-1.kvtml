@@ -8,7 +8,7 @@
     <contact>blindglobe@gmail.com</contact>
     <license>GPLv2+ (GNU General Public License version 2 or later)</license>
     <comment>Tram words</comment>
-    <date>2010-09-13</date>
+    <date>2010-09-17</date>
     <category>Languages</category>
   </information>
   <identifiers>
@@ -4778,9 +4778,7 @@
       <translation id="0">
         <text>aufgeben</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1">
         <text>to give up, to mail, to send</text>
@@ -4806,9 +4804,7 @@
       <translation id="0">
         <text>aufhören</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1">
         <text>to quit, to break off</text>
@@ -4840,9 +4836,7 @@
       <translation id="0">
         <text>fanden</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1">
         <text>to find (as in to discover)</text>
@@ -4888,9 +4882,7 @@
       <translation id="0">
         <text>betrachten</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1">
         <text>to look up, to view, to contemplate</text>
@@ -4905,9 +4897,7 @@
     <entry id="341">
       <translation id="0">
         <text>prägen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1">
         <text>to coin, to emboss, to mould.</text>
@@ -4933,9 +4923,7 @@
       <translation id="0">
         <text>aufkommen</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1">
         <text>to arise, to spring up</text>
@@ -4967,9 +4955,7 @@
       <translation id="0">
         <text>beaufsichtigen</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1">
         <text>to control, to oversee, to supervise, to superintend</text>
@@ -5022,9 +5008,7 @@
     <entry id="352">
       <translation id="0">
         <text>gefiel</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1">
         <text>to have felt (to feel, past)</text>
@@ -5034,9 +5018,7 @@
       <translation id="0">
         <text>auflösen</text>
         <conjugation/>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1">
         <text>to dismiss, to liquidate, to dissolve, to resolve (into)</text>
@@ -6615,9 +6597,7 @@
     <entry id="500">
       <translation id="0">
         <text>wagen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1">
         <text>to dare, to risk</text>
@@ -6660,9 +6640,7 @@
     <entry id="505">
       <translation id="0">
         <text>besitzen</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1">
         <text>to own</text>
@@ -6679,9 +6657,7 @@
     <entry id="507">
       <translation id="0">
         <text>erachten</text>
-        <conjugation>
-          <tense>past</tense>
-        </conjugation>
+        <conjugation/>
       </translation>
       <translation id="1">
         <text>to consider, to deem</text>
@@ -6698,13 +6674,131 @@
     <entry id="509">
       <translation id="0">
         <text>verachten</text>
+        <conjugation/>
+      </translation>
+      <translation id="1">
+        <text>to disdain, to despise</text>
+      </translation>
+    </entry>
+    <entry id="510">
+      <translation id="0">
+        <text>ähnlich</text>
+      </translation>
+      <translation id="1">
+        <text>similar, similarity</text>
+      </translation>
+    </entry>
+    <entry id="511">
+      <translation id="0">
+        <text>Ahnung</text>
+      </translation>
+      <translation id="1">
+        <text>intuitiveness, apprehension, notion</text>
+      </translation>
+    </entry>
+    <entry id="512">
+      <translation id="0">
+        <text>Ähnlichkeit</text>
+      </translation>
+      <translation id="1">
+        <text>likeness, similarity, resemblance</text>
+      </translation>
+    </entry>
+    <entry id="513">
+      <translation id="0">
+        <text>Vorahnung</text>
+      </translation>
+      <translation id="1">
+        <text>hunch</text>
+      </translation>
+    </entry>
+    <entry id="514">
+      <translation id="0">
+        <text>Wiedervereinigung</text>
+      </translation>
+      <translation id="1">
+        <text>reunification</text>
+      </translation>
+    </entry>
+    <entry id="515">
+      <translation id="0">
+        <text>sich ergeben</text>
         <conjugation>
           <tense>past</tense>
         </conjugation>
       </translation>
       <translation id="1">
-        <text>to disdain, to despise</text>
+        <text>to follow, to submit sth to, to arise (from)</text>
       </translation>
+    </entry>
+    <entry id="516">
+      <translation id="0">
+        <text>ergeben</text>
+        <conjugation>
+          <tense>past</tense>
+        </conjugation>
+      </translation>
+      <translation id="1">
+        <text>to result in</text>
+      </translation>
+    </entry>
+    <entry id="517">
+      <translation id="0">
+        <text>ergeben</text>
+      </translation>
+      <translation id="1">
+        <text>addicted, staunch, acquiescently</text>
+      </translation>
+    </entry>
+    <entry id="518">
+      <translation id="0">
+        <text>loben</text>
+        <conjugation>
+          <tense>past</tense>
+        </conjugation>
+      </translation>
+      <translation id="1">
+        <text>to laud, to praise, to applaud</text>
+      </translation>
+    </entry>
+    <entry id="519">
+      <translation id="0">
+        <text>Zwischenbericht (-e)</text>
+      </translation>
+      <translation id="1">
+        <text>interim report</text>
+      </translation>
+    </entry>
+    <entry id="520">
+      <translation id="0">
+        <text>Zeichnen</text>
+      </translation>
+      <translation id="1">
+        <text>drawing, sketch</text>
+      </translation>
+    </entry>
+    <entry id="521">
+      <translation id="0">
+        <text>Zeichen</text>
+      </translation>
+      <translation id="1">
+        <text>signal, icon, token, figure</text>
+      </translation>
+    </entry>
+    <entry id="522">
+      <translation id="0">
+        <text>zwar</text>
+        <comment>difficult word to understand</comment>
+      </translation>
+      <translation id="1">
+        <text>happens to, actually,</text>
+      </translation>
+    </entry>
+    <entry id="523">
+      <translation id="0">
+        <text>zwang</text>
+      </translation>
+      <translation id="1"/>
     </entry>
   </entries>
   <lessons>
@@ -7276,6 +7370,20 @@
     </container>
     <container>
       <name>Lesson 018</name>
+      <entry id="510"/>
+      <entry id="511"/>
+      <entry id="512"/>
+      <entry id="513"/>
+      <entry id="514"/>
+      <entry id="515"/>
+      <entry id="516"/>
+      <entry id="517"/>
+      <entry id="518"/>
+      <entry id="519"/>
+      <entry id="520"/>
+      <entry id="521"/>
+      <entry id="522"/>
+      <entry id="523"/>
     </container>
   </lessons>
   <wordtypes>
@@ -7291,6 +7399,7 @@
       <entry id="346">
         <translation id="0"/>
       </entry>
+      <entry id="520"/>
       <container>
         <name>Masculine</name>
         <specialwordtype>noun/male</specialwordtype>
@@ -7520,6 +7629,9 @@
           <translation id="0"/>
         </entry>
         <entry id="449">
+          <translation id="0"/>
+        </entry>
+        <entry id="519">
           <translation id="0"/>
         </entry>
       </container>
@@ -7763,6 +7875,21 @@
         <entry id="419">
           <translation id="0"/>
         </entry>
+        <entry id="512">
+          <translation id="0"/>
+        </entry>
+        <entry id="511">
+          <translation id="0"/>
+        </entry>
+        <entry id="513">
+          <translation id="0"/>
+        </entry>
+        <entry id="514">
+          <translation id="0"/>
+        </entry>
+        <entry id="514">
+          <translation id="0"/>
+        </entry>
       </container>
       <container>
         <name>Neuter</name>
@@ -7813,6 +7940,12 @@
           <translation id="0"/>
         </entry>
         <entry id="504">
+          <translation id="0"/>
+        </entry>
+        <entry id="520">
+          <translation id="0"/>
+        </entry>
+        <entry id="521">
           <translation id="0"/>
         </entry>
       </container>
@@ -8540,6 +8673,15 @@
       <entry id="509">
         <translation id="0"/>
       </entry>
+      <entry id="515">
+        <translation id="0"/>
+      </entry>
+      <entry id="516">
+        <translation id="0"/>
+      </entry>
+      <entry id="518">
+        <translation id="0"/>
+      </entry>
     </container>
     <container>
       <name>Adjective</name>
@@ -8766,6 +8908,12 @@
       <entry id="508">
         <translation id="0"/>
       </entry>
+      <entry id="510">
+        <translation id="0"/>
+      </entry>
+      <entry id="517">
+        <translation id="0"/>
+      </entry>
     </container>
     <container>
       <name>Adverb</name>
@@ -8834,6 +8982,9 @@
         <translation id="0"/>
       </entry>
       <entry id="61">
+        <translation id="0"/>
+      </entry>
+      <entry id="522">
         <translation id="0"/>
       </entry>
     </container>
